@@ -1,0 +1,30 @@
+Jiman:
+  name   : "Jiman Ryu by Ryu Clinic"
+  avatar : "/assets/images/bio-photo-rc.jpg"
+  bio    : "R.Ac., R.TCM.P., Ryu Clinic Founder"
+  location: "Port Moody, BC"
+  links:
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://ryu.clinic"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ryuclinic"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/ryu.clinic"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ryu.clinic"
+
+
+Oliviah:
+  name   : "Oliviah Kim"
+  avatar : "/assets/images/oliviah.jpg"
+  bio    : "R.Ac., RMT."
+  location: "Burnaby, BC"
+  links:
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://ryu.clinic"
+

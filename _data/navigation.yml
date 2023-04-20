@@ -1,9 +1,49 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+    #  - title: "Posts"
+    #    url: /posts/
+  - title: "Categories"
+    url: /categories/
+    #  - title: "Treatment"
+    #    url: /treatment/
+  - title: "Contact"
+    url: /contact/
+  - title: "Online Booking"
+    url: "https://ryuclinic.janeapp.com"
+
+about:
+  - title: About Our Clinic
+    url: /about/
+    #image: 350x250
+    #image_alt: "Image"
+    #text: "Some text here."
+    children:
+      - title: "Our Teams"
+        url: /about/teams/
+      - title: "Insurance Coverage"
+        url: /about/insurance-coverage/
+      - title: "Service Hours & Fees"
+        url: /about/service-hours-fees/
+      - title: "Testimonials"
+        url: /about/testimonials/
+      - title: "FAQ"
+        url: /about/faq/
+        #  - title: Contact
+        #    url: /contact/
+        #    children:
+        #      - title: "Online Booking"
+        #        url: https://ryuclinic.janeapp.com
+        #      - title: "604.469.2000"
+        #        url: tel:6044692000
+        #      - title: "info@ryu.clinic"
+        #        url: mailto:info@ryu.clinic
+
+treatment:
+  - title: How We Treat
+    url: /treatment/
+    children:
+      - title: ""
+        url: /treatment/acupuncture/
+      - tltle: ""
+        url: /treatment/herbalmedicine/
