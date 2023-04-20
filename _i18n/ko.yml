@@ -1,0 +1,11 @@
+global:
+  english: Eng
+  korean: Kor
+langs:
+  en: English
+  ko: Korean
+pages:
+  home: Home
+titles:
+  pagenation: Pagenation
+
