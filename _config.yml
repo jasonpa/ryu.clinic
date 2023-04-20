@@ -27,8 +27,8 @@ facebook_username: ryu.clinic
 github_username: jasonpa
 minimal_mistakes_skin: mint
 search: true
-# url: "https://ryu.clinic"
-# baseurl: #"/"
+url: "https://ryu.clinic"
+baseurl: #"/"
 # repository: "jasonpa/rc.v2" #site repository
 # teaser: #/assets/images/500x300.png #site default teaser image
 # #logo: "/assets/images/LOGO.png" #88x88.png, site masthead logo
