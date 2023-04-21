@@ -80,9 +80,9 @@ author:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://ryu.clinic"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ryuclinic"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/ryuclinic"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/ryu.clinic"
@@ -93,9 +93,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ryuclinic"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/ryuclinic"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ryu.clinic"
@@ -136,8 +136,8 @@ tag_archive:
 
 # Social Sharing
 #
-twitter:
-  username               : ryuclinic
+# twitter:
+#   username               : ryuclinic
 facebook:
   username               : ryu.clinic
   app_id                 :
