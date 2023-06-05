@@ -7,7 +7,7 @@ tags:
   - News
 ---
 
-The Clinic Relocation Pre Notice 
+## The Clinic Relocation Pre Notice 
 
 It has already been five years since we moved to Port Moody. There is an affinity not only with people but also with places and spaces. Although we appreciate the familiarity that comes from being in a place for a long time, we also appreciate the dynamic aspect that a new place offers. As immigrants, we might have a common genetic predisposition for enjoying the dynamic aspect.
 
@@ -21,7 +21,7 @@ Founder of Ryu Clinic, Jiman Ryu.
 
 ————
 
-클리닉 이전 사전 공지
+## 클리닉 이전 사전 공지
 
 어느덧 포트무디로 이전한지 만 5년째 되어갑니다. 사람과의 관계 뿐만 아니라 장소 같은 공간과도 인연이라는게 있습니다. 오랜 장소에서 주는 친밀감도 좋아하지만 새로운 장소가 주는 다이내믹한 면 또한 좋아합니다. 이민자인 우리는 어쩌면 후자와 같은 다이내믹한 면을 좋아하는 공통 유전자를 가지고 있는 지도 모르겠습니다.
 
