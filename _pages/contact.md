@@ -7,8 +7,11 @@ header:
 sidebar:
   nav: "about"
 ---
+# We are moving shortly
 
-{% include figure image_path="/assets/images/suterbrook06.jpg" alt="" caption="One block North of the Inlet Centre Skytrain Station." %}
+Our new address will be **2617 Saint Johns Street in Port Moody**. We start working temporarily on the 2nd floor, within the **Advanced Healing Arts**, on Wednesday, July 19, until our downstairs unit is ready.
+
+<!-- {% include figure image_path="/assets/images/suterbrook06.jpg" alt="" caption="One block North of the Inlet Centre Skytrain Station." %} -->
 
 # How to get Ryu Clinic
 
