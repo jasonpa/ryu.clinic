@@ -41,11 +41,11 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row5:
-  - image_path: /assets/images/suterbrook06.jpg
-    image_caption: "North office building"
-    title: Located in Suter Brook Village in Port Moody.
-    excerpt: "One block North of the Inlet Centre Skytrain Station. Free 90 min underground parking available."
-    url: /contact
+  # - image_path: /assets/images/suterbrook06.jpg
+    # image_caption: "North office building"
+    title: We are moving.
+    excerpt: "From Jul.19th, see you at the new location. 2617 St Johns St. Port Moody. Check our recent post."
+    url: /news/ryu-clinic-is-moving/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
