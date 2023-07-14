@@ -41,7 +41,7 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row5:
-  # - image_path: /assets/images/suterbrook06.jpg
+  - image_path:
     # image_caption: "North office building"
     title: We are moving.
     excerpt: "From Jul.19th, see you at the new location. 2617 St Johns St. Port Moody. Check our recent post."
