@@ -43,8 +43,8 @@ feature_row1:
 feature_row5:
   - image_path:
     # image_caption: "North office building"
-    title: We are moving.
-    excerpt: "From Jul.19th, see you at the new location. 2617 St Johns St. Port Moody. Check our recent post."
+    title: NEW LOCATION
+    excerpt: "Our new address is 2617 St Johns St. Port Moody. Check our recent post."
     url: /news/ryu-clinic-is-moving/
     btn_label: "Read More"
     btn_class: "btn--primary"
