@@ -9,7 +9,7 @@ sidebar:
 
 | Day                      | Time             |
 |--------------------------|------------------|
-| Tuesday to Saturday      | 10:00am ~ 7:00pm |
+| Tuesday to Saturday      | 10:00am ~ 6:00pm |
 | Sunday, Monday & Holiday | Closed           |
 
 If you are not available to come during the regular hours, please contact us. With 24 hours’ notice, we can arrange the time during the off-hours.
@@ -21,8 +21,8 @@ If you are not available to come during the regular hours, please contact us. Wi
 |------------------------------------------------|:------:|-------|
 | **Initial Visit - Evaluation & Treatment**[^1] |  60m   | $130  |
 | **Subsequent Visit**[^2]                       |  40m   | $110  |
-| **Subsequent Visit - Combo**[^4]               |  45m   | $120  |
-| **Subsequent Visit - Combo Ext**[^4]           |  60m   | $130  |
+| **Subsequent Visit - Combo Herbs**.            |  50m   | $130  |
+| **Subsequent Visit - Combos**[^4]              |45m~90m|$120~$200|
 
 ### Registered Massage Therapy (RMT)
 
@@ -31,7 +31,7 @@ If you are not available to come during the regular hours, please contact us. Wi
 | **Initial Visit - Evaluation & Treatment** | 60m      | $130 +GST |
 | **Subsequent Visit 60**                    | 60m      | $130 +GST |
 | **Subsequent Visit 45**                    | 45m      | $110 +GST |
-| **Subsequent Visit 30**                    | 30m      | $83  +GST |
+| **Subsequent Visit 30**                    | 30m      | $85  +GST |
 
 ### ICBC MVA(Motor Vihecle Accidient) Treatment ###
 
@@ -39,6 +39,8 @@ This treatment is specially designed for MVA(Motor Vehicle Accident) injuries co
 
   - **Please bring your claim number.**
   - **Pre-authorized number of treatments is 12 within 12 weeks of the accident causing the injury.**
+  - **If it is passed 12 weeks already, please contact us first.**
+  - **After pre-authorized period passed or finished preapproval sessions, you have to wait until getting extension approval from ICBC.**
 
 |Service|Length|Price|
 |:---|:---:|:---|
@@ -75,5 +77,5 @@ Visa, Master, Debit, Cash & Cheque
 [^6]: After the consultation, if you have acupuncture treatment this fee will be $30.
 
 {% comment %}
-[^1]: **Community Style Acupuncture** This specially designed community-style acupuncture treatment use a sliding scale so that you are able to come as often as you need. We charge $30-50 per community-style treatment. This sliding scale depends on a combination of treatments. Plus a one-time 15$ initial documenting fee.
+<!-- [^1]: **Community Style Acupuncture** This specially designed community-style acupuncture treatment use a sliding scale so that you are able to come as often as you need. We charge $30-50 per community-style treatment. This sliding scale depends on a combination of treatments. Plus a one-time 15$ initial documenting fee. -->
 {% endcomment %}
