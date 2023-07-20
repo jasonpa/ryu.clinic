@@ -76,7 +76,7 @@ He never stops studying for his patients. He is passionate about studying herbal
 
 Oliviah Kim is a registered acupuncturist (R.A.) with CTCMA and a Registered Massage Therapist (RMT) with CMTBC. She is passionate about deep tissue massage to treat body pain and to release stress. She uses massage techniques learned from both disciplines. They include Tui-Na massage therapy, cupping, moxibustion, aromatherapy, and lymph drainage.
 
-# Jasmine(Mi Kyung) Bae, R.Ac.
+<!-- # Jasmine(Mi Kyung) Bae, R.Ac.
 
 ![Jasmine](/assets/images/jasmine.jpg)
 
@@ -96,4 +96,4 @@ Jasmine has been working as a registered acupuncturist since 2007. She has been 
 {:.no_toc}
 
 |Since 2008 CTCMA Registered Acupuncturist (R.Ac)
-|Since 2013 Member of the British Columbia Association of TCM & Acupuncture Practitioners (ATCMA)
+|Since 2013 Member of the British Columbia Association of TCM & Acupuncture Practitioners (ATCMA) -->

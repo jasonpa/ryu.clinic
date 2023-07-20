@@ -9,7 +9,8 @@ sidebar:
 ---
 # We are moved
 
-Our new address will be **2617 Saint Johns Street in Port Moody**. We start working temporarily on the 2nd floor, within the **Advanced Healing Arts**, on Wednesday, July 19, until our downstairs unit is ready.
+  - Our new address is **2617 Saint Johns Street in Port Moody**. 
+  - We will start working temporarily on the 2nd floor, within the **Advanced Healing Arts**, until our downstairs unit is ready.
 
 <!-- {% include figure image_path="/assets/images/suterbrook06.jpg" alt="" caption="One block North of the Inlet Centre Skytrain Station." %} -->
 
@@ -22,7 +23,7 @@ Our new address will be **2617 Saint Johns Street in Port Moody**. We start work
 
 ## By Driving
 
-- Free parking spots at the rear and on street. 
+Free parking spots at the rear and on the street. 
 
 <!-- We have **60 min free underground parking**. **All vehicles are required to be registered when you park[^1].** There is free underground parking off Morrissey Road. It's all connected to Thrifty food store parkade. You can come up directly from P1(Liquor store parking area) with elevator. [Directions](https://goo.gl/maps/54ozHXfEGis)
 
