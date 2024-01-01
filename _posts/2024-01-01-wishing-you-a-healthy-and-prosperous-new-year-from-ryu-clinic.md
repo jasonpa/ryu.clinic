@@ -21,3 +21,5 @@ We look forward to continuing this journey with you in 2024. Stay healthy, stay 
 Warm regards,
 
 Team Ryu Clinic.
+
+![Poster](/assets/images/2024-Blue-Dragon.jpeg)
