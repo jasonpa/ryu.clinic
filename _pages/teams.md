@@ -48,6 +48,7 @@ He never stops studying for his patients. He is passionate about studying herbal
 
 {:.no_toc}
 
+|**Since 2024** Member of NAANA(Neuromuscular Acupotomy Association Of North America)
 |**Since 2023** Member of AAAMA(American Acupuncture & Alternative Medicine Association)
 |**Since 2023** Member of KOMAA(Korean Oriental Medicine and Acupuncturist Association of BC)
 |**Since 2018** Member of [TEM](https://temist.com)(Traditional Eastern Medicine), TEMFI(TEM Formula Institution)
