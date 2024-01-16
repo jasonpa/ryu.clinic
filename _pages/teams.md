@@ -12,7 +12,7 @@ feature_row:
 
 # Jiman Ryu, R.TCM.P., R.Ac.
 
-![Jiman Ryu](/assets/images/IMG_4657.jpg)
+![Jiman Ryu](/assets/images/IMG_4657.jpeg)
 
 Jiman Ryu is a registered acupuncturist and a registered Traditional Chinese Medicine (TCM) practitioner in British Columbia (R.TCM.P., R.Ac., CTCMA). He is a graduate of PCU College of Holistic Medicine in Burnaby. Jiman has two Bachelor’s degrees. He obtained a BS in oriental medicine and healthcare from Wonkwang Digital University and BSc in computer science from Hanyang University, South Korea.
 
