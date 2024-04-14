@@ -30,7 +30,7 @@ If you are not available to come during the regular hours, please contact us. Wi
 | ------------------------------------------ | :------: | ------    |
 | **Initial Visit - Evaluation & Treatment** | 60m      | $130 +GST |
 | **Subsequent Visit 60**                    | 60m      | $130 +GST |
-| **Subsequent Visit 45**                    | 45m      | $110 +GST |
+| **Subsequent Visit 45**                    | 45m      | $120 +GST |
 | **Subsequent Visit 30**                    | 30m      | $85  +GST |
 
 ### ICBC MVA(Motor Vihecle Accidient) Treatment ###
@@ -44,10 +44,10 @@ This treatment is specially designed for MVA(Motor Vehicle Accident) injuries co
 
 |Service|Length|Price|
 |:---|:---:|:---|
-| **Initial Evaluation & Treatment** | 50m | Covered by ICBC |
-| **Subsequent Visit**               | 40m | Covered by ICBC |
-| **Initial RMT Massage Therapy**    | 45m | Covered by ICBC |
-| **Subsequent RMT Massage Therapy** | 30m | Covered by ICBC |
+| **Initial Evaluation & Treatment** | 50m | Covered by ICBC, No User Fee |
+| **Subsequent Visit**               | 40m | Covered by ICBC, No User Fee |
+| **Initial RMT Massage Therapy**    | 45m | Covered by ICBC, No User Fee |
+| **Subsequent RMT Massage Therapy** | 45m | Covered by ICBC, $27.3 User Fee |
 
 ### TEM(Traditional Esatern Medicine) Natural Herbal Medicine
 
