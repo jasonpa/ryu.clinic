@@ -18,7 +18,7 @@ sidebar:
 
 |--|--|
 |Address| [2617 St Johns Street, Port Moody, BC, V3H 2B5](https://maps.google.com/?q=203A%20-%20130%20Brew%20St.%20Port%20Moody,%20BC,%20V3H%200E3)|
-|Phone|604.469.2000|
+|Phone & Fax|604.469.2000|
 |Email|info@ryu.clinic|
 
 ## By Driving
