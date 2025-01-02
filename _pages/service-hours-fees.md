@@ -19,10 +19,10 @@ If you are not available to come during the regular hours, please contact us. Wi
 
 | Acupuncture Service                            | Length | Price |
 |------------------------------------------------|:------:|-------|
-| **Initial Visit - Evaluation & Treatment**[^1] |  60m   | $130  |
+| **Initial Visit - Evaluation & Treatment**[^1] |  60m   | $140  |
 | **Subsequent Visit**[^2]                       |  40m   | $110  |
-| **Subsequent Visit - Combo Herbs**.            |  50m   | $130  |
-| **Subsequent Visit - Combos**[^4]              |45m~90m|$120~$200|
+| **Subsequent Visit & 3-Day Herbal Medicine**   |  50m   | $140  |
+| **Subsequent Visit & 7-Day Herbal Medicine**   |  50m   | $200  |
 
 ### Registered Massage Therapy (RMT)
 
