@@ -22,7 +22,7 @@ If you are not available to come during the regular hours, please contact us. Wi
 | **Initial Visit - Evaluation & Treatment**[^1] |  60m   | $140  |
 | **Subsequent Visit**[^2]                       |  40m   | $110  |
 | **Subsequent Visit & 3-Day Herbal Medicine**   |  50m   | $140  |
-| **Subsequent Visit & 7-Day Herbal Medicine**   |  50m   | $200  |
+| **Subsequent Visit & 7-Day Herbal Medicine**   |  50m   | $180  |
 
 ### Registered Massage Therapy (RMT)
 
