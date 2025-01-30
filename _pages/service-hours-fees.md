@@ -28,7 +28,7 @@ If you are not available to come during the regular hours, please contact us. Wi
 
 | RMT Service                                | Length   | Price     |
 | ------------------------------------------ | :------: | ------    |
-| **Initial Visit - Evaluation & Treatment** | 60m      | $130 +GST |
+| **Initial Visit - Evaluation & Treatment** | 60m      | $135 +GST |
 | **Subsequent Visit 60**                    | 60m      | $130 +GST |
 | **Subsequent Visit 45**                    | 45m      | $120 +GST |
 | **Subsequent Visit 30**                    | 30m      | $85  +GST |
