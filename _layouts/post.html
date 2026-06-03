@@ -1,77 +1,38 @@
 ---
 layout: default
 ---
-<!-- Feature Header -->
-<header class="relative py-32 md:py-48 overflow-hidden bg-clinic-dark">
+<div class="page">
+
+  <header class="subpage-hero">
+    <p class="subpage-eyebrow">
+      {% if page.categories %}{{ page.categories | first }}{% endif %}
+      {% if page.categories and page.date %} &middot; {% endif %}
+      {% if page.date %}{{ page.date | date: "%B %d, %Y" }}{% endif %}
+    </p>
+
+    <h1>{{ page.title }}</h1>
+
     {% if page.header.overlay_image %}
-    <div class="absolute inset-0 z-0">
-        <img src="{{ page.header.overlay_image }}" alt="{{ page.title }}" class="w-full h-full object-cover">
-        <div
-            class="absolute inset-0 bg-linear-to-b from-clinic-dark/80 via-clinic-dark/60 to-clinic-dark/95 backdrop-blur-[2px]">
-        </div>
-    </div>
-    {% else %}
-    <div class="absolute inset-0 z-0 bg-linear-to-br from-clinic-dark via-clinic-dark/90 to-clinic-teal/20"></div>
+    <figure class="subpage-cover">
+      <img src="{{ page.header.overlay_image }}" alt="{{ page.title }}">
+    </figure>
+    {% elsif page.cover %}
+    <figure class="subpage-cover">
+      <img src="{{ page.cover }}" alt="{{ page.title }}">
+    </figure>
     {% endif %}
+  </header>
 
-    <div class="container mx-auto px-6 relative z-10 max-w-5xl">
-        <div class="flex flex-col items-center text-center">
-            <div class="flex items-center gap-4 mb-8 animate-fade-in">
-                {% if page.categories %}
-                <span
-                    class="px-4 py-1.5 bg-teal-500/20 backdrop-blur-md border border-teal-500/30 text-teal-300 text-xs font-bold rounded-full uppercase tracking-widest">
-                    {{ page.categories | first }}
-                </span>
-                {% endif %}
-                {% if page.date %}
-                <time datetime="{{ page.date | date_to_xmlschema }}"
-                    class="text-gray-400 text-sm font-medium tracking-wide">
-                    {{ page.date | date: "%B %d, %Y" }}
-                </time>
-                {% endif %}
-            </div>
+  <article class="prose-content">
+    {{ content }}
 
-            <h1
-                class="text-4xl md:text-6xl font-extrabold text-white mb-8 tracking-tight leading-tight animate-fade-in-up">
-                {{ page.title }}
-            </h1>
-
-            <div
-                class="h-1.5 w-24 bg-linear-to-r from-clinic-teal to-clinic-blue rounded-full animate-fade-in delay-200">
-            </div>
-        </div>
+    {% if page.tags.size > 0 %}
+    <div class="post-tags">
+      {% for tag in page.tags %}
+      <span class="post-tag">#{{ tag }}</span>
+      {% endfor %}
     </div>
-</header>
+    {% endif %}
+  </article>
 
-<!-- Article Content -->
-<article class="relative -mt-20 z-20 container mx-auto px-6 pb-32">
-    <div class="max-w-4xl mx-auto">
-        <div class="glass-card !bg-white !p-10 md:!p-20 shadow-2xl">
-            <div class="prose prose-xl prose-slate max-w-none 
-                        prose-headings:text-clinic-dark prose-headings:font-bold prose-headings:tracking-tight
-                        prose-a:text-clinic-teal prose-a:no-underline hover:prose-a:underline
-                        prose-blockquote:border-l-clinic-teal prose-blockquote:bg-slate-50 prose-blockquote:py-2 prose-blockquote:px-6 prose-blockquote:rounded-r-xl
-                        prose-img:rounded-3xl prose-img:shadow-xl">
-                {{ content }}
-            </div>
-
-            <div class="mt-20 pt-12 border-t border-slate-100">
-                <div class="flex flex-col md:flex-row justify-between items-center gap-8">
-                    <div class="flex flex-wrap gap-3">
-                        {% for tag in page.tags %}
-                        <span
-                            class="px-4 py-2 bg-slate-50 text-slate-500 text-sm font-bold rounded-xl border border-slate-100 hover:bg-white hover:border-clinic-teal/30 hover:text-clinic-teal transition-all cursor-default">
-                            #{{ tag }}
-                        </span>
-                        {% endfor %}
-                    </div>
-
-                    <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})"
-                        class="w-12 h-12 rounded-full border border-slate-200 flex items-center justify-center text-slate-400 hover:bg-clinic-teal hover:text-white hover:border-clinic-teal transition-all shadow-sm">
-                        <i class="fas fa-arrow-up"></i>
-                    </button>
-                </div>
-            </div>
-        </div>
-    </div>
-</article>
+</div>

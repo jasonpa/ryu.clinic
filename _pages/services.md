@@ -4,51 +4,69 @@ title: Clinical Services
 permalink: /services/
 ---
 
-<section class="relative py-32 overflow-hidden">
-    <div class="absolute inset-0 z-0">
-        <img src="/assets/images/hero_tcm_tech_blend.png" alt="Clinical Services" class="w-full h-full object-cover">
-        <div class="absolute inset-0 bg-linear-to-b from-clinic-dark/80 via-clinic-dark/70 to-clinic-dark/90 backdrop-blur-sm"></div>
-    </div>
-    <div class="container mx-auto px-6 relative z-10 text-center">
-        <span class="text-teal-400 font-bold tracking-[0.3em] uppercase text-xs mb-6 block animate-fade-in">Precision Medicine</span>
-        <h1 class="text-5xl md:text-7xl font-extrabold text-white mb-8 tracking-tight animate-fade-in-up">Clinical Services</h1>
-        <p class="text-xl md:text-2xl max-w-2xl mx-auto text-gray-300 font-light leading-relaxed animate-fade-in-up delay-100">
-            Comprehensive care merging Ancient Wisdom, <span class="text-white font-medium">Acupuncture</span>, and <span class="text-white font-medium">Modern Data Analytics</span>.
-        </p>
-    </div>
-</section>
+<div class="page">
 
-<section class="py-32 section-gradient">
-    <div class="container mx-auto px-6">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
-            {% for service in site.data.services %}
-            <div class="glass-card group flex flex-col md:flex-row gap-8 hover:border-clinic-teal/30 transition-all duration-500">
-                <div class="w-16 h-16 shrink-0 bg-teal-50 text-clinic-teal rounded-2xl flex items-center justify-center text-3xl group-hover:bg-clinic-teal group-hover:text-white transition-all duration-500 shadow-inner">
-                    <i class="{{ service.icon }}"></i>
-                </div>
-                <div>
-                    <h3 class="text-2xl font-bold text-clinic-dark mb-4 group-hover:text-clinic-teal transition-colors">{{ service.name }}</h3>
-                    <p class="text-gray-600 leading-relaxed mb-6 text-lg">{{ service.description }}</p>
-                    <div class="flex items-center text-clinic-blue font-bold text-sm tracking-wide">
-                        Learn More <i class="fas fa-chevron-right ml-2 group-hover:translate-x-1 transition-transform"></i>
-                    </div>
-                </div>
-            </div>
-            {% endfor %}
+  <header class="subpage-hero">
+    <p class="subpage-eyebrow">What we treat</p>
+    <h1>Clinical Services</h1>
+    <p class="subpage-lede">Acupuncture, herbal medicine, and integrative care — grounded in classical theory and evidence-informed practice.</p>
+  </header>
+
+  <section style="margin-bottom:56px;">
+    <div class="services-grid">
+      {% for service in site.data.services %}
+      <div class="service-card">
+        <div class="service-icon">
+          <i class="{{ service.icon }}"></i>
         </div>
-        
-        <div class="mt-32 relative group">
-             <div class="absolute -inset-1 bg-linear-to-r from-clinic-teal to-clinic-blue rounded-[2.5rem] blur opacity-20 group-hover:opacity-40 transition duration-1000"></div>
-             <div class="relative bg-white/80 backdrop-blur-2xl rounded-[2rem] p-12 md:p-20 text-center border border-white/40 shadow-glass">
-                 <h2 class="text-4xl md:text-5xl font-bold text-clinic-dark mb-8 tracking-tight">Ready to optimize your health?</h2>
-                 <p class="text-xl text-gray-500 mb-12 font-light max-w-2xl mx-auto">
-                     Join hundreds of patients who have transformed their recovery through our unique analytical approach. 
-                     Direct billing available.
-                 </p>
-                 <a href="/booking/" class="btn-primary transform hover:scale-110 !px-12 !py-5 text-xl">
-                     Book Your Session Now
-                 </a>
-             </div>
+        <div>
+          <h3>{{ service.name }}</h3>
+          <p>{{ service.description }}</p>
         </div>
+      </div>
+      {% endfor %}
     </div>
-</section>
+  </section>
+
+  <!-- ICBC Banner -->
+  <section style="margin-bottom:56px;">
+    <div class="section-head">
+      <p class="section-num">Insurance &amp; Billing</p>
+      <h2 class="section-title">ICBC direct billing accepted.</h2>
+    </div>
+    <div class="icbc-banner">
+      <div>
+        <h3>Motor vehicle accident recovery</h3>
+        <p>Ryu Clinic is an ICBC-registered provider. Bring your claim number — we handle the billing directly. Acupuncture is a covered treatment under most ICBC claims.</p>
+      </div>
+      <a href="/booking/" class="btn-primary" style="flex-shrink:0;">Book via ICBC</a>
+    </div>
+  </section>
+
+  <!-- Session Fees -->
+  <section style="margin-bottom:56px;">
+    <div class="section-head">
+      <p class="section-num">Session Fees</p>
+      <h2 class="section-title">Two session types. No upsell.</h2>
+    </div>
+
+    <ol class="features">
+      <li>
+        <p class="name">Initial Consultation<small>$180 · 90 minutes</small></p>
+        <p class="what">Full symptom history, pattern diagnosis, and first treatment in a single 90-minute session. Priced to be long enough to be done properly. Herbal formula consultation included when relevant.</p>
+      </li>
+      <li>
+        <p class="name">Follow-up Treatment<small>$95 · 45 minutes</small></p>
+        <p class="what">Acupuncture treatment with brief progress review. Priced to be sustainable over the course of a full treatment plan. Frequency is discussed honestly at your first visit.</p>
+      </li>
+    </ol>
+
+    <p style="font-family:var(--serif);font-size:13px;color:var(--stone);margin-top:16px;">Payment at time of service · Cash, card, or check · Herbal formulas billed separately · Sliding scale available — ask</p>
+  </section>
+
+  <div style="text-align:center;padding:40px 0;border-top:1px solid var(--border-soft);">
+    <p style="font-family:var(--serif);font-size:18px;color:var(--dark-warm);margin:0 0 20px;">Ready to start?</p>
+    <a href="/booking/" class="btn-primary">Book a Consultation</a>
+  </div>
+
+</div>
