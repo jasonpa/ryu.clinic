@@ -1,58 +1,33 @@
-<header class="bg-white/70 backdrop-blur-xl fixed w-full top-0 z-50 border-b border-white/20 shadow-glass">
-    <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
-        <!-- Logo -->
-        <a href="/" class="flex items-center gap-2 group">
-            <span
-                class="text-xl font-bold tracking-tight text-clinic-dark group-hover:text-clinic-teal transition-colors">
-                Ryu Clinic
-            </span>
-            <span class="hidden sm:block text-xs uppercase tracking-widest text-gray-400 border-l pl-2 ml-2">
-                Engineering Health
-            </span>
-        </a>
+<nav class="site-nav">
+    <a href="/" class="nav-logo">
+        Ryu Clinic
+        <span class="nav-sub">Engineering Health</span>
+    </a>
 
-        <!-- Desktop Menu -->
-        <div class="hidden md:flex items-center gap-6">
-            <a href="/about"
-                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">About</a>
-            <a href="/services"
-                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Services</a>
-            <a href="/guides"
-                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Guides</a>
-            <a href="/blog" class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Blog</a>
-            <a href="/contact"
-                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Contact</a>
+    <ul class="nav-links">
+        <li><a href="/about">About</a></li>
+        <li><a href="/services">Services</a></li>
+        <li><a href="/guides">Guides</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/contact">Contact</a></li>
+    </ul>
 
-            <a href="/booking/"
-                class="px-5 py-2 text-sm font-medium text-white bg-clinic-teal rounded-full hover:bg-opacity-90 transition-all shadow-sm hover:shadow-md">
-                Book Online
-            </a>
-        </div>
+    <a href="/booking/" class="nav-cta desktop">Book Online</a>
 
-        <!-- Mobile Menu Button (Hamburger) -->
-        <button id="mobile-menu-btn" class="md:hidden text-gray-600 focus:outline-none" aria-label="Toggle menu">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16">
-                </path>
-            </svg>
-        </button>
-    </nav>
+    <button id="mobile-menu-btn" class="nav-mobile-btn" aria-label="Toggle menu" aria-expanded="false">
+        <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+            <line x1="3" y1="6" x2="19" y2="6"/>
+            <line x1="3" y1="11" x2="19" y2="11"/>
+            <line x1="3" y1="16" x2="19" y2="16"/>
+        </svg>
+    </button>
 
-    <!-- Mobile Menu Overlay -->
-    <div id="mobile-menu"
-        class="hidden md:hidden bg-white border-t border-gray-100 absolute w-full left-0 top-full shadow-lg">
-        <div class="flex flex-col px-6 py-4 space-y-4">
-            <a href="/about"
-                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">About</a>
-            <a href="/services"
-                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Services</a>
-            <a href="/guides"
-                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Guides</a>
-            <a href="/blog" class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Blog</a>
-            <a href="/contact"
-                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Contact</a>
-            <a href="/booking/" class="text-sm font-medium text-clinic-teal font-semibold">Book Online</a>
-        </div>
+    <div id="mobile-menu" class="nav-mobile-menu" role="menu">
+        <a href="/about">About</a>
+        <a href="/services">Services</a>
+        <a href="/guides">Guides</a>
+        <a href="/blog">Blog</a>
+        <a href="/contact">Contact</a>
+        <a href="/booking/" class="nav-cta">Book Online</a>
     </div>
-</header>
-<div class="h-20"></div> <!-- Spacer for fixed header -->
+</nav>

@@ -4,7 +4,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (menuBtn && mobileMenu) {
         menuBtn.addEventListener('click', function () {
-            mobileMenu.classList.toggle('hidden');
+            const open = mobileMenu.classList.toggle('is-open');
+            menuBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
         });
     }
 });

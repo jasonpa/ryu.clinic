@@ -1,68 +1,52 @@
-<footer class="bg-slate-950 text-white pt-24 pb-12 border-t border-white/5">
-    <div class="container mx-auto px-6">
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
-            <!-- Brand -->
-            <div class="col-span-1 md:col-span-1">
-                <h3 class="text-xl font-bold text-white mb-4">Ryu Clinic</h3>
-                <p class="text-gray-400 text-sm leading-relaxed mb-6">
-                    Combining traditional wisdom with modern engineering to optimize your health performance.
-                </p>
-                <div class="flex gap-4">
-                    {% for link in site.footer.links %}
-                    <a href="{{ link.url }}" class="text-gray-400 hover:text-clinic-blue transition-colors">
-                        <i class="{{ link.icon }}"></i>
-                        <span class="sr-only">{{ link.label }}</span>
-                    </a>
-                    {% endfor %}
-                </div>
-            </div>
+<footer class="site-footer">
+    <div class="footer-inner">
+        <div class="footer-mark">
+            <span class="wm-name">Ryu Clinic</span>
+            <span class="wm-line">Acupuncture &amp; Integrative Medicine</span>
+        </div>
 
-            <!-- Links -->
-            <div>
-                <h4 class="text-sm font-semibold uppercase tracking-wider text-gray-400 mb-6">Clinic</h4>
-                <ul class="space-y-3 text-sm text-gray-300">
-                    <li><a href="/about" class="hover:text-white transition-colors">About Dr. Ryu</a></li>
-                    <li><a href="/services" class="hover:text-white transition-colors">Services</a></li>
-                    <li><a href="/contact" class="hover:text-white transition-colors">Location</a></li>
-                </ul>
-            </div>
-
-            <!-- Tech/Lab -->
-            <div>
-                <h4 class="text-sm font-semibold uppercase tracking-wider text-gray-400 mb-6">R-Lab</h4>
-                <ul class="space-y-3 text-sm text-gray-300">
-                    <li><a href="/lab" class="hover:text-white transition-colors">Projects</a></li>
-                    <li><a href="/lab/chart-ai" class="hover:text-white transition-colors">Chart AI</a></li>
-                    <li><a href="https://github.com/jasonpa" class="hover:text-white transition-colors">GitHub</a></li>
-                </ul>
-            </div>
-
-            <!-- Contact -->
-            <div>
-                <h4 class="text-sm font-semibold uppercase tracking-wider text-gray-400 mb-6">Visit Us</h4>
-                <address class="not-italic text-sm text-gray-300 leading-relaxed mb-4">
-                    <strong class="text-white">Coquitlam</strong> (Momentum)<br>
-                    #500 - 3056 Glen Dr<br>
-                    <a href="tel:604-475-5328" class="hover:text-white transition-colors">604-475-5328</a>
+        <div class="footer-locations">
+            <div class="footer-location">
+                <h4>Coquitlam</h4>
+                <address>
+                    Momentum Health<br>
+                    #500 – 3056 Glen Dr<br>
+                    <a href="tel:604-475-5328">604-475-5328</a>
                 </address>
-                <address class="not-italic text-sm text-gray-300 leading-relaxed">
-                    <strong class="text-white">Vancouver</strong> (Regen)<br>
+            </div>
+            <div class="footer-location">
+                <h4>Vancouver</h4>
+                <address>
+                    Regen Medical<br>
                     1433 Cedar Cottage Mews<br>
-                    <a href="tel:604-336-8141" class="hover:text-white transition-colors">604-336-8141</a>
+                    <a href="tel:604-336-8141">604-336-8141</a>
                 </address>
-                <div class="mt-4">
-                    <a href="mailto:info@ryu.clinic" class="hover:text-clinic-blue text-sm">info@ryu.clinic</a>
-                </div>
             </div>
         </div>
 
-        <div
-            class="border-t border-gray-700 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-gray-500">
-            <p>&copy; {{ site.time | date: '%Y' }} Ryu Clinic Inc. All rights reserved.</p>
-            <div class="flex gap-6">
-                <a href="/privacy" class="hover:text-gray-300">Privacy Policy</a>
-                <a href="/terms" class="hover:text-gray-300">Terms of Service</a>
+        <div class="footer-colophon">
+            <div class="footer-links">
+                <a href="/about">About Dr. Ryu</a>
+                <a href="/services">Services &amp; ICBC</a>
+                <a href="/guides">Patient Guides</a>
+                <a href="/contact">Contact &amp; Location</a>
+                <a href="mailto:info@ryu.clinic">info@ryu.clinic</a>
             </div>
+            <div class="social-links">
+                {% for link in site.footer.links %}
+                <a href="{{ link.url }}" title="{{ link.label }}" aria-label="{{ link.label }}">
+                    <i class="{{ link.icon }}"></i>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        <p>&copy; {{ site.time | date: '%Y' }} Ryu Clinic Inc. All rights reserved.</p>
+        <div style="display:flex;gap:20px;">
+            <a href="/privacy">Privacy Policy</a>
+            <a href="/terms">Terms of Service</a>
         </div>
     </div>
 </footer>
