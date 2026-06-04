@@ -17,7 +17,7 @@ permalink: /booking/
     <!-- Coquitlam -->
     <div class="location-card">
       <h3>Coquitlam</h3>
-      <p class="location-sub">Momentum Health</p>
+      <p class="location-sub">Momentum Therapeutics</p>
       <address>
         #500 – 3056 Glen Dr<br>
         Coquitlam, BC<br>
@@ -39,7 +39,7 @@ permalink: /booking/
     <!-- Vancouver -->
     <div class="location-card">
       <h3>Vancouver</h3>
-      <p class="location-sub">Regen Medical</p>
+      <p class="location-sub">Regen Recovery</p>
       <address>
         1433 Cedar Cottage Mews<br>
         Vancouver, BC<br>

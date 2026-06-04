@@ -120,6 +120,9 @@ footer:
     - label: "Threads"
       icon: "fab fa-fw fa-threads"
       url: "https://www.threads.net/@ryu.clinic"
+    - label: "WhatsApp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://wa.me/+16044692000"
 
 
 # Guide section

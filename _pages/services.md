@@ -52,11 +52,11 @@ permalink: /services/
 
     <ol class="features">
       <li>
-        <p class="name">Initial Consultation<small>$180 · 90 minutes</small></p>
-        <p class="what">Full symptom history, pattern diagnosis, and first treatment in a single 90-minute session. Priced to be long enough to be done properly. Herbal formula consultation included when relevant.</p>
+        <p class="name">Initial Consultation<small>$140 · 60 minutes</small></p>
+        <p class="what">Full symptom history, pattern diagnosis, and first treatment in a single 60-minute session. Priced to be long enough to be done properly. Herbal formula consultation included when relevant.</p>
       </li>
       <li>
-        <p class="name">Follow-up Treatment<small>$95 · 45 minutes</small></p>
+        <p class="name">Follow-up Treatment<small>$120 · 45 minutes</small></p>
         <p class="what">Acupuncture treatment with brief progress review. Priced to be sustainable over the course of a full treatment plan. Frequency is discussed honestly at your first visit.</p>
       </li>
     </ol>

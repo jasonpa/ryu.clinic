@@ -9,7 +9,7 @@ permalink: /contact/
   <header class="subpage-hero">
     <p class="subpage-eyebrow">Get in touch</p>
     <h1>Contact &amp; Location</h1>
-    <p class="subpage-lede">Two clinic locations serving Vancouver, Coquitlam, and Port Moody.</p>
+    <p class="subpage-lede">Two clinic locations serving Vancouver and Coquitlam.</p>
   </header>
 
   <section style="margin-bottom:56px;">
@@ -21,7 +21,7 @@ permalink: /contact/
     <div class="contact-grid">
       <div class="location-card">
         <h3>Coquitlam</h3>
-        <p class="location-sub">@ Momentum Health</p>
+        <p class="location-sub">@ Momentum Therapeutics</p>
         <address>
           #500 – 3056 Glen Dr<br>
           Coquitlam, BC V3B 2P7
@@ -38,7 +38,7 @@ permalink: /contact/
 
       <div class="location-card">
         <h3>Vancouver</h3>
-        <p class="location-sub">@ Regen Medical</p>
+        <p class="location-sub">@ Regen Recovery</p>
         <address>
           1433 Cedar Cottage Mews<br>
           Vancouver, BC V5N 2R5
