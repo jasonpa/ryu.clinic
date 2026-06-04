@@ -8,3 +8,8 @@ Gemfile.lock
 node_modules/
 dist/
 .env
+
+.playwright-mcp/
+.omc/
+*.png
+*.jpeg
