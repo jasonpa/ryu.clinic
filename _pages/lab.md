@@ -39,11 +39,18 @@ permalink: /lab/
             {% endfor %}
           </div>
           {% endif %}
-          {% if project.github_url %}
-          <a href="{{ project.github_url }}" style="font-family:var(--latin-ui);font-size:12px;font-weight:600;color:var(--brand);display:inline-flex;align-items:center;gap:6px;">
-            <i class="fab fa-github"></i> View Repository
-          </a>
-          {% endif %}
+          <div style="display:flex;flex-wrap:wrap;gap:16px;">
+            {% if project.demo_url and project.demo_url != "#" %}
+            <a href="{{ project.demo_url }}" target="_blank" rel="noopener" style="font-family:var(--latin-ui);font-size:12px;font-weight:600;color:var(--brand);display:inline-flex;align-items:center;gap:6px;">
+              <i class="fas fa-arrow-up-right-from-square"></i> View Live
+            </a>
+            {% endif %}
+            {% if project.github_url %}
+            <a href="{{ project.github_url }}" style="font-family:var(--latin-ui);font-size:12px;font-weight:600;color:var(--brand);display:inline-flex;align-items:center;gap:6px;">
+              <i class="fab fa-github"></i> View Repository
+            </a>
+            {% endif %}
+          </div>
         </div>
       </div>
       {% endfor %}
