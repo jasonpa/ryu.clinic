@@ -1,14 +1,19 @@
-- name: "ChartAI"
+- name: "Vio"
   status: "In Development"
-  description: "AI-powered SOAP note generator for TCM practitioners. Converts shorthand clinical notes into insurance-compliant medical documentation."
-  tech_stack: ["Python", "OpenAI API", "JaneApp Integration", "NLP"]
-  image: "/assets/images/project-chartai.jpg" # Placeholder or need generation
-  demo_url: "#"
-  github_url: "https://github.com/jasonpa/chart-ai"
-  slug: "chart-ai"
+  description: "Patient voice charting app."
+  tech_stack: ["Swift"]
+  slug: "vio"
 
-- name: "HerbBase"
-  status: "Planning"
-  description: "Digital materia medica database with interaction checking and modern search capabilities."
-  tech_stack: ["React", "Node.js", "MongoDB"]
-  slug: "herb-base"
+- name: "Byunron"
+  status: "In Development"
+  description: "Korean-first AI sparring tool for licensed TCM practitioners (한의사). Practitioners submit their own anonymized case narratives — AI challenges their clinical reasoning across 8 structured layers, and reasoning is saved as a \"commit log\" personal library."
+  tech_stack: ["TypeScript"]
+  slug: "byunron"
+
+- name: "RYutility"
+  status: "Live"
+  description: "Running pace calculator with VDOT-based training zones and Current/Target comparison."
+  tech_stack: ["HTML", "JavaScript"]
+  demo_url: "https://ryutility.com"
+  github_url: "https://github.com/jasonpa/ryutility"
+  slug: "ryutility"
