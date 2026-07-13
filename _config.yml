@@ -71,12 +71,12 @@ exclude:
   - package-lock.json
   - tailwind.config.js
   - postcss.config.js
-#   - Gemfile
-#   - Gemfile.lock
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
