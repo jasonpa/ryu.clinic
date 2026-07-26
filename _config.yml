@@ -208,7 +208,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 # Google Analytics
-google_analytics:   UA-118747928-1 # Google analytics code, get your code here https://www.google.com/analytics/
+google_analytics:   G-TF9TS8YTKR # Google analytics code, get your code here https://www.google.com/analytics/
 google_maps_api_key: ENV_GOOGLE_MAPS_API_KEY # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 google_place_id: ChIJQwnIMyx5hlQRGFXZSl1rBA4 #Find placeID @: https://developers.google.com/places/place-id
 
