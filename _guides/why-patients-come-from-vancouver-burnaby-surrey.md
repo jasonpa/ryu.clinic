@@ -21,7 +21,7 @@ This is particularly important when discussing sensitive health issues, explaini
 
 ## Multidisciplinary environment
 
-Both Ryu Clinic locations (Momentum Therapeutics in Coquitlam and Regen Recovery in Vancouver) operate within multidisciplinary facilities. This means:
+Ryu Clinic operates within a multidisciplinary facility, Momentum Therapeutics in Coquitlam. This means:
 
 **Coordinated care**: If you need physiotherapy, massage, or other services in addition to acupuncture, everything is available in one location.
 
@@ -53,7 +53,7 @@ Patients often mention that they feel heard, respected, and actively involved in
 
 ## Flexible scheduling
 
-With two locations and extended hours (including evenings and weekends), Ryu Clinic makes it easier to fit treatment into a busy schedule. Online booking through JaneApp adds convenience, and the clinic works to accommodate patients who are traveling from farther away by offering back-to-back appointments or coordinating with other services.
+With extended hours (including evenings and weekends), Ryu Clinic makes it easier to fit treatment into a busy schedule. Online booking through JaneApp adds convenience, and the clinic works to accommodate patients who are traveling from farther away by offering back-to-back appointments or coordinating with other services.
 
 ## Quality of care
 
@@ -68,7 +68,7 @@ If you're in Vancouver, Burnaby, Surrey, or elsewhere in the Lower Mainland and 
 - Am I looking for a practitioner who takes time to understand my specific situation?
 - Do I have ICBC or extended health benefits that make the investment worthwhile?
 
-If the answer to any of these is yes, the drive to Coquitlam or the Vancouver location might be exactly what you need.
+If the answer to any of these is yes, the drive to Coquitlam might be exactly what you need.
 
 You can book online through JaneApp or call to discuss whether Ryu Clinic is the right fit for your needs, regardless of where you're coming from in the Lower Mainland.
 

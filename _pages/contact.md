@@ -9,12 +9,12 @@ permalink: /contact/
   <header class="subpage-hero">
     <p class="subpage-eyebrow">Get in touch</p>
     <h1>Contact &amp; Location</h1>
-    <p class="subpage-lede">Two clinic locations serving Vancouver and Coquitlam.</p>
+    <p class="subpage-lede">Serving Coquitlam, Port Moody, and Vancouver patients from our Coquitlam clinic.</p>
   </header>
 
   <section style="margin-bottom:56px;">
     <div class="section-head">
-      <p class="section-num">Locations</p>
+      <p class="section-num">Location</p>
       <h2 class="section-title">Where to find us.</h2>
     </div>
 
@@ -27,27 +27,10 @@ permalink: /contact/
           Coquitlam, BC V3B 2P7
         </address>
         <div class="location-links">
-          <a href="tel:604-475-5328">
-            <i class="fas fa-phone-alt"></i> 604-475-5328
+          <a href="tel:604-469-2000">
+            <i class="fas fa-phone-alt"></i> 604-469-2000
           </a>
           <a href="https://www.google.com/maps/search/?api=1&query=Momentum+Therapeutics+Coquitlam" target="_blank" rel="noopener">
-            <i class="fas fa-directions"></i> Get Directions
-          </a>
-        </div>
-      </div>
-
-      <div class="location-card">
-        <h3>Vancouver</h3>
-        <p class="location-sub">@ Regen Recovery</p>
-        <address>
-          1433 Cedar Cottage Mews<br>
-          Vancouver, BC V5N 2R5
-        </address>
-        <div class="location-links">
-          <a href="tel:604-336-8141">
-            <i class="fas fa-phone-alt"></i> 604-336-8141
-          </a>
-          <a href="https://www.google.com/maps/search/?api=1&query=Regen+Recovery+Vancouver" target="_blank" rel="noopener">
             <i class="fas fa-directions"></i> Get Directions
           </a>
         </div>

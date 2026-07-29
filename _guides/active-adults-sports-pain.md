@@ -11,7 +11,7 @@ korean_summary_body: >
   <p>달리기·하이킹·골프·테니스 등 활동적인 라이프스타일을 유지하고 싶지만 무릎·발목·어깨·허리 통증으로 고민하는 분들을 위한 내용입니다.</p>
   <p>과사용 부상(overuse injury), 급성 염좌, 만성 건염 등 흔한 스포츠 부상 패턴과, 침 치료가 어떻게 회복을 빠르게 하고 재발을 줄이며 운동 수행 능력을 유지하는 데 도움을 주는지 설명합니다.</p>
   <p>완전히 쉬지 않고도 치료를 받으며 활동을 조절하는 방법, 그리고 나이가 들어도 계속 활동적으로 지낼 수 있도록 몸을 관리하는 전략도 포함되어 있습니다.</p>
-  <p>Coquitlam과 Vancouver 두 지점 모두 주말·저녁 예약이 가능하여, 운동 스케줄에 맞춰 치료 계획을 세울 수 있습니다.</p>
+  <p>Coquitlam 지점에서 주말·저녁 예약이 가능하여, 운동 스케줄에 맞춰 치료 계획을 세울 수 있습니다.</p>
 ---
 
 If you're someone who runs, hikes, bikes, plays tennis, golfs, or stays active in other ways, you know that pain and injuries can feel like a threat to your identity and quality of life. You don't want to stop moving—you just want to move without pain. Acupuncture offers a way to recover faster, reduce the risk of re-injury, and keep doing the activities you love in Coquitlam, Vancouver, and the surrounding areas.
@@ -94,7 +94,7 @@ Acupuncture won't make you faster or stronger on its own, but by reducing pain, 
 While it can't guarantee you'll never get injured again, regular acupuncture can help maintain tissue health, reduce chronic tension, and support recovery between hard training sessions. Many active adults use acupuncture as part of their ongoing maintenance routine, coming in every few weeks during heavy training periods to stay ahead of potential problems.
 
 **Is it safe to combine with physiotherapy or massage?**  
-Absolutely. Acupuncture works well alongside other therapies. In fact, many patients find that combining acupuncture with physiotherapy, massage, or strength training produces better results than any single approach alone. Ryu Clinic operates within Momentum Therapeutics in Coquitlam and Regen Recovery in Vancouver, making it easy to coordinate care with other providers.
+Absolutely. Acupuncture works well alongside other therapies. In fact, many patients find that combining acupuncture with physiotherapy, massage, or strength training produces better results than any single approach alone. Ryu Clinic operates within Momentum Therapeutics in Coquitlam, making it easy to coordinate care with other providers.
 
 ## Staying active for the long term
 

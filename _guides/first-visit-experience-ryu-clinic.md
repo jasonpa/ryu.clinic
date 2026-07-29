@@ -17,7 +17,7 @@ Walking into a new clinic for the first time can feel intimidating, especially i
 
 ## Before you arrive
 
-**Choosing your location**: Ryu Clinic has two locations—Momentum Therapeutics in Coquitlam and Regen Recovery in Vancouver. If you live or work in the Tri-Cities, Coquitlam is often the most convenient option. If you're based in Vancouver, Burnaby, or the downtown core, the Vancouver location may be easier to reach. Both clinics offer the same high standard of care, so choose the one that fits your schedule and commute.
+**Location**: Ryu Clinic is located at Momentum Therapeutics in Coquitlam, convenient for patients throughout the Tri-Cities as well as those traveling in from Vancouver, Burnaby, or the downtown core.
 
 **What to bring**: If you have any imaging reports (X-rays, MRIs, ultrasounds), bring them along or have digital copies available. A list of medications you're currently taking is also helpful, as is any information about previous treatments you've tried. If you're coming in for an ICBC claim, bring your claim number and the date of your accident. If you're using extended health benefits, bring your insurance card or policy information.
 

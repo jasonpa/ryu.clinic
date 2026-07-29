@@ -72,7 +72,7 @@ Whiplash recovery often benefits from a team-based approach. Acupuncture works w
 
 **Chiropractic care**: Chiropractors focus on joint alignment and mobility. If you're seeing a chiropractor for your whiplash, acupuncture can help relax the muscles around the joints, making adjustments more effective and comfortable.
 
-Because Ryu Clinic operates within Momentum Therapeutics in Coquitlam and Regen Recovery in Vancouver, coordinating care with other providers is straightforward. Your acupuncturist can communicate with your physiotherapist, massage therapist, or chiropractor to ensure everyone is working toward the same goals.
+Because Ryu Clinic operates within Momentum Therapeutics in Coquitlam, coordinating care with other providers is straightforward. Your acupuncturist can communicate with your physiotherapist, massage therapist, or chiropractor to ensure everyone is working toward the same goals.
 
 ## Recovery timeline and what to expect
 

@@ -11,7 +11,7 @@ korean_summary_body: >
   <p>장시간 컴퓨터·회의·스마트폰 사용으로 생기는 목·어깨 통증 패턴과, 침 치료가 어떤 방식으로 도움을 줄 수 있는지 설명합니다.</p>
   <p>오후 3시쯤 되면 목 뒤가 뻐근하고 어깨가 돌처럼 굳는 느낌, 두통이 올라오는 패턴이 왜 생기는지, 그리고 자세·스트레스·반복 동작이 어떻게 얽혀 있는지 이해하기 쉽게 정리했습니다.</p>
   <p>침 치료로 근육 긴장을 풀고 신경계를 안정시키며 혈액순환을 개선하는 방법, 그리고 간단한 책상 스트레칭을 함께 활용하는 팁도 포함되어 있습니다.</p>
-  <p>Coquitlam Momentum과 Vancouver Regen 두 지점 모두 퇴근 전후 예약이 가능하며, 점심시간 방문도 조율할 수 있어 바쁜 직장인도 무리 없이 관리를 시작할 수 있습니다.</p>
+  <p>Coquitlam Momentum 지점에서 퇴근 전후 예약이 가능하며, 점심시간 방문도 조율할 수 있어 바쁜 직장인도 무리 없이 관리를 시작할 수 있습니다.</p>
 ---
 
 If you spend most of your day at a desk, you know the feeling: that creeping tightness in your neck, the knot between your shoulder blades, and the dull headache that shows up around 3pm. You're not imagining it, and you're definitely not alone. Office-related neck and shoulder pain is one of the most common reasons people in Coquitlam and Vancouver seek acupuncture care.
@@ -79,7 +79,7 @@ Many extended health plans in Canada cover acupuncture. Check your benefits to s
 
 ## How to book in Coquitlam or Vancouver
 
-Ryu Clinic has two locations to serve office workers across the Lower Mainland. If you work or live in the Tri-Cities area, the Coquitlam location at Momentum Therapeutics is convenient and offers ample parking. If you're based in Vancouver, Burnaby, or the downtown core, the Vancouver location at Regen Recovery may be easier to reach.
+Ryu Clinic serves office workers across the Lower Mainland from Momentum Therapeutics in Coquitlam, which is convenient and offers ample parking whether you work or live in the Tri-Cities area or are traveling in from Vancouver, Burnaby, or the downtown core.
 
 You can book online through JaneApp for either location, or call the clinic directly if you have questions about scheduling or insurance. When you book, mention that you're dealing with office-related neck and shoulder pain so your practitioner can tailor the first session to your needs.
 

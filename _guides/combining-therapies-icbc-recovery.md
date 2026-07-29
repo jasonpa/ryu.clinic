@@ -111,7 +111,7 @@ This gives your body time to respond to each treatment and prevents overloading 
 
 ## Coordinating care at Ryu Clinic
 
-One of the advantages of receiving acupuncture at Ryu Clinic is that the clinic operates within multidisciplinary facilities—Momentum Therapeutics in Coquitlam and Regen Recovery in Vancouver. This means that physiotherapy, massage, and other services are available in the same building, making it easier to coordinate care.
+One of the advantages of receiving acupuncture at Ryu Clinic is that the clinic operates within a multidisciplinary facility—Momentum Therapeutics in Coquitlam. This means that physiotherapy, massage, and other services are available in the same building, making it easier to coordinate care.
 
 Your acupuncturist can communicate with your physiotherapist, massage therapist, or chiropractor to ensure everyone is working toward the same goals and that treatments are scheduled in a way that supports your recovery.
 

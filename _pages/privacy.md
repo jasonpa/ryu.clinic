@@ -46,7 +46,7 @@ permalink: /privacy/
     <div style="background:var(--ivory);border:1px solid var(--border-soft);border-radius:6px;padding:20px 24px;margin-top:8px;">
       <p style="font-weight:600;margin:0 0 4px;color:var(--near-black);">Privacy Officer — Ryu Clinic Inc.</p>
       <p style="margin:0;font-size:14px;">Email: <a href="mailto:info@ryu.clinic">info@ryu.clinic</a></p>
-      <p style="margin:0;font-size:14px;">Phone: 604-475-5328</p>
+      <p style="margin:0;font-size:14px;">Phone: 604-469-2000</p>
     </div>
 
   </article>

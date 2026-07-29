@@ -11,7 +11,7 @@ korean_summary_body: >
   <p>만성 통증은 캐나다인 4명 중 1명이 겪는 문제이며, 단순히 참거나 진통제에만 의존하는 것이 아닌 다른 선택지가 있다는 것을 설명합니다.</p>
   <p>허리 통증, 관절염, 섬유근육통, 신경통 등 흔한 만성 통증 유형과, 침 치료가 어떻게 근본 원인에 접근하여 자연스럽고 부작용이 적은 방식으로 통증을 줄이는지 정리했습니다.</p>
   <p>통증이 언제쯤 나아질지, 다른 치료와 병행할 수 있는지, 보험 적용이 되는지 등 실질적인 질문에 대한 답변도 포함되어 있습니다.</p>
-  <p>Coquitlam과 Vancouver 두 지점 모두에서 만성 통증 환자를 위한 맞춤 치료 계획을 제공하며, 단순히 증상을 가리는 것이 아니라 삶의 질을 되찾는 것을 목표로 합니다.</p>
+  <p>Coquitlam 지점에서 만성 통증 환자를 위한 맞춤 치료 계획을 제공하며, 단순히 증상을 가리는 것이 아니라 삶의 질을 되찾는 것을 목표로 합니다.</p>
 ---
 
 Living with chronic pain is exhausting. It affects your work, your sleep, your relationships, and your ability to enjoy the activities you love. If you've tried medications, physical therapy, or other treatments and still haven't found lasting relief, you're not alone—and you're not out of options. Acupuncture offers a natural, evidence-based approach to chronic pain management that addresses the root causes rather than just masking symptoms.
@@ -79,7 +79,7 @@ It's completely normal to feel apprehensive, especially if you've never tried ac
 
 ## Getting started in Coquitlam or Vancouver
 
-Ryu Clinic offers chronic pain management services at two convenient locations: Momentum Therapeutics in Coquitlam and Regen Recovery in Vancouver. Both clinics provide a supportive, professional environment where your pain is taken seriously and your treatment is personalized to your needs.
+Ryu Clinic offers chronic pain management services at Momentum Therapeutics in Coquitlam, a supportive, professional environment where your pain is taken seriously and your treatment is personalized to your needs.
 
 You can book online through JaneApp or call the clinic to discuss your situation and ask any questions before scheduling. When you book, let them know you're dealing with chronic pain so your practitioner can allocate enough time for a thorough initial assessment.
 

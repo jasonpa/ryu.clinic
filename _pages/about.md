@@ -102,7 +102,7 @@ permalink: /about/
         <ol class="features">
           <li>
             <p class="name">2018 – Present<small>Ryu Clinic</small></p>
-            <p class="what">Founder and lead practitioner. Pioneering a hybrid approach to TCM using modern clinical data and patient tracking at locations in Coquitlam and Vancouver.</p>
+            <p class="what">Founder and lead practitioner. Pioneering a hybrid approach to TCM using modern clinical data and patient tracking at our Coquitlam clinic.</p>
           </li>
           <li>
             <p class="name">2013 – 2018<small>Limina Wellness</small></p>

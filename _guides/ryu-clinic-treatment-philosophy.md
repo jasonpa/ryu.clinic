@@ -37,7 +37,7 @@ By addressing all three layers, treatment becomes more comprehensive and more ef
 
 ## How acupuncture fits into a bigger picture
 
-Acupuncture is a powerful tool, but it's not the only tool. At Ryu Clinic, we practice within Momentum Therapeutics in Coquitlam and Regen Recovery in Vancouver, which means you have access to a full team of healthcare providers—physiotherapists, massage therapists, kinesiologists, and other specialists—all under one roof.
+Acupuncture is a powerful tool, but it's not the only tool. At Ryu Clinic, we practice within Momentum Therapeutics in Coquitlam, which means you have access to a full team of healthcare providers—physiotherapists, massage therapists, kinesiologists, and other specialists—all under one roof.
 
 This collaborative environment allows for integrated care. If your condition would benefit from combining acupuncture with physiotherapy, we can coordinate that. If you need manual therapy or exercise rehabilitation alongside acupuncture, those services are available. The goal is to give you the right combination of treatments at the right time, rather than treating each service in isolation.
 

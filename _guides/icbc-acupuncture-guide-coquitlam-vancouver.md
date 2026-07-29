@@ -9,15 +9,15 @@ order: 10
 korean_summary_intro: "ICBC 교통사고 후 침 치료를 어떻게 시작할지 궁금할 때 가장 먼저 읽으면 좋은 가이드입니다."
 korean_summary_body: >
   <p>ICBC 교통사고 이후 목·허리 통증이나 두통이 생겼을 때, 언제 어떻게 침 치료를 시작하면 좋은지 단계적으로 정리합니다.</p>
-  <p>필요 서류와 절차, Coquitlam Momentum · Vancouver Regen 두 지점에서 받을 수 있는 지원을 한국어로도 간단히 안내합니다.</p>
+  <p>필요 서류와 절차, Coquitlam Momentum 지점에서 받을 수 있는 지원을 한국어로도 간단히 안내합니다.</p>
   <ul>
   <li>교통사고 후에 바로 많이 아프지 않더라도, 시간이 지나면서 목·허리 통증이나 두통, 잠이 뒤틀리는 문제가 천천히 올라오는 경우가 많습니다.</li>
   <li>중요한 것은 “너무 늦기 전에 한 번 제대로 평가를 받아보는 것”이며, 초기 몇 주 안에 몸 상태를 점검하고 치료를 시작하면 나중에 오래가는 만성 통증으로 굳어질 가능성을 줄일 수 있습니다.</li>
   <li>만약 심한 두통, 시야 흐림, 숨이 차거나 가슴이 아픈 증상, 힘이 빠지거나 감각이 떨어지는 증상이 있다면 먼저 응급실·의사 진료가 우선이고, 그 이후 안정된 단계에서 침 치료가 회복을 돕는 역할을 할 수 있습니다.</li>
-  <li>Ryu Clinic은 Coquitlam Momentum과 Vancouver Regen 두 곳에서 ICBC 환자를 보고 있으며, 처음 내원 시 사고 상황과 현재 통증, 일상과 일을 함께 듣고 “지금 몸이 어떤 상태인지”부터 차분히 정리해 드립니다.</li>
+  <li>Ryu Clinic은 Coquitlam Momentum 지점에서 ICBC 환자를 보고 있으며, 처음 내원 시 사고 상황과 현재 통증, 일상과 일을 함께 듣고 “지금 몸이 어떤 상태인지”부터 차분히 정리해 드립니다.</li>
   <li>치료는 처음에는 통증과 수면, 긴장 완화에 집중하고, 몸이 조금 안정되면 움직임과 기능 회복, 그 다음에는 재발을 줄이고 예전처럼 일상·운동·취미로 돌아가는 것을 목표로 단계적으로 설계됩니다.</li>
   <li>ICBC 클레임 번호와 사고 날짜, 복용 중인 약, 이미 받고 계신 다른 치료 정보를 가져오시면, 청구와 치료 계획을 훨씬 수월하게 정리해 드릴 수 있습니다.</li>
-  <li>Coquitlam·Vancouver 두 지점 모두 온라인(JaneApp)과 전화 예약이 가능하고, ryu.clinic Contact 페이지에서 주소와 교통·주차 안내를 미리 확인하실 수 있어 첫 방문도 어렵지 않습니다.</li>
+  <li>Coquitlam 지점에서 온라인(JaneApp)과 전화 예약이 가능하고, ryu.clinic Contact 페이지에서 주소와 교통·주차 안내를 미리 확인하실 수 있어 첫 방문도 어렵지 않습니다.</li>
   <li>“지금 내 상태가 정상인지, 어디까지 회복할 수 있을지”가 막막하게 느껴지실 때, 이 가이드가 Coquitlam &amp; Vancouver 지역에서 어떤 순서로 도움을 받으면 좋을지 방향을 잡는 데 작은 이정표가 되면 좋겠습니다.</li>
   </ul>
 ---
@@ -52,7 +52,7 @@ If you are not sure whether your situation is urgent, it is always better to err
 
 At Ryu Clinic, your ICBC visit starts with a one‑on‑one assessment that covers the accident itself, your current symptoms, your work and home demands and any previous injuries or conditions. The conversation is not only about where it hurts today; it is also about what you need your body to do in the coming weeks and months.
 
-Acupuncture is then used within a clear framework: reduce pain, calm an overactive nervous system and improve movement in key areas like the neck, shoulders, back and hips. Because Ryu Clinic works within Momentum Therapeutics in Coquitlam and Regen Recovery in Vancouver, you are in environments where physiotherapy, massage and other services are also available when appropriate. That makes it easier to integrate acupuncture with other rehabilitation therapies as needed rather than treating each service in isolation.
+Acupuncture is then used within a clear framework: reduce pain, calm an overactive nervous system and improve movement in key areas like the neck, shoulders, back and hips. Because Ryu Clinic works within Momentum Therapeutics in Coquitlam, you are in an environment where physiotherapy, massage and other services are also available when appropriate. That makes it easier to integrate acupuncture with other rehabilitation therapies as needed rather than treating each service in isolation.
 
 ### What happens in a typical treatment plan
 
@@ -72,10 +72,10 @@ Keeping simple records on your side can also support both your recovery and your
 
 If you have imaging reports such as X‑rays or MRIs, or letters from your doctor or other therapists, store them in one place and bring copies when you come in. At each Ryu Clinic visit, taking one minute to summarise what changed since last time (better, worse, same; what you did differently) helps your practitioner fine‑tune acupuncture treatments within your ICBC coverage window.
 
-## How to book in Coquitlam & Vancouver
+## How to book in Coquitlam
 
-Ryu Clinic sees ICBC patients at two convenient locations: Momentum Therapeutics in Coquitlam and Regen Recovery in Vancouver. If you live or work in the Tri‑Cities, the Coquitlam location is often the easiest option, while patients from Vancouver, Burnaby or Surrey frequently choose the Vancouver site.
+Ryu Clinic sees ICBC patients at Momentum Therapeutics in Coquitlam. Many patients travel in from Vancouver, Burnaby or Surrey, in addition to those living or working in the Tri‑Cities.
 
-You can book online through JaneApp for each location, choosing a time and leaving a note that you are coming in under an ICBC claim. The Contact page on ryu.clinic lists addresses, directions and parking information for both clinics, along with phone numbers if you prefer to talk through your situation before booking. At your first appointment, the aim is simple: understand what the accident did to your body, begin reducing pain and stiffness, and map out a clear, realistic plan to help you return to the work, driving, exercise and daily life that matter most to you in Coquitlam & Vancouver.
+You can book online through JaneApp, choosing a time and leaving a note that you are coming in under an ICBC claim. The Contact page on ryu.clinic lists the address, directions and parking information for the clinic, along with a phone number if you prefer to talk through your situation before booking. At your first appointment, the aim is simple: understand what the accident did to your body, begin reducing pain and stiffness, and map out a clear, realistic plan to help you return to the work, driving, exercise and daily life that matter most to you.
 
 ---

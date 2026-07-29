@@ -52,7 +52,7 @@ Lower back pain often responds best to a combination of treatments:
 
 **Massage**: Releases superficial muscle tension and improves circulation. Acupuncture addresses deeper trigger points and nerve-related pain.
 
-Because Ryu Clinic operates within multidisciplinary facilities (Momentum Therapeutics in Coquitlam and Regen Recovery in Vancouver), coordinating these therapies is straightforward.
+Because Ryu Clinic operates within a multidisciplinary facility, Momentum Therapeutics in Coquitlam, coordinating these therapies is straightforward.
 
 ## Recovery timeline
 
