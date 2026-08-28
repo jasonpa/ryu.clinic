@@ -40,3 +40,29 @@ layout: default
   </article>
 
 </div>
+
+{% if page.collection == "guides" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+    { "@type": "ListItem", "position": 2, "name": "Guides", "item": "{{ site.url }}/guides/" },
+    { "@type": "ListItem", "position": 3, "name": "{{ page.title | escape }}", "item": "{{ site.url }}{{ page.url }}" }
+  ]
+}
+</script>
+{% elsif page.collection == "posts" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+    { "@type": "ListItem", "position": 2, "name": "Posts", "item": "{{ site.url }}/posts/" },
+    { "@type": "ListItem", "position": 3, "name": "{{ page.title | escape }}", "item": "{{ site.url }}{{ page.url }}" }
+  ]
+}
+</script>
+{% endif %}

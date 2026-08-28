@@ -172,6 +172,8 @@ defaults:
       layout: post
       lang: "en"
       korean_summary: true
+      seo:
+        type: "MedicalWebPage"
       meta_title: ""
       meta_description: ""
       order: 100
