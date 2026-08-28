@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "How to Choose an Acupuncture Clinic in Coquitlam"
 nav_title: "Locations – Choose a Clinic in Coquitlam"
 short_description: "Key points to consider when choosing an acupuncture clinic in Coquitlam."

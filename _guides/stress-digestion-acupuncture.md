@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Stress, Digestion and Acupuncture: When Your Gut and Mind Are Connected"
 nav_title: "Symptoms – Stress & Digestion"
 short_description: "For people dealing with stress-related digestive issues."

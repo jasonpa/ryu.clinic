@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Runners and Hikers: Sports Acupuncture for Endurance Athletes"
 nav_title: "Sports – Runners & Hikers"
 short_description: "For runners and hikers dealing with overuse injuries."

@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Monthly Maintenance Acupuncture: Staying Ahead of Pain"
 nav_title: "Benefits – Monthly Maintenance"
 short_description: "Using acupuncture for ongoing maintenance and prevention."

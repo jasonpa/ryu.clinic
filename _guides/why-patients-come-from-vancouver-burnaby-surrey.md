@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-07-29
+date: 2025-12-01
 title: "Why Patients Come from Vancouver, Burnaby and Surrey to Ryu Clinic"
 nav_title: "Locations – Why Patients Travel"
 short_description: "What makes patients willing to travel from across the Lower Mainland."

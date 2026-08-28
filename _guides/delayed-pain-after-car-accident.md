@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Delayed Pain After a Car Accident: Why It Happens and What to Do"
 nav_title: "ICBC – Delayed Pain"
 short_description: "Understanding why pain can appear days or weeks after a car accident."

@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Chronic Headaches and Migraines: Another Option Beyond Medication"
 nav_title: "Symptoms – Headaches & Migraines"
 short_description: "For people living with recurring headaches or migraines."

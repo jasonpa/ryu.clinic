@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-07-29
+date: 2025-12-01
 title: "Combining Acupuncture with Physio, Chiro and Massage for ICBC Recovery"
 nav_title: "ICBC – Combining Therapies"
 short_description: "How to combine acupuncture with physiotherapy, chiropractic and massage after an accident."

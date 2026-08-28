@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-07-29
+date: 2026-01-06
 title: "Chronic Pain Management with Acupuncture: Natural Relief in Coquitlam & Vancouver"
 nav_title: "Symptoms – Chronic Pain Relief"
 short_description: "For people living with ongoing pain seeking natural, drug-free alternatives."

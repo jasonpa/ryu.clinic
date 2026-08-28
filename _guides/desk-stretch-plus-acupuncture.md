@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Desk Stretches Plus Acupuncture: A Complete Approach"
 nav_title: "Office – Desk Stretches"
 short_description: "Combining simple desk stretches with acupuncture for office workers."

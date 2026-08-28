@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Women's Health: PMS, Sleep and Fatigue Patterns"
 nav_title: "Symptoms – Women's Health"
 short_description: "For women dealing with menstrual pain, sleep issues and fatigue."

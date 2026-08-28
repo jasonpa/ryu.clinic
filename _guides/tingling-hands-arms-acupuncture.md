@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Tingling Hands and Arms: When to Consider Acupuncture"
 nav_title: "Symptoms – Tingling Hands/Arms"
 short_description: "For people experiencing numbness or tingling in hands and arms."

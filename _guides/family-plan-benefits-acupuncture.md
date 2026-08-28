@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Family Plan Benefits: Acupuncture for the Whole Family"
 nav_title: "Benefits – Family Plans"
 short_description: "How to use family extended health benefits for acupuncture."

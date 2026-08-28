@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Shift Work, Sleep and Fatigue: Acupuncture for Non-Traditional Schedules"
 nav_title: "Office – Shift Work & Fatigue"
 short_description: "For shift workers dealing with sleep disruption and fatigue."

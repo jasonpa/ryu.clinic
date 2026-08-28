@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-07-29
+date: 2025-12-01
 title: "Active Adults and Sports Pain: Stay Moving with Acupuncture"
 nav_title: "Sports – Active Adults Pain"
 short_description: "For active adults dealing with sports-related pain and injuries."

@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Extended Health Benefits for Acupuncture: The Basics"
 nav_title: "Benefits – Basics"
 short_description: "Understanding how extended health benefits cover acupuncture."

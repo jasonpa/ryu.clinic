@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-07-29
+date: 2025-12-01
 title: "Whiplash, Neck Pain and Headaches After a Car Accident"
 nav_title: "ICBC – Whiplash & Neck Pain"
 short_description: "Understanding and treating whiplash-related neck pain and headaches."

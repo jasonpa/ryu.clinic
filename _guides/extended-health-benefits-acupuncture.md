@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2025-12-01
+date: 2025-12-01
 title: "How to Use Extended Health Benefits for Acupuncture"
 nav_title: "Benefits - Extended Benefits How to Use"
 short_description: "A clear overview of how to use your extended health benefits for acupuncture care."

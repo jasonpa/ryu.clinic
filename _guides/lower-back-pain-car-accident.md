@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-07-29
+date: 2025-12-01
 title: "Lower Back Pain After a Car Accident: Recovery with Acupuncture"
 nav_title: "ICBC – Lower Back Pain"
 short_description: "Understanding and treating lower back pain after car accidents."

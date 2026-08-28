@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-07-29
+date: 2025-12-01
 title: "Locations, Access and Booking: How to Get Started at Ryu Clinic"
 nav_title: "Locations – Access & Booking"
 short_description: "Practical information about location, parking, transit, and booking."

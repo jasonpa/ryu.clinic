@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-07-29
+date: 2025-12-01
 title: "Office Neck and Shoulder Pain Relief with Acupuncture"
 nav_title: "Office - Neck & Shoulder Pain"
 short_description: "For office workers with neck and shoulder tension from long hours at a desk."

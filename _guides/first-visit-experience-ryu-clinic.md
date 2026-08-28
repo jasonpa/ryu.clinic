@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-07-29
+date: 2025-12-01
 title: "Your First Visit at Ryu Clinic: What to Expect"
 nav_title: "First Visit – What to Expect"
 short_description: "Step-by-step overview of what happens during your first acupuncture visit."

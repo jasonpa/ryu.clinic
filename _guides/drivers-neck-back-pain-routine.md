@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Drivers: Neck and Back Pain Routine with Acupuncture"
 nav_title: "Office – Drivers Pain Routine"
 short_description: "For professional drivers and commuters with neck and back pain."

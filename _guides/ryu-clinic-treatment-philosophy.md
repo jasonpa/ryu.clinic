@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-07-29
+date: 2025-12-01
 title: "Ryu Clinic's Treatment Philosophy: From Pain to Function to Quality of Life"
 nav_title: "Philosophy – Pain to Function"
 short_description: "How Ryu Clinic thinks about pain, function and quality of life."

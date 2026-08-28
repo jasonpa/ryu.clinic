@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Year-End Benefits Health Check: Use It Before You Lose It"
 nav_title: "Benefits – Year-End Check"
 short_description: "Making the most of your benefits before they reset."

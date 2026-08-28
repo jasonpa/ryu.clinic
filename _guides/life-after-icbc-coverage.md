@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Life After ICBC Coverage: Transitioning to Maintenance Care"
 nav_title: "ICBC – Life After Coverage"
 short_description: "What to do when your ICBC coverage ends but you still need support."

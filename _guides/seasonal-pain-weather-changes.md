@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Seasonal Pain and Weather Changes: How Acupuncture Can Help"
 nav_title: "Symptoms – Seasonal Pain"
 short_description: "For people whose pain worsens with weather changes."

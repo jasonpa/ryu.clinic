@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "ICBC Acupuncture FAQ: Common Questions About Coverage and Treatment"
 nav_title: "ICBC – FAQ"
 short_description: "Frequently asked questions about ICBC acupuncture coverage and treatment."

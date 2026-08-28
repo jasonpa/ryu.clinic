@@ -8,6 +8,10 @@ layout: default
       {% if page.categories %}{{ page.categories | first }}{% endif %}
       {% if page.categories and page.date %} &middot; {% endif %}
       {% if page.date %}{{ page.date | date: "%B %d, %Y" }}{% endif %}
+      {% if page.last_modified_at %}
+        {% if page.date %} &middot; {% endif %}
+        Last updated {{ page.last_modified_at | date: "%B %d, %Y" }}
+      {% endif %}
     </p>
 
     <h1>{{ page.title }}</h1>

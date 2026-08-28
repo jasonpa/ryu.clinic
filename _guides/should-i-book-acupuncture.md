@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Should I Book Acupuncture? Deciding If It's Right for You"
 nav_title: "Philosophy – Should I Book?"
 short_description: "Help deciding whether acupuncture is a good fit for your situation."

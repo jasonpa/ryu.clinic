@@ -1,4 +1,6 @@
 ---
+last_modified_at: 2026-01-06
+date: 2025-12-01
 title: "Midlife Joint Pain and Acupuncture: Natural Support for Aging Bodies"
 nav_title: "Symptoms – Midlife Joint Pain"
 short_description: "For people in their 40s-60s dealing with joint pain and stiffness."
