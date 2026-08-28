@@ -54,3 +54,43 @@ Here's what we'd like our patients to know: You may feel a bit of a pinch when t
  
 The bottom line is that as long as the feelings around the needled areas don't keep you from closing your eyes and napping for a little while, we say let them be.
  
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What Is Acupuncture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The purpose of Traditional Chinese Medicine (TCM) therapies is to recover the natural balance of your body by stimulating acupuncture points on the body. It can enhance recuperative power, immunity, and physical and emotional health, as well as improve overall function and well-being. Acupuncture activates the body's Qi and promotes natural healing by using fine, sterile needles at specific acupoints. It is a safe and effective way to treat a wide variety of medical problems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can you afford to charge so little for community acupuncture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because we treat lots of people. What's most important to a community acupuncturist is simply to give many people the chance to receive treatments. We want acupuncture to be readily available as a means to help take care of the health of our neighbors and communities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I have to take my clothes off for community acupuncture treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely not. Occasionally we may need access to areas just above the knee or up to the shoulder joint, in which case we'd ask you to wear shorts or a t-shirt. By and large all it takes to get ready for treatment is to roll up pant legs and shirt sleeves, as points on the lower arms and legs are the most commonly used in community clinics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do needles hurt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not really much at all. You may feel a bit of a pinch when the needles are tapped in, but this should ease right away. If you feel a slight ache or heavy feeling near the needle, this is usually a good sign — a clue that the body is reacting in a productive way. As long as the feelings around the needled areas don't keep you from relaxing, we say let them be."
+      }
+    }
+  ]
+}
+</script>

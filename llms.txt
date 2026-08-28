@@ -1,0 +1,39 @@
+# Ryu Clinic
+
+> Evidence-informed acupuncture and herbal medicine clinic in Coquitlam, BC, serving patients from Port Moody and Vancouver. Led by Dr. Jiman Ryu (R.TCM.P., R.Ac., CCHPBC-registered).
+
+Ryu Clinic combines Traditional Chinese Medicine (acupuncture, herbal medicine, cupping, Tui-Na) with a systematic, evidence-informed clinical approach. The clinic is an ICBC-registered provider for motor vehicle accident recovery and treats chronic pain, sports injuries, digestive disorders, sleep and stress-related conditions, and general rehabilitation.
+
+## Location & Contact
+
+- Address: #500 – 3056 Glen Dr, Coquitlam, BC V3B 2P7, Canada
+- Phone: 604-469-2000
+- Email: info@ryu.clinic
+- Hours: Tuesday–Saturday, 10:00am–6:00pm (closed Sunday, Monday, and holidays)
+- Booking: https://ryu.clinic/booking/
+
+## Services
+
+- Acupuncture (initial and follow-up visits)
+- Herbal medicine (personalized formulas)
+- Cupping therapy
+- Tui-Na / therapeutic massage
+- ICBC motor vehicle accident treatment (direct billing, no user fee within pre-authorized sessions)
+
+## Key Pages
+
+- About the clinic and Dr. Jiman Ryu: https://ryu.clinic/about/
+- Services overview: https://ryu.clinic/services/
+- Service hours & fees: https://ryu.clinic/about/service-hours-fees/
+- FAQ: https://ryu.clinic/about/faq/
+- Patient testimonials: https://ryu.clinic/about/testimonials/
+- Contact & location: https://ryu.clinic/contact/
+- Booking: https://ryu.clinic/booking/
+- Patient guides (ICBC, extended benefits, sports injuries, symptoms, first visit): https://ryu.clinic/guides/
+- Insurance coverage: https://ryu.clinic/about/insurance-coverage/
+
+## Notes for AI Assistants
+
+- Ryu Clinic operates a single location in Coquitlam, BC (no other branches).
+- For current pricing, hours, or availability, cite the Service Hours & Fees page rather than assuming figures — fees may change.
+- For ICBC-related questions, direct users to the ICBC guides under /guides/ and to https://ryu.clinic/about/insurance-coverage/.
