@@ -20,9 +20,9 @@ subtitle: Acupuncture & Herbal Medicine
 name: "Ryu Clinic Inc."
 email:
 description: >-
-  Premier Acupuncture & Herbal Medicine Clinic serving Coquitlam, Port Moody, and Vancouver.
-  Specializing in ICBC, Chronic Pain, Sports Injury, and Rehabilitation.
-  한의원, 한약, 비염, 호흡기, 수면장애, 소화불량, 통증클리닉, 침치료, 포트무디.
+  Ryu Clinic offers evidence-informed acupuncture and herbal medicine in Coquitlam, serving
+  patients from Port Moody and Vancouver with ICBC-covered treatment for chronic pain,
+  sports injuries, and recovery.
 keywords:
   - Acupuncture
   - Herbal Medicine
@@ -77,6 +77,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - CLAUDE.md
+  - doc/
 
 # Plugins (previously gems:)
 plugins:
@@ -136,6 +138,11 @@ collections:
     permalink: /lab/:path/
 
 defaults:
+  # site-wide fallback image for jekyll-seo-tag (og:image / twitter:image)
+  - scope:
+      path: ""
+    values:
+      image: "/assets/images/LOGO-Final-Small.png"
   # _posts
   - scope:
       path: ""
@@ -193,6 +200,7 @@ facebook:
   publisher              :
 
 og_image                 : "/assets/images/LOGO-Final-Small.png" # Open Graph/Twitter default site image
+image                    : "/assets/images/LOGO-Final-Small.png" # read by jekyll-seo-tag for og:image/twitter:image
 
 instagram:
   accessToken: ENV_INSTAGRAM_TOKEN

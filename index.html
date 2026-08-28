@@ -221,6 +221,39 @@ title: Home
     </div>
   </section>
 
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MedicalOrganization",
+    "@id": "{{ site.url }}/#clinic",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "3"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+        "author": { "@type": "Person", "name": "Gordon Cawley" },
+        "reviewBody": "I had my initial assessment, acupuncture, and was provided herbs to take during the week. Thoroughly enjoyed my experience. Jiman Ryu was very knowledgeable explaining the interaction of muscles, tendons, and bones surrounding my area of concern. Very clean, professional and relaxing environment."
+      },
+      {
+        "@type": "Review",
+        "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+        "author": { "@type": "Person", "name": "Hyeyun Yang" },
+        "reviewBody": "While suffering from anemia and dizziness due to irregular bleeding after giving birth, I discovered Ryu Clinic and started taking herbal medicine prescribed by Dr. Ryu Ji-man... I noticeably gained energy and was able to go about my daily life. Accurate diagnosis and kindness are Ryu Clinic's greatest strengths."
+      },
+      {
+        "@type": "Review",
+        "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+        "author": { "@type": "Person", "name": "Beverly J Bruce" },
+        "reviewBody": "Honestly, I felt like I was talking to a friend when I met Jiman! I learned so much in my initial visit and left with some herbs to try out and an overall plan. He also suggested home remedies to try and I felt a difference right away."
+      }
+    ]
+  }
+  </script>
+
   <!-- ============ 04 · FAQ ============ -->
   <section>
     <div class="section-head">
@@ -252,6 +285,55 @@ title: Home
     </dl>
     <p class="faq-tail">More questions? <a href="/contact">Contact us</a> or email <a href="mailto:info@ryu.clinic">info@ryu.clinic</a> — we answer everything.</p>
   </section>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Does acupuncture hurt?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most people feel little or nothing as the needles are inserted. Occasionally there is a brief dull ache, warmth, or a traveling sensation — these are signs the point has been activated. The needles are hair-thin, nothing like a hypodermic injection. Most patients relax or fall asleep during treatment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many sessions before I notice something?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Many people notice a shift after the first one or two visits. For chronic conditions that took years to develop, a course of 6–10 sessions is typical before making a longer-term plan. Acute conditions often resolve faster. You will receive an honest estimate at your first visit — not a prescription for indefinite care."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you handle ICBC claims?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Ryu Clinic is an ICBC-registered provider and accepts direct billing for motor vehicle accident recovery. Acupuncture is a covered treatment under most ICBC claims. Bring your claim number to your first appointment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you work alongside my medical doctor?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, and we prefer it. We will read your labs, understand your current medications, and coordinate with your GP or specialist if you give permission. Acupuncture and herbal medicine work best as a complement to conventional care, not a replacement for it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What conditions respond well to this kind of treatment?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pain conditions, headaches, sleep disorders, digestive issues, anxiety and stress-related symptoms, menstrual irregularity, fatigue, and recovery support after injury or surgery tend to respond well. We will tell you at intake if we think this approach is unlikely to help your specific presentation."
+        }
+      }
+    ]
+  }
+  </script>
 
   <!-- ============ 05 · Patient Guides ============ -->
   {% assign guides_list = site.guides | sort: 'date' | reverse %}
