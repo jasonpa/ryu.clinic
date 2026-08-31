@@ -15,7 +15,7 @@ korean_summary_body: >
   <p>그 안에서 Ryu Clinic이 어떤 강점을 갖고 있는지 한국어로 비교해 설명합니다.</p>
 ---
 
-Choosing an acupuncture clinic in Coquitlam can feel overwhelming, especially if you're new to acupuncture or dealing with pain or stress that makes decision-making harder. The right clinic for you depends on several practical factors—location, insurance support, treatment approach, and how comfortable you feel with the practitioner. This guide walks you through what to consider so you can make an informed choice.
+Choosing an acupuncture clinic in Coquitlam can feel overwhelming, especially if you're new to acupuncture or dealing with pain or stress that makes decision-making harder. The right clinic for you depends on several practical factors—location, insurance support, treatment approach, and how comfortable you feel with the practitioner. This guide walks you through what to consider so you can make an informed choice. For an overview of our Coquitlam services and to book, see [Acupuncture in Coquitlam](/coquitlam-acupuncture/).
 
 ## Location, parking and transit
 

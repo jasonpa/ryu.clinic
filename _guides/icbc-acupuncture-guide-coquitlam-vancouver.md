@@ -24,7 +24,7 @@ korean_summary_body: >
   </ul>
 ---
 
-After a car accident, it is completely normal to feel overwhelmed by symptoms, paperwork and worry about the future. This guide walks you through what to expect from ICBC‑related acupuncture care in Coquitlam & Vancouver with Ryu Clinic, so you can take the next step with clarity and confidence.
+After a car accident, it is completely normal to feel overwhelmed by symptoms, paperwork and worry about the future. This guide walks you through what to expect from ICBC‑related acupuncture care in Coquitlam & Vancouver with Ryu Clinic, so you can take the next step with clarity and confidence. For our full range of Coquitlam services and to book, see [Acupuncture in Coquitlam](/coquitlam-acupuncture/).
 
 ## After a car accident: what you may feel
 

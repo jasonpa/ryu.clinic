@@ -23,8 +23,8 @@ permalink: /contact/
         <h3>Coquitlam</h3>
         <p class="location-sub">@ Momentum Therapeutics</p>
         <address>
-          #500 – 3056 Glen Dr<br>
-          Coquitlam, BC V3B 2P7
+          Unit #500 – 3056 Glen Dr<br>
+          Coquitlam, BC V3B 0V1
         </address>
         <div class="location-links">
           <a href="tel:604-469-2000">

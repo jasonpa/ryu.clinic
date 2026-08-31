@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "Online Booking"
-      url: "https://ryuclinic.janeapp.com"
+      url: "https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139"
 excerpt: "We offer direct billing so you have one less thing to worry about"
 title: Insurance Coverage
 sidebar:

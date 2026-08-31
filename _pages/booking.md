@@ -19,7 +19,7 @@ permalink: /booking/
       <h3>Coquitlam</h3>
       <p class="location-sub">Momentum Therapeutics</p>
       <address>
-        #500 – 3056 Glen Dr<br>
+        Unit #500 – 3056 Glen Dr<br>
         Coquitlam, BC<br>
         <span style="font-size:12px;color:var(--stone);">(Across from Coquitlam Centre)</span>
       </address>

@@ -17,7 +17,7 @@ Ryu Clinic operates at Momentum Therapeutics in Coquitlam, serving patients from
 
 ## Coquitlam Location: Momentum Therapeutics
 
-**Address**: #500 – 3056 Glen Dr, Coquitlam, BC V3B 2P7  
+**Address**: Unit #500 – 3056 Glen Dr, Coquitlam, BC V3B 0V1  
 **Best for**: Residents of Coquitlam, Port Coquitlam, Port Moody, the Tri-Cities area, and Vancouver
 
 **Parking**: Ample free parking available on-site. Easy access from the parking lot to the clinic entrance.
