@@ -47,7 +47,7 @@ permalink: /about/
 
       <div class="about-cta">
         <a href="/booking/" class="btn-primary">Book a Consultation</a>
-        <a href="/contact" class="btn-ghost">Contact &amp; Location</a>
+        <a href="/contact/" class="btn-ghost">Contact &amp; Location</a>
       </div>
     </aside>
 

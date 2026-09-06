@@ -57,7 +57,7 @@ permalink: /contact/
     </div>
     <div style="display:flex;gap:12px;flex-wrap:wrap;">
       <a href="/booking/" class="btn-primary">Go to Booking Portal</a>
-      <a href="/services" class="btn-ghost">View Services &amp; Fees</a>
+      <a href="/services/" class="btn-ghost">View Services &amp; Fees</a>
     </div>
   </section>
 

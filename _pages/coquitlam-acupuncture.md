@@ -59,7 +59,7 @@ permalink: /coquitlam-acupuncture/
     <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
       Jiman brings a thorough, patient-centered approach to every session. Every treatment begins with a detailed
       physical assessment and functional evaluation to build a measurable, step-by-step recovery plan tailored
-      to your lifestyle. Read more <a href="/about">about Dr. Ryu</a>.
+      to your lifestyle. Read more <a href="/about/">about Dr. Ryu</a>.
     </p>
     <p class="korean-text" style="font-family:var(--serif);font-size:15px;color:var(--stone);margin-top:16px;">
       코퀴틀람 Glen Dr(Momentum Therapeutics 내)에서 진료하는 류한의원(Ryu Clinic)입니다.
