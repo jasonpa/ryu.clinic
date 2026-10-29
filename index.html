@@ -336,7 +336,7 @@ title: Ryu Clinic
   </script>
 
   <!-- ============ 05 · Patient Guides ============ -->
-  {% assign guides_list = site.guides | sort: 'date' | reverse %}
+  {% assign guides_list = site.guides | where_exp: "g", "g.retired != true" | sort: 'date' | reverse %}
   {% if guides_list.size > 0 %}
   <section>
     <div class="section-header-row">

@@ -1,6 +1,8 @@
 ---
 last_modified_at: 2026-07-29
 date: 2025-12-01
+sitemap: false
+retired: true  # 301 → /icbc-acupuncture-coquitlam/ via Cloudflare redirect rule (not in repo)
 title: "ICBC Car Accident Acupuncture Guide in Coquitlam"
 nav_title: "ICBC - Acupuncture Guide"
 short_description: "Start here if you were recently in a car accident and have an ICBC claim."

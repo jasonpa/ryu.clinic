@@ -20,7 +20,7 @@ permalink: /guides/
     {% assign cat_title = parts[0] %}
     {% assign start = parts[1] | plus: 0 %}
     {% assign end = parts[2] | plus: 0 %}
-    {% assign category_guides = site.guides | where_exp: "g", "g.order >= start" | where_exp: "g", "g.order < end" | sort: "order" %}
+    {% assign category_guides = site.guides | where_exp: "g", "g.retired != true" | where_exp: "g", "g.order >= start" | where_exp: "g", "g.order < end" | sort: "order" %}
 
     {% if category_guides.size > 0 %}
     <section style="margin-bottom:48px;">
