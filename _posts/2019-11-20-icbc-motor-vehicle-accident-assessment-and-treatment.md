@@ -5,6 +5,8 @@ header:
   #overlay_filter: 0.5
 title: ICBC Motor Vehicle Accident Assessment and Treatment
 date: 2019-11-20 00:00:00
+sitemap: false
+retired: true  # 301 → /icbc-acupuncture-coquitlam/ via Cloudflare redirect rule (not in repo)
 tags: 
   - About
   - News

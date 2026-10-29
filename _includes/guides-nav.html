@@ -7,7 +7,7 @@
         <li>
             <span class="nav__sub-title">ICBC & Car Accident</span>
             <ul>
-                {% assign guides = site.guides | sort: "order" %}
+                {% assign guides = site.guides | where_exp: "g", "g.retired != true" | sort: "order" %}
                 {% for guide in guides %}
                 {% if guide.order >= 10 and guide.order < 20 %} <li
                     class="{% if guide.url == page.url %}active{% endif %}">

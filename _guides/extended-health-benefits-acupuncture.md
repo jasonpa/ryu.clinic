@@ -5,14 +5,14 @@ title: "How to Use Extended Health Benefits for Acupuncture"
 nav_title: "Benefits - Extended Benefits How to Use"
 short_description: "A clear overview of how to use your extended health benefits for acupuncture care."
 permalink: /guides/extended-health-benefits-acupuncture/
-meta_title: "Extended Health Benefits for Acupuncture | Coquitlam & Vancouver | Ryu Clinic"
-meta_description: "Discover how to use extended health benefits for acupuncture in Coquitlam & Vancouver, and plan a smarter routine for pain and stress management."
+meta_title: "Extended Health Benefits for Acupuncture | Coquitlam | Ryu Clinic"
+meta_description: "Discover how to use extended health benefits for acupuncture in Coquitlam, and plan a smarter routine for pain and stress management."
 order: 20
 korean_summary_intro: "extended health benefits를 침 치료에 어떻게 활용할지 알고 싶을 때 보는 가이드입니다."
 korean_summary_body: >
   <p>This guide shows how to use extended health benefits for acupuncture and how to plan your visits across the year.</p>
   <p>보험사가 무엇을 얼마나 커버하는지, 연간 한도를 어떻게 나누어 쓰면 좋은지 예시를 통해 설명합니다.</p>
-  <p>Coquitlam & Vancouver Ryu Clinic에서 보험 청구와 예약을 어떻게 도와드리는지도 한국어로 정리합니다.</p>
+  <p>Coquitlam Ryu Clinic에서 보험 청구와 예약을 어떻게 도와드리는지도 한국어로 정리합니다.</p>
 ---
 
 ## What most extended health plans cover for acupuncture

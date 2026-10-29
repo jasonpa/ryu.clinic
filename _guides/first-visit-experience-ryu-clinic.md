@@ -5,8 +5,8 @@ title: "Your First Visit at Ryu Clinic: What to Expect"
 nav_title: "First Visit – What to Expect"
 short_description: "Step-by-step overview of what happens during your first acupuncture visit."
 permalink: /guides/first-visit-experience-ryu-clinic/
-meta_title: "First Visit at Ryu Clinic | Coquitlam & Vancouver Acupuncture | Ryu Clinic"
-meta_description: "Walk through your first acupuncture visit at Ryu Clinic in Coquitlam & Vancouver so you know exactly what to expect."
+meta_title: "First Visit at Ryu Clinic | Coquitlam Acupuncture | Ryu Clinic"
+meta_description: "Walk through your first acupuncture visit at Ryu Clinic in Coquitlam so you know exactly what to expect."
 order: 71
 korean_summary_intro: "Ryu Clinic 첫 방문이 어떻게 진행되는지 궁금할 때 읽는 가이드입니다."
 korean_summary_body: >
@@ -15,7 +15,7 @@ korean_summary_body: >
   <p>침을 맞는 동안 어떤 느낌이 드는지, 치료 후 어떤 변화가 있을 수 있는지, 그리고 다음 방문 계획을 어떻게 세우는지까지 포함되어 있어, 첫 방문에 대한 불안감을 줄이고 편안하게 준비할 수 있습니다.</p>
 ---
 
-Walking into a new clinic for the first time can feel intimidating, especially if you've never tried acupuncture before. You might be wondering what to expect, how long it will take, whether it will hurt, and if it will actually help. This guide walks you through your first visit at Ryu Clinic in Coquitlam or Vancouver, step by step, so you know exactly what's coming and can arrive feeling prepared and confident.
+Walking into a new clinic for the first time can feel intimidating, especially if you've never tried acupuncture before. You might be wondering what to expect, how long it will take, whether it will hurt, and if it will actually help. This guide walks you through your first visit at Ryu Clinic in Coquitlam, step by step, so you know exactly what's coming and can arrive feeling prepared and confident.
 
 ## Before you arrive
 

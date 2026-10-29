@@ -5,15 +5,15 @@ title: "Should I Book Acupuncture? Deciding If It's Right for You"
 nav_title: "Philosophy – Should I Book?"
 short_description: "Help deciding whether acupuncture is a good fit for your situation."
 permalink: /guides/should-i-book-acupuncture/
-meta_title: "Should I Try Acupuncture? | Coquitlam & Vancouver | Ryu Clinic"
-meta_description: "Decide if acupuncture is right for you with this practical guide for Coquitlam & Vancouver residents."
+meta_title: "Should I Try Acupuncture? | Coquitlam | Ryu Clinic"
+meta_description: "Decide if acupuncture is right for you with this practical guide for Coquitlam residents."
 order: 72
 korean_summary_intro: "침 치료가 나에게 맞는지 판단하는 데 도움을 주는 가이드입니다."
 korean_summary_body: >
   <p>어떤 경우에 침 치료를 고려하면 좋은지, 어떤 기대를 가져야 하는지, 그리고 첫 방문 전에 알아두면 좋은 것들을 정리합니다.</p>
 ---
 
-If you're considering acupuncture but aren't sure whether it's right for you, this guide will help you think through the decision. Acupuncture isn't a magic cure-all, but for many people in Coquitlam and Vancouver, it's been a valuable tool for managing pain, stress, and other health concerns.
+If you're considering acupuncture but aren't sure whether it's right for you, this guide will help you think through the decision. Acupuncture isn't a magic cure-all, but for many people in Coquitlam, it's been a valuable tool for managing pain, stress, and other health concerns.
 
 ## Acupuncture might be a good fit if...
 
@@ -76,6 +76,6 @@ Acupuncture can often be used alongside medical care, but serious conditions nee
 
 **Research your condition**: Look for evidence on acupuncture's effectiveness for your specific concern. There's good research supporting acupuncture for pain, headaches, stress, and many other conditions.
 
-Ultimately, the decision is yours. If you're curious, open-minded, and willing to give it a fair trial, acupuncture might be exactly what you need. You can book online through JaneApp or call Ryu Clinic in Coquitlam or Vancouver to discuss whether acupuncture is right for your situation.
+Ultimately, the decision is yours. If you're curious, open-minded, and willing to give it a fair trial, acupuncture might be exactly what you need. You can book online through JaneApp or call Ryu Clinic in Coquitlam to discuss whether acupuncture is right for your situation.
 
 ---

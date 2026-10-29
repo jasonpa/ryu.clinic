@@ -16,7 +16,7 @@ Dear valued clients,
 
 As we transition into spring, many people find themselves struggling with respiratory illnesses due to the changing weather, increased stress levels, and environmental factors. These challenges can significantly impact our immune system, leaving us vulnerable to various health issues. At our Clinic, we have recently seen an influx of patients seeking relief from these ailments.
 
-We offer effective solutions to help you regain your health and strengthen your immunity. Our clinic specializes in two primary treatments: herbal medicine and acupuncture.
+We offer effective solutions to help you regain your health and strengthen your immunity. Our clinic offers two main treatments: herbal medicine and acupuncture.
 
 Our experienced practitioners carefully select and combine herbs based on your unique needs, creating personalized formulas to target your specific symptoms. These herbal remedies work to balance your body's energy, reduce inflammation, and boost your immune system, allowing you to recover more quickly and prevent future illnesses.
 

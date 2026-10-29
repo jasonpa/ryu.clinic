@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acupuncture Coquitlam
-description: "Evidence-informed acupuncture and Traditional Chinese Medicine in Coquitlam. Specializing in ICBC rehabilitation, chronic pain management, and sports recovery with Jiman Ryu, R.Ac, R.TCM.P. Book online today."
+description: "Evidence-informed acupuncture and Traditional Chinese Medicine in Coquitlam for ICBC recovery, chronic pain and sports injuries, with Jiman Ryu, R.Ac, R.TCM.P. Book online today."
 permalink: /coquitlam-acupuncture/
 ---
 
@@ -33,7 +33,7 @@ permalink: /coquitlam-acupuncture/
   <section style="margin-bottom:56px;">
     <div class="section-head">
       <p class="section-num">Focus Areas</p>
-      <h2 class="section-title">Specialized treatment areas.</h2>
+      <h2 class="section-title">Treatment areas.</h2>
     </div>
     <ol class="features">
       <li>
@@ -59,7 +59,7 @@ permalink: /coquitlam-acupuncture/
     <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
       Jiman brings a thorough, patient-centered approach to every session. Every treatment begins with a detailed
       physical assessment and functional evaluation to build a measurable, step-by-step recovery plan tailored
-      to your lifestyle. Read more <a href="/about/">about Dr. Ryu</a>.
+      to your lifestyle. Read more <a href="/about/">about Jiman Ryu</a>.
     </p>
     <p class="korean-text" style="font-family:var(--serif);font-size:15px;color:var(--stone);margin-top:16px;">
       코퀴틀람 Glen Dr(Momentum Therapeutics 내)에서 진료하는 류한의원(Ryu Clinic)입니다.
@@ -93,7 +93,7 @@ permalink: /coquitlam-acupuncture/
       </div>
       <div style="margin-bottom:24px;">
         <p class="name" style="font-weight:600;">Is acupuncture covered under ICBC after a car accident?</p>
-        <p class="what">If you have an active ICBC claim, you may be eligible for pre-approved acupuncture treatment. We handle direct billing with ICBC so you can focus on your recovery. See our <a href="/guides/icbc-acupuncture-guide-coquitlam-vancouver/">ICBC acupuncture guide</a> for details on getting started.</p>
+        <p class="what">If you have an active ICBC claim, you may be eligible for pre-approved acupuncture treatment. We handle direct billing with ICBC so you can focus on your recovery. See our <a href="/icbc-acupuncture-coquitlam/">ICBC acupuncture page</a> for details on getting started.</p>
       </div>
       <div style="margin-bottom:24px;">
         <p class="name" style="font-weight:600;">Do you offer direct billing for extended health insurance?</p>

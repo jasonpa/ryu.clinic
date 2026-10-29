@@ -5,8 +5,8 @@ title: "Office Neck and Shoulder Pain Relief with Acupuncture"
 nav_title: "Office - Neck & Shoulder Pain"
 short_description: "For office workers with neck and shoulder tension from long hours at a desk."
 permalink: /guides/office-neck-shoulder-pain/
-meta_title: "Office Neck & Shoulder Pain | Coquitlam & Vancouver Acupuncture | Ryu Clinic"
-meta_description: "Learn how acupuncture in Coquitlam & Vancouver can relieve office neck and shoulder pain, plus simple stretches and booking options near you."
+meta_title: "Office Neck & Shoulder Pain | Coquitlam Acupuncture | Ryu Clinic"
+meta_description: "Learn how acupuncture in Coquitlam can relieve office neck and shoulder pain, plus simple stretches and booking options near you."
 order: 30
 korean_summary_intro: "사무직·지식노동자의 목·어깨 통증과 두통을 다루는 가이드입니다."
 korean_summary_body: >
@@ -16,7 +16,7 @@ korean_summary_body: >
   <p>Coquitlam Momentum 지점에서 퇴근 전후 예약이 가능하며, 점심시간 방문도 조율할 수 있어 바쁜 직장인도 무리 없이 관리를 시작할 수 있습니다.</p>
 ---
 
-If you spend most of your day at a desk, you know the feeling: that creeping tightness in your neck, the knot between your shoulder blades, and the dull headache that shows up around 3pm. You're not imagining it, and you're definitely not alone. Office-related neck and shoulder pain is one of the most common reasons people in Coquitlam and Vancouver seek acupuncture care.
+If you spend most of your day at a desk, you know the feeling: that creeping tightness in your neck, the knot between your shoulder blades, and the dull headache that shows up around 3pm. You're not imagining it, and you're definitely not alone. Office-related neck and shoulder pain is one of the most common reasons people in Coquitlam seek acupuncture care.
 
 ## What desk-related pain actually feels like
 
@@ -44,7 +44,7 @@ Second, acupuncture works on your nervous system. If your body has been stuck in
 
 Third, acupuncture improves circulation. When muscles are tight for long periods, blood flow is restricted, which means less oxygen and nutrients reach the tissues. Acupuncture helps restore healthy circulation, which supports healing and reduces inflammation.
 
-At Ryu Clinic in Coquitlam and Vancouver, treatment plans for office workers are designed around your schedule and your specific pain patterns. If your neck is the main issue, the focus will be on releasing tension in the cervical spine and upper traps. If you're dealing with shoulder pain or tingling in your hands, treatment will address the muscles, fascia, and nerve pathways involved.
+At Ryu Clinic in Coquitlam, treatment plans for office workers are designed around your schedule and your specific pain patterns. If your neck is the main issue, the focus will be on releasing tension in the cervical spine and upper traps. If you're dealing with shoulder pain or tingling in your hands, treatment will address the muscles, fascia, and nerve pathways involved.
 
 ## Simple desk stretches to use alongside treatment
 
@@ -71,7 +71,7 @@ Most people are surprised by how gentle acupuncture is. The needles are very thi
 It depends on how long you've had the pain and how severe it is. For recent or mild tension, you might notice improvement within two or three visits. For chronic pain that's been building for months or years, a series of six to eight sessions is more common, with visits spaced closer together at first and then tapering off as your symptoms improve.
 
 **Can I come during my lunch break?**  
-Yes. Both the Coquitlam and Vancouver locations offer flexible scheduling, and many office workers book appointments during lunch or right after work. A typical follow-up session takes about 30–45 minutes, so it's possible to fit treatment into a lunch hour if your workplace is nearby.
+Yes. Our Coquitlam clinic offers flexible scheduling, and many office workers book appointments during lunch or right after work. A typical follow-up session takes about 30–45 minutes, so it's possible to fit treatment into a lunch hour if your workplace is nearby.
 
 **Will I feel better right away?**  
 Some people notice immediate relief—less tightness, easier movement, or a reduction in headache intensity. For others, the benefits build gradually over a few sessions as your muscles and nervous system reset. Either way, the goal is steady, lasting improvement, not just temporary relief.
@@ -79,7 +79,7 @@ Some people notice immediate relief—less tightness, easier movement, or a redu
 **Is it covered by insurance?**  
 Many extended health plans in Canada cover acupuncture. Check your benefits to see how many sessions are included per year, and bring your insurance information to your first visit. Ryu Clinic can provide receipts for you to submit to your insurer.
 
-## How to book in Coquitlam or Vancouver
+## How to book in Coquitlam
 
 Ryu Clinic serves office workers across the Lower Mainland from Momentum Therapeutics in Coquitlam, which is convenient and offers ample parking whether you work or live in the Tri-Cities area or are traveling in from Vancouver, Burnaby, or the downtown core.
 

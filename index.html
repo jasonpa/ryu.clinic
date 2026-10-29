@@ -8,7 +8,7 @@ title: Ryu Clinic
   <!-- ============ Hero ============ -->
   <header class="hero">
     <div class="hero-eyebrow">
-      <span>Ryu Clinic · Vancouver · Coquitlam · Port Moody</span>
+      <span>Ryu Clinic · Coquitlam · Port Moody</span>
     </div>
 
     <h1>Ryu Clinic</h1>
@@ -272,7 +272,7 @@ title: Ryu Clinic
       </div>
       <div class="faq-pair">
         <dt>Do you handle ICBC claims?</dt>
-        <dd>Yes. Ryu Clinic is an ICBC-registered provider and accepts direct billing for motor vehicle accident recovery. Acupuncture is a covered treatment under most ICBC claims. Bring your claim number to your first appointment.</dd>
+        <dd>Yes. Ryu Clinic is an ICBC-registered provider and accepts direct billing for motor vehicle accident recovery. Acupuncture is a covered treatment under most ICBC claims. Bring your claim number to your first appointment. <a href="/icbc-acupuncture-coquitlam/">See what ICBC covers</a>.</dd>
       </div>
       <div class="faq-pair">
         <dt>Do you work alongside my medical doctor?</dt>
@@ -312,7 +312,7 @@ title: Ryu Clinic
         "name": "Do you handle ICBC claims?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes. Ryu Clinic is an ICBC-registered provider and accepts direct billing for motor vehicle accident recovery. Acupuncture is a covered treatment under most ICBC claims. Bring your claim number to your first appointment."
+          "text": "Yes. Ryu Clinic is an ICBC-registered provider and accepts direct billing for motor vehicle accident recovery. Acupuncture is a covered treatment under most ICBC claims. Bring your claim number to your first appointment. See what ICBC covers."
         }
       },
       {
@@ -336,7 +336,7 @@ title: Ryu Clinic
   </script>
 
   <!-- ============ 05 · Patient Guides ============ -->
-  {% assign guides_list = site.guides | sort: 'date' | reverse %}
+  {% assign guides_list = site.guides | where_exp: "g", "g.retired != true" | sort: 'date' | reverse %}
   {% if guides_list.size > 0 %}
   <section>
     <div class="section-header-row">

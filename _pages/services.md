@@ -39,7 +39,7 @@ permalink: /services/
         <h3>Motor vehicle accident recovery</h3>
         <p>Ryu Clinic is an ICBC-registered provider. Bring your claim number — we handle the billing directly. Acupuncture is a covered treatment under most ICBC claims.</p>
       </div>
-      <a href="/booking/" class="btn-primary" style="flex-shrink:0;">Book via ICBC</a>
+      <a href="/icbc-acupuncture-coquitlam/" class="btn-primary" style="flex-shrink:0;">Book via ICBC</a>
     </div>
   </section>
 

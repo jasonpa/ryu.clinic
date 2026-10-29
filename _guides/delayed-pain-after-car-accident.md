@@ -5,14 +5,14 @@ title: "Delayed Pain After a Car Accident: Why It Happens and What to Do"
 nav_title: "ICBC – Delayed Pain"
 short_description: "Understanding why pain can appear days or weeks after a car accident."
 permalink: /guides/delayed-pain-after-car-accident/
-meta_title: "Delayed Pain After Car Accident | ICBC Acupuncture | Coquitlam & Vancouver"
-meta_description: "Learn why pain appears days or weeks after a car accident and how acupuncture can help with ICBC recovery in Coquitlam & Vancouver."
+meta_title: "Delayed Pain After Car Accident | ICBC Acupuncture | Coquitlam"
+meta_description: "Learn why pain appears days or weeks after a car accident and how acupuncture can help with ICBC recovery in Coquitlam."
 order: 11
 korean_summary_intro: "교통사고 후 며칠~몇 주 지나서 통증이 나타나는 이유를 설명하는 가이드입니다."
 korean_summary_body: >
   <p>사고 직후에는 괜찮았는데 시간이 지나면서 목·허리·어깨 통증이 올라오는 패턴이 왜 생기는지, 아드레날린과 염증 반응의 역할을 설명합니다.</p>
   <p>지연성 통증을 무시하면 안 되는 이유와, 조기에 평가받고 치료를 시작하는 것이 왜 중요한지 다룹니다.</p>
-  <p>ICBC 클레임과 관련하여 언제 어떻게 치료를 시작해야 하는지, Coquitlam과 Vancouver에서 어떤 절차로 진행되는지 안내합니다.</p>
+  <p>ICBC 클레임과 관련하여 언제 어떻게 치료를 시작해야 하는지, Coquitlam에서 어떤 절차로 진행되는지 안내합니다.</p>
 ---
 
 After a car accident, it's common to feel relatively okay in the first few hours or even the first few days. The adrenaline is still flowing, you're focused on dealing with insurance and vehicle repairs, and you might think you escaped without serious injury. Then, a few days or weeks later, the pain sets in—stiffness in your neck, aching in your lower back, headaches, or shoulder tension that wasn't there before. This delayed onset of pain is extremely common after motor vehicle accidents, and understanding why it happens can help you take the right steps to recover.
@@ -82,7 +82,7 @@ Acupuncture is particularly effective for the types of delayed pain that develop
 - Improving circulation to support healing
 - Reducing pain signals and helping your body reset its pain threshold
 
-At Ryu Clinic in Coquitlam and Vancouver, ICBC patients are seen regularly, and the process is straightforward. Your first visit will include a detailed conversation about the accident, your current symptoms, and how they're affecting your daily life. Treatment will then focus on reducing pain, improving mobility, and preventing the transition from acute to chronic pain.
+At Ryu Clinic in Coquitlam, ICBC patients are seen regularly, and the process is straightforward. Your first visit will include a detailed conversation about the accident, your current symptoms, and how they're affecting your daily life. Treatment will then focus on reducing pain, improving mobility, and preventing the transition from acute to chronic pain.
 
 ## ICBC coverage and next steps
 
@@ -92,6 +92,8 @@ When you book your first appointment at Ryu Clinic, let them know you're coming 
 
 Early treatment—ideally within the first few weeks after the accident—gives you the best chance of avoiding chronic pain and getting back to your normal activities quickly. Even if you feel like your symptoms are manageable right now, addressing them early can prevent much bigger problems down the road.
 
-You can book online through JaneApp for either the Coquitlam or Vancouver location, or call the clinic to discuss your situation before scheduling. The goal is simple: catch delayed pain early, treat it effectively, and help you recover fully so you can move forward with confidence.
+You can book online through JaneApp for our Coquitlam clinic, or call the clinic to discuss your situation before scheduling. The goal is simple: catch delayed pain early, treat it effectively, and help you recover fully so you can move forward with confidence.
+
+Have an ICBC claim? See [ICBC acupuncture in Coquitlam](/icbc-acupuncture-coquitlam/).
 
 ---

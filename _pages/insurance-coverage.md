@@ -33,6 +33,8 @@ We are happy to bill your insurance provider directly so that you do not have to
 
 Once your insurance has been confirmed, all you have to do is pay the balance of your fee (depending on your individual plan).
 
+ICBC claims are billed directly too. See [ICBC acupuncture in Coquitlam](/icbc-acupuncture-coquitlam/).
+
 #### Who offers direct billing?
 Offered through TELUS Health eClaims:
   - Chambers of Commerce Group Insurance Plan

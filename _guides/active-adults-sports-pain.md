@@ -5,8 +5,8 @@ title: "Active Adults and Sports Pain: Stay Moving with Acupuncture"
 nav_title: "Sports – Active Adults Pain"
 short_description: "For active adults dealing with sports-related pain and injuries."
 permalink: /guides/active-adults-sports-pain/
-meta_title: "Sports Pain & Injury Recovery | Coquitlam & Vancouver Acupuncture | Ryu Clinic"
-meta_description: "Learn how acupuncture helps active adults in Coquitlam & Vancouver recover from sports injuries, reduce pain, and stay active longer."
+meta_title: "Sports Pain & Injury Recovery | Coquitlam Acupuncture | Ryu Clinic"
+meta_description: "Learn how acupuncture helps active adults in Coquitlam recover from sports injuries, reduce pain, and stay active longer."
 order: 41
 korean_summary_intro: "운동·야외활동을 즐기는 성인들의 스포츠 통증과 부상 회복을 다루는 가이드입니다."
 korean_summary_body: >
@@ -62,7 +62,7 @@ Acupuncture helps active adults in several key ways:
 
 **Support for training adaptation**: Regular acupuncture sessions can help your body adapt to training stress more effectively, reducing soreness, improving sleep, and allowing you to train more consistently without breaking down.
 
-At Ryu Clinic in Coquitlam and Vancouver, treatment plans for active adults are designed around your training schedule and goals. If you have a race or event coming up, treatment will focus on getting you to the start line healthy. If you're in the off-season, the focus might be on addressing underlying imbalances and building resilience for the next training cycle.
+At Ryu Clinic in Coquitlam, treatment plans for active adults are designed around your training schedule and goals. If you have a race or event coming up, treatment will focus on getting you to the start line healthy. If you're in the off-season, the focus might be on addressing underlying imbalances and building resilience for the next training cycle.
 
 ## Balancing activity and treatment: you don't have to stop moving
 

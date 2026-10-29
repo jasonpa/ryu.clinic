@@ -5,8 +5,8 @@ title: "Seasonal Pain and Weather Changes: How Acupuncture Can Help"
 nav_title: "Symptoms – Seasonal Pain"
 short_description: "For people whose pain worsens with weather changes."
 permalink: /guides/seasonal-pain-weather-changes/
-meta_title: "Seasonal Pain & Weather Changes | Coquitlam & Vancouver Acupuncture"
-meta_description: "Learn how acupuncture helps manage pain that worsens with weather changes and seasonal transitions in Coquitlam & Vancouver."
+meta_title: "Seasonal Pain & Weather Changes | Coquitlam Acupuncture"
+meta_description: "Learn how acupuncture helps manage pain that worsens with weather changes and seasonal transitions in Coquitlam."
 order: 55
 korean_summary_intro: "날씨 변화에 따라 통증이 악화되는 패턴을 다루는 가이드입니다."
 korean_summary_body: >
@@ -14,7 +14,7 @@ korean_summary_body: >
   <p>Vancouver의 습하고 비 많은 기후에서 통증을 관리하는 전략과, 계절별 예방 케어 방법을 제시합니다.</p>
 ---
 
-If you've ever said "I can feel the rain coming in my joints," you're not imagining it. Many people in Coquitlam and Vancouver notice that their pain—whether it's arthritis, old injuries, or chronic muscle tension—gets worse when the weather changes. While we can't control the weather (especially in rainy Vancouver), acupuncture can help your body adapt to seasonal changes and reduce weather-related pain flare-ups.
+If you've ever said "I can feel the rain coming in my joints," you're not imagining it. Many people in Coquitlam notice that their pain—whether it's arthritis, old injuries, or chronic muscle tension—gets worse when the weather changes. While we can't control the weather (especially in rainy Vancouver), acupuncture can help your body adapt to seasonal changes and reduce weather-related pain flare-ups.
 
 ## Why weather affects pain
 
@@ -50,7 +50,7 @@ If you've ever said "I can feel the rain coming in my joints," you're not imagin
 
 **Boosts immune function**: Acupuncture supports overall resilience, which is important during cold and flu season.
 
-At Ryu Clinic in Coquitlam and Vancouver, seasonal pain management often involves more frequent sessions during the transition periods (fall to winter, winter to spring) when flare-ups are most common, then spacing out sessions during more stable weather.
+At Ryu Clinic in Coquitlam, seasonal pain management often involves more frequent sessions during the transition periods (fall to winter, winter to spring) when flare-ups are most common, then spacing out sessions during more stable weather.
 
 ## Self-care strategies for weather-related pain
 

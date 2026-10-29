@@ -9,7 +9,7 @@ permalink: /booking/
   <header class="subpage-hero">
     <p class="subpage-eyebrow">Scheduling</p>
     <h1>Book Your Appointment</h1>
-    <p class="subpage-lede">Acupuncture and herbal medicine with Dr. Jiman Ryu at our Coquitlam clinic.</p>
+    <p class="subpage-lede">Acupuncture and herbal medicine with Jiman Ryu, R.Ac, R.TCM.P, at our Coquitlam clinic.</p>
   </header>
 
   <div class="contact-grid" style="margin-bottom:48px;">
@@ -34,6 +34,15 @@ permalink: /booking/
           Book Coquitlam
         </a>
       </div>
+      <div style="margin-top:12px;">
+        <a href="https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139/treatment/182"
+           class="btn-ghost" style="width:100%;justify-content:center;">
+          Book ICBC first visit
+        </a>
+      </div>
+      <p style="font-family:var(--serif);font-size:13px;color:var(--stone);margin-top:10px;">
+        New ICBC claim? <a href="/icbc-acupuncture-coquitlam/">What ICBC covers</a>
+      </p>
     </div>
 
   </div>

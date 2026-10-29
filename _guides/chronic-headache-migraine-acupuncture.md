@@ -5,8 +5,8 @@ title: "Chronic Headaches and Migraines: Another Option Beyond Medication"
 nav_title: "Symptoms – Headaches & Migraines"
 short_description: "For people living with recurring headaches or migraines."
 permalink: /guides/chronic-headache-migraine-acupuncture/
-meta_title: "Chronic Headaches & Migraines | Coquitlam & Vancouver Acupuncture | Ryu Clinic"
-meta_description: "Explore how acupuncture in Coquitlam & Vancouver may help chronic headaches and migraines as part of a broader care plan."
+meta_title: "Chronic Headaches & Migraines | Coquitlam Acupuncture | Ryu Clinic"
+meta_description: "Explore how acupuncture in Coquitlam may help chronic headaches and migraines as part of a broader care plan."
 order: 50
 korean_summary_intro: "만성 두통·편두통이 반복되는 분들을 위한 가이드입니다."
 korean_summary_body: >
@@ -15,7 +15,7 @@ korean_summary_body: >
   <p>어떤 경우에는 먼저 의사 진료나 검사를 받아야 하는지도 명확히 안내하며, 현실적인 치료 계획을 세우는 방법을 제시합니다.</p>
 ---
 
-If you live with chronic headaches or migraines, you know how much they can disrupt your life. The throbbing pain, the sensitivity to light and sound, the nausea, and the unpredictability of when the next one will hit—all of it takes a toll on your work, relationships, and quality of life. While medication can help, many people in Coquitlam and Vancouver are looking for additional options that address the root causes rather than just masking symptoms. Acupuncture offers a complementary approach that can reduce the frequency and intensity of headaches over time.
+If you live with chronic headaches or migraines, you know how much they can disrupt your life. The throbbing pain, the sensitivity to light and sound, the nausea, and the unpredictability of when the next one will hit—all of it takes a toll on your work, relationships, and quality of life. While medication can help, many people in Coquitlam are looking for additional options that address the root causes rather than just masking symptoms. Acupuncture offers a complementary approach that can reduce the frequency and intensity of headaches over time.
 
 ## Different types of headaches
 
@@ -65,7 +65,7 @@ Acupuncture has been shown in research to reduce the frequency, intensity, and d
 
 **Better sleep**: Many people notice improved sleep quality with regular acupuncture, which in turn reduces headache frequency.
 
-At Ryu Clinic in Coquitlam and Vancouver, treatment for headaches and migraines is personalized based on your specific headache type, triggers, and overall health. If your headaches are primarily stress and tension-related, treatment will focus on releasing muscle tension and calming the nervous system. If you have migraines, the approach will include strategies to reduce triggers, regulate your nervous system, and support hormonal balance if relevant.
+At Ryu Clinic in Coquitlam, treatment for headaches and migraines is personalized based on your specific headache type, triggers, and overall health. If your headaches are primarily stress and tension-related, treatment will focus on releasing muscle tension and calming the nervous system. If you have migraines, the approach will include strategies to reduce triggers, regulate your nervous system, and support hormonal balance if relevant.
 
 ## When to see your doctor or get imaging
 
@@ -107,6 +107,6 @@ Managing chronic headaches and migraines usually requires a multi-faceted approa
 
 **Be patient**: Headache patterns that have been building for months or years won't resolve overnight. Most people need a series of acupuncture sessions—typically six to twelve—to see significant, lasting improvement. Sessions are usually scheduled weekly at first, then spaced out as symptoms improve.
 
-If you're ready to explore acupuncture for chronic headaches or migraines in Coquitlam or Vancouver, Ryu Clinic is here to help. You can book online through JaneApp or call to discuss your situation. Your first visit will include a detailed conversation about your headache history, triggers, and overall health, followed by a personalized treatment plan designed to reduce the frequency and intensity of your headaches and help you reclaim your life.
+If you're ready to explore acupuncture for chronic headaches or migraines in Coquitlam, Ryu Clinic is here to help. You can book online through JaneApp or call to discuss your situation. Your first visit will include a detailed conversation about your headache history, triggers, and overall health, followed by a personalized treatment plan designed to reduce the frequency and intensity of your headaches and help you reclaim your life.
 
 ---

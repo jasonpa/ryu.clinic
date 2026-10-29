@@ -5,8 +5,8 @@ title: "Year-End Benefits Health Check: Use It Before You Lose It"
 nav_title: "Benefits – Year-End Check"
 short_description: "Making the most of your benefits before they reset."
 permalink: /guides/year-end-benefits-health-check/
-meta_title: "Year-End Benefits Health Check | Coquitlam & Vancouver Acupuncture"
-meta_description: "Learn how to maximize your extended health benefits before year-end in Coquitlam & Vancouver."
+meta_title: "Year-End Benefits Health Check | Coquitlam Acupuncture"
+meta_description: "Learn how to maximize your extended health benefits before year-end in Coquitlam."
 order: 23
 korean_summary_intro: "연말에 남은 보험 혜택을 활용하는 전략 가이드입니다."
 korean_summary_body: >
@@ -14,7 +14,7 @@ korean_summary_body: >
   <p>가족 전체의 혜택을 점검하고, 예방 케어나 유지 관리 치료로 활용하는 팁을 제시합니다.</p>
 ---
 
-Most extended health benefits reset on January 1st, which means any unused coverage from the current year disappears. If you haven't used your full allocation of acupuncture benefits, November and December are the time to act. Here's how to make the most of your year-end benefits at Ryu Clinic in Coquitlam and Vancouver.
+Most extended health benefits reset on January 1st, which means any unused coverage from the current year disappears. If you haven't used your full allocation of acupuncture benefits, November and December are the time to act. Here's how to make the most of your year-end benefits at Ryu Clinic in Coquitlam.
 
 ## Check your remaining coverage
 
@@ -68,6 +68,6 @@ Most extended health benefits reset on January 1st, which means any unused cover
 
 **Don't wait until December**: Spread your benefits throughout the year for better results rather than cramming everything into the last month.
 
-At Ryu Clinic in Coquitlam and Vancouver, we see a surge of patients in November and December who are making smart use of their year-end benefits. Don't let your coverage go to waste—book online through JaneApp or call to schedule your year-end health check and start the new year feeling your best.
+At Ryu Clinic in Coquitlam, we see a surge of patients in November and December who are making smart use of their year-end benefits. Don't let your coverage go to waste—book online through JaneApp or call to schedule your year-end health check and start the new year feeling your best.
 
 ---

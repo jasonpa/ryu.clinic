@@ -20,7 +20,7 @@ If you are not available to come during the regular hours, please contact us. Wi
 | Acupuncture Service                            | Length | Price |
 |------------------------------------------------|:------:|-------|
 | **Initial Visit - Evaluation & Treatment**[^1] |  60m   | $140  |
-| **Subsequent Visit**[^2]                       |  40m   | $120  |
+| **Subsequent Visit**[^2]                       |  45m   | $120  |
 
 ### Natural Herbal Medicine
 
@@ -44,15 +44,16 @@ If you are not available to come during the regular hours, please contact us. Wi
 
 This treatment is specially designed for MVA(Motor Vehicle Accident) injuries covered by ICBC. The treatment fees that ICBC will cover for care and treatment after a crash. 
 
-  - **Please bring your claim number.**
+  - **Please bring your claim number and Personal Health Number (PHN).**
   - **Pre-authorized number of treatments is 12 within 12 weeks of the accident causing the injury.**
   - **If it is passed 12 weeks already, please contact us first.**
   - **After pre-authorized period passed or finished preapproval sessions, you have to wait until getting extension approval from ICBC.**
+  - **New ICBC claim? See [ICBC acupuncture in Coquitlam](/icbc-acupuncture-coquitlam/).**
 
 |Service|Length|Price|
 |:---|:---:|:---|
-| **Initial Evaluation & Treatment** | 50m | Covered by ICBC, No User Fee |
-| **Subsequent Visit**               | 40m | Covered by ICBC, No User Fee |
+| **Initial Evaluation & Treatment** | 60m | Covered by ICBC, No User Fee |
+| **Subsequent Visit**               | 45m | Covered by ICBC, No User Fee |
 <!-- | **Initial RMT Massage Therapy**    | 45m | Covered by ICBC, No User Fee |
 | **Subsequent RMT Massage Therapy** | 45m | Covered by ICBC, $27.3 User Fee | -->
 

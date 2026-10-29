@@ -5,15 +5,15 @@ title: "Family Plan Benefits: Acupuncture for the Whole Family"
 nav_title: "Benefits – Family Plans"
 short_description: "How to use family extended health benefits for acupuncture."
 permalink: /guides/family-plan-benefits-acupuncture/
-meta_title: "Family Plan Acupuncture Benefits | Coquitlam & Vancouver"
-meta_description: "Learn how to maximize family extended health benefits for acupuncture in Coquitlam & Vancouver."
+meta_title: "Family Plan Acupuncture Benefits | Coquitlam"
+meta_description: "Learn how to maximize family extended health benefits for acupuncture in Coquitlam."
 order: 21
 korean_summary_intro: "가족 단위 보험으로 침 치료를 받는 방법을 설명하는 가이드입니다."
 korean_summary_body: >
   <p>배우자·자녀 각각의 보험 한도, 가족 전체가 효율적으로 혜택을 활용하는 전략, 그리고 연말 남은 혜택을 소진하는 방법을 제시합니다.</p>
 ---
 
-If you have a family extended health plan, each family member typically has their own allocation of acupuncture benefits. This means your household may have significantly more coverage than you realize. Here's how to make the most of family plan benefits at Ryu Clinic in Coquitlam and Vancouver.
+If you have a family extended health plan, each family member typically has their own allocation of acupuncture benefits. This means your household may have significantly more coverage than you realize. Here's how to make the most of family plan benefits at Ryu Clinic in Coquitlam.
 
 ## How family plans work
 

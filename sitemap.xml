@@ -7,7 +7,7 @@ sitemap:
 <!--urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"-->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   {% for post in site.posts %}
-    {% unless post.published == false %}
+    {% unless post.published == false or post.sitemap == false %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.sitemap.lastmod %}
@@ -51,6 +51,22 @@ sitemap:
       {% else %}
         <priority>0.3</priority>
       {% endif %}
+    </url>
+    {% endunless %}
+  {% endfor %}
+  {% for guide in site.guides %}
+    {% unless guide.sitemap == false %}
+    <url>
+      <loc>{{ site.url }}{{ guide.url }}</loc>
+      {% if guide.last_modified_at %}
+        <lastmod>{{ guide.last_modified_at | date_to_xmlschema }}</lastmod>
+      {% elsif guide.date %}
+        <lastmod>{{ guide.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
     </url>
     {% endunless %}
   {% endfor %}

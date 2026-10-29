@@ -5,8 +5,8 @@ title: "Midlife Joint Pain and Acupuncture: Natural Support for Aging Bodies"
 nav_title: "Symptoms – Midlife Joint Pain"
 short_description: "For people in their 40s-60s dealing with joint pain and stiffness."
 permalink: /guides/midlife-joint-pain-acupuncture/
-meta_title: "Midlife Joint Pain & Acupuncture | Coquitlam & Vancouver | Ryu Clinic"
-meta_description: "Learn how acupuncture helps manage joint pain, arthritis, and age-related stiffness in Coquitlam & Vancouver."
+meta_title: "Midlife Joint Pain & Acupuncture | Coquitlam | Ryu Clinic"
+meta_description: "Learn how acupuncture helps manage joint pain, arthritis, and age-related stiffness in Coquitlam."
 order: 54
 korean_summary_intro: "40-60대의 관절 통증과 뻣뻣함을 다루는 가이드입니다."
 korean_summary_body: >
@@ -52,7 +52,7 @@ If you're in your 40s, 50s, or 60s and noticing that your joints aren't what the
 
 **Supports overall vitality**: Many people notice improved energy, better sleep, and reduced stress with regular acupuncture—all of which support joint health.
 
-At Ryu Clinic in Coquitlam and Vancouver, treatment for midlife joint pain is personalized based on which joints are affected, the severity of your symptoms, and your overall health. The goal is to reduce pain, maintain mobility, and help you stay active and independent as you age.
+At Ryu Clinic in Coquitlam, treatment for midlife joint pain is personalized based on which joints are affected, the severity of your symptoms, and your overall health. The goal is to reduce pain, maintain mobility, and help you stay active and independent as you age.
 
 ## Combining acupuncture with other strategies
 
