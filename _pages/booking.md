@@ -34,6 +34,15 @@ permalink: /booking/
           Book Coquitlam
         </a>
       </div>
+      <div style="margin-top:12px;">
+        <a href="https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139/treatment/182"
+           class="btn-ghost" style="width:100%;justify-content:center;">
+          Book ICBC first visit
+        </a>
+      </div>
+      <p style="font-family:var(--serif);font-size:13px;color:var(--stone);margin-top:10px;">
+        New ICBC claim? <a href="/icbc-acupuncture-coquitlam/">What ICBC covers</a>
+      </p>
     </div>
 
   </div>
