@@ -5,8 +5,8 @@ title: "Lower Back Pain After a Car Accident: Recovery with Acupuncture"
 nav_title: "ICBC – Lower Back Pain"
 short_description: "Understanding and treating lower back pain after car accidents."
 permalink: /guides/lower-back-pain-car-accident/
-meta_title: "Lower Back Pain After Car Accident | ICBC | Coquitlam & Vancouver"
-meta_description: "Learn how acupuncture treats lower back pain after car accidents with ICBC coverage in Coquitlam & Vancouver."
+meta_title: "Lower Back Pain After Car Accident | ICBC | Coquitlam"
+meta_description: "Learn how acupuncture treats lower back pain after car accidents with ICBC coverage in Coquitlam."
 order: 13
 korean_summary_intro: "교통사고 후 허리 통증을 다루는 가이드입니다."
 korean_summary_body: >
@@ -14,7 +14,7 @@ korean_summary_body: >
   <p>앉기·서기·운전할 때 통증이 악화되는 이유와, 물리치료·카이로와 병행하는 방법을 다룹니다.</p>
 ---
 
-Lower back pain is one of the most common injuries after a car accident, and it can significantly impact your ability to work, drive, and perform daily activities. The forces involved in a collision—even a low-speed one—can strain muscles, ligaments, and joints in your lumbar spine, leading to pain that ranges from mild discomfort to severe, debilitating ache. If you're dealing with lower back pain after a car accident in Coquitlam or Vancouver, acupuncture can be an effective part of your ICBC recovery plan.
+Lower back pain is one of the most common injuries after a car accident, and it can significantly impact your ability to work, drive, and perform daily activities. The forces involved in a collision—even a low-speed one—can strain muscles, ligaments, and joints in your lumbar spine, leading to pain that ranges from mild discomfort to severe, debilitating ache. If you're dealing with lower back pain after a car accident in Coquitlam, acupuncture can be an effective part of your ICBC recovery plan.
 
 ## Common causes of lower back pain after accidents
 
@@ -42,7 +42,7 @@ Acupuncture addresses lower back pain on multiple levels:
 
 **Nervous system regulation**: Acupuncture helps calm an overactive nervous system, which can reduce pain sensitivity and improve sleep—both critical for recovery.
 
-At Ryu Clinic in Coquitlam and Vancouver, treatment for lower back pain after a car accident is tailored to your specific injury pattern. If you're dealing with acute muscle strain, the focus will be on reducing inflammation and releasing muscle tension. If SI joint dysfunction or facet joint pain is involved, treatment will address joint mobility and surrounding soft tissues.
+At Ryu Clinic in Coquitlam, treatment for lower back pain after a car accident is tailored to your specific injury pattern. If you're dealing with acute muscle strain, the focus will be on reducing inflammation and releasing muscle tension. If SI joint dysfunction or facet joint pain is involved, treatment will address joint mobility and surrounding soft tissues.
 
 ## Combining with other therapies
 

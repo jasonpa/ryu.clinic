@@ -5,15 +5,15 @@ title: "Extended Health Benefits for Acupuncture: The Basics"
 nav_title: "Benefits – Basics"
 short_description: "Understanding how extended health benefits cover acupuncture."
 permalink: /guides/extended-health-benefits-acupuncture-basics/
-meta_title: "Extended Health Benefits for Acupuncture | Coquitlam & Vancouver"
-meta_description: "Learn how to use your extended health benefits for acupuncture in Coquitlam & Vancouver."
+meta_title: "Extended Health Benefits for Acupuncture | Coquitlam"
+meta_description: "Learn how to use your extended health benefits for acupuncture in Coquitlam."
 order: 20
 korean_summary_intro: "회사 단체 보험으로 침 치료를 받는 방법을 설명하는 기본 가이드입니다."
 korean_summary_body: >
   <p>대부분의 캐나다 회사 보험이 침 치료를 커버하며, 연간 한도·영수증 제출 방법·직접 청구 가능 여부 등 실질적인 정보를 제공합니다.</p>
 ---
 
-Most extended health plans in Canada include coverage for acupuncture, but many people don't realize they have this benefit or aren't sure how to use it. This guide explains the basics of using your extended health benefits for acupuncture at Ryu Clinic in Coquitlam and Vancouver.
+Most extended health plans in Canada include coverage for acupuncture, but many people don't realize they have this benefit or aren't sure how to use it. This guide explains the basics of using your extended health benefits for acupuncture at Ryu Clinic in Coquitlam.
 
 ## What extended health benefits typically cover
 

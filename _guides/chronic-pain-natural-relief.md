@@ -1,12 +1,12 @@
 ---
 last_modified_at: 2026-07-29
 date: 2026-01-06
-title: "Chronic Pain Management with Acupuncture: Natural Relief in Coquitlam & Vancouver"
+title: "Chronic Pain Management with Acupuncture: Natural Relief in Coquitlam"
 nav_title: "Symptoms – Chronic Pain Relief"
 short_description: "For people living with ongoing pain seeking natural, drug-free alternatives."
 permalink: /guides/chronic-pain-natural-relief/
-meta_title: "Chronic Pain Management | Natural Pain Relief | Coquitlam & Vancouver Acupuncture"
-meta_description: "Discover how acupuncture offers natural, lasting relief for chronic pain including back pain, arthritis, fibromyalgia, and nerve pain in Coquitlam & Vancouver."
+meta_title: "Chronic Pain Management | Natural Pain Relief | Coquitlam Acupuncture"
+meta_description: "Discover how acupuncture offers natural, lasting relief for chronic pain including back pain, arthritis, fibromyalgia, and nerve pain in Coquitlam."
 order: 51
 korean_summary_intro: "3개월 이상 지속되는 만성 통증을 자연스럽고 약물 없이 관리하는 방법을 다룬 가이드입니다."
 korean_summary_body: >
@@ -79,7 +79,7 @@ Many extended health plans in Canada include coverage for acupuncture. Check you
 **What if I'm nervous about needles?**  
 It's completely normal to feel apprehensive, especially if you've never tried acupuncture before. The needles used are extremely thin—much finer than the needles used for injections—and most people are surprised by how gentle the treatment is. Your practitioner will explain everything before starting, and you're always in control. If at any point you feel uncomfortable, you can ask to pause or stop.
 
-## Getting started in Coquitlam or Vancouver
+## Getting started in Coquitlam
 
 Ryu Clinic offers chronic pain management services at Momentum Therapeutics in Coquitlam, a supportive, professional environment where your pain is taken seriously and your treatment is personalized to your needs.
 

@@ -5,8 +5,8 @@ title: "Stress, Digestion and Acupuncture: When Your Gut and Mind Are Connected"
 nav_title: "Symptoms – Stress & Digestion"
 short_description: "For people dealing with stress-related digestive issues."
 permalink: /guides/stress-digestion-acupuncture/
-meta_title: "Stress & Digestion | Coquitlam & Vancouver Acupuncture | Ryu Clinic"
-meta_description: "Learn how acupuncture in Coquitlam & Vancouver can help when stress and digestive issues are affecting each other."
+meta_title: "Stress & Digestion | Coquitlam Acupuncture | Ryu Clinic"
+meta_description: "Learn how acupuncture in Coquitlam can help when stress and digestive issues are affecting each other."
 order: 53
 korean_summary_intro: "스트레스와 소화 문제가 서로 얽혀 있을 때 참고할 수 있는 가이드입니다."
 korean_summary_body: >
@@ -15,7 +15,7 @@ korean_summary_body: >
   <p>언제 의사 진료가 필요한지 명확히 안내하며, 스트레스 관리와 소화 건강을 함께 개선하는 통합적 접근법을 제시합니다.</p>
 ---
 
-If you've ever felt your stomach drop before a big presentation, or noticed that your digestion gets worse during stressful periods, you already know that your gut and mind are deeply connected. For many people in Coquitlam and Vancouver, chronic stress and digestive issues feed into each other, creating a cycle that's hard to break. Acupuncture offers a way to address both sides of this connection, helping to calm your nervous system and support healthy digestion at the same time.
+If you've ever felt your stomach drop before a big presentation, or noticed that your digestion gets worse during stressful periods, you already know that your gut and mind are deeply connected. For many people in Coquitlam, chronic stress and digestive issues feed into each other, creating a cycle that's hard to break. Acupuncture offers a way to address both sides of this connection, helping to calm your nervous system and support healthy digestion at the same time.
 
 ## The gut-brain connection: why stress affects digestion
 
@@ -57,7 +57,7 @@ Acupuncture works on both sides of the gut-brain connection, helping to regulate
 
 **Better sleep**: Poor sleep worsens both stress and digestion. Acupuncture can improve sleep quality, which supports overall healing and resilience.
 
-At Ryu Clinic in Coquitlam and Vancouver, treatment for stress-related digestive issues is tailored to your specific symptoms and overall health. If you're dealing with IBS, treatment will focus on regulating gut motility and calming inflammation. If anxiety and stress are the primary drivers, the emphasis will be on nervous system regulation and emotional balance.
+At Ryu Clinic in Coquitlam, treatment for stress-related digestive issues is tailored to your specific symptoms and overall health. If you're dealing with IBS, treatment will focus on regulating gut motility and calming inflammation. If anxiety and stress are the primary drivers, the emphasis will be on nervous system regulation and emotional balance.
 
 ## When to see your doctor
 
@@ -92,6 +92,6 @@ Managing stress-related digestive issues works best with a multi-faceted approac
 
 **Acupuncture schedule**: For stress-related digestive issues, most people benefit from weekly sessions for the first four to six weeks, then spacing out to every two weeks as symptoms improve. The goal is to break the stress-digestion cycle and help your body find a new, healthier baseline.
 
-If you're ready to address the connection between stress and digestion in Coquitlam or Vancouver, Ryu Clinic is here to support you. You can book online through JaneApp or call to discuss your situation. Your first visit will include a thorough conversation about your digestive symptoms, stress levels, diet, and overall health, followed by a personalized treatment plan designed to calm your nervous system, support healthy digestion, and help you feel more balanced and comfortable in your body.
+If you're ready to address the connection between stress and digestion in Coquitlam, Ryu Clinic is here to support you. You can book online through JaneApp or call to discuss your situation. Your first visit will include a thorough conversation about your digestive symptoms, stress levels, diet, and overall health, followed by a personalized treatment plan designed to calm your nervous system, support healthy digestion, and help you feel more balanced and comfortable in your body.
 
 ---

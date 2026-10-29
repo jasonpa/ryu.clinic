@@ -5,17 +5,17 @@ title: "Combining Acupuncture with Physio, Chiro and Massage for ICBC Recovery"
 nav_title: "ICBC – Combining Therapies"
 short_description: "How to combine acupuncture with physiotherapy, chiropractic and massage after an accident."
 permalink: /guides/combining-therapies-icbc-recovery/
-meta_title: "Combining Therapies for ICBC Recovery | Coquitlam & Vancouver | Ryu Clinic"
-meta_description: "Learn how to combine acupuncture with physiotherapy, chiropractic and massage for ICBC recovery in Coquitlam & Vancouver and coordinate your care at Ryu Clinic."
+meta_title: "Combining Therapies for ICBC Recovery | Coquitlam | Ryu Clinic"
+meta_description: "Learn how to combine acupuncture with physiotherapy, chiropractic and massage for ICBC recovery in Coquitlam and coordinate your care at Ryu Clinic."
 order: 15
 korean_summary_intro: "물리치료·카이로·마사지와 침 치료를 함께 받을 때 참고할 수 있는 가이드입니다."
 korean_summary_body: >
   <p>각 치료가 어떤 역할을 하는지, 같은 주에 어떤 순서로 배치하면 좋은지에 대한 기본 원칙을 설명합니다.</p>
   <p>침 치료는 통증·염증 완화와 신경계 조절에 강점이 있고, 물리치료는 움직임·근력 회복, 카이로는 관절 정렬, 마사지는 근육 이완에 집중한다는 점을 정리합니다.</p>
-  <p>Coquitlam Momentum·Vancouver Regen 환경에서 다학제 치료를 조율하는 방법과, ICBC 클레임 내에서 효율적으로 관리하는 팁도 포함되어 있습니다.</p>
+  <p>Coquitlam Momentum 환경에서 다학제 치료를 조율하는 방법과, ICBC 클레임 내에서 효율적으로 관리하는 팁도 포함되어 있습니다.</p>
 ---
 
-After a car accident, you might be told that you can benefit from multiple types of treatment—physiotherapy, chiropractic, massage, and acupuncture. While this can feel overwhelming at first, a team-based approach often produces better results than relying on any single therapy alone. Each modality addresses different aspects of your recovery, and when coordinated properly, they work together to help you heal faster and more completely. Here's how to make sense of combining therapies for your ICBC recovery in Coquitlam and Vancouver.
+After a car accident, you might be told that you can benefit from multiple types of treatment—physiotherapy, chiropractic, massage, and acupuncture. While this can feel overwhelming at first, a team-based approach often produces better results than relying on any single therapy alone. Each modality addresses different aspects of your recovery, and when coordinated properly, they work together to help you heal faster and more completely. Here's how to make sense of combining therapies for your ICBC recovery in Coquitlam.
 
 ## Why a team-based approach works
 
@@ -135,6 +135,6 @@ When you book your first acupuncture appointment, let the clinic know if you're 
 
 **Be patient**: Recovery from a car accident takes time, especially if multiple structures are injured. Trust the process and give your body the time and support it needs to heal.
 
-Combining acupuncture with physiotherapy, chiropractic, and massage isn't about doing more for the sake of doing more—it's about addressing your injuries from multiple angles to give you the best possible chance of a full, lasting recovery. At Ryu Clinic in Coquitlam and Vancouver, you'll find a team that understands how to coordinate care effectively and support you every step of the way.
+Combining acupuncture with physiotherapy, chiropractic, and massage isn't about doing more for the sake of doing more—it's about addressing your injuries from multiple angles to give you the best possible chance of a full, lasting recovery. At Ryu Clinic in Coquitlam, you'll find a team that understands how to coordinate care effectively and support you every step of the way.
 
 ---

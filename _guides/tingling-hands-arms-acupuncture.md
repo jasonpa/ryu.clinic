@@ -5,8 +5,8 @@ title: "Tingling Hands and Arms: When to Consider Acupuncture"
 nav_title: "Symptoms – Tingling Hands/Arms"
 short_description: "For people experiencing numbness or tingling in hands and arms."
 permalink: /guides/tingling-hands-arms-acupuncture/
-meta_title: "Tingling Hands & Arms | Coquitlam & Vancouver Acupuncture"
-meta_description: "Learn how acupuncture helps carpal tunnel, nerve compression, and tingling in hands and arms in Coquitlam & Vancouver."
+meta_title: "Tingling Hands & Arms | Coquitlam Acupuncture"
+meta_description: "Learn how acupuncture helps carpal tunnel, nerve compression, and tingling in hands and arms in Coquitlam."
 order: 56
 korean_summary_intro: "손·팔 저림과 무감각을 다루는 가이드입니다."
 korean_summary_body: >
@@ -54,7 +54,7 @@ These could indicate serious conditions that require urgent evaluation.
 
 **Addresses root causes**: If poor posture or repetitive strain is contributing to your symptoms, acupuncture can be combined with ergonomic adjustments and exercises to address the underlying problem.
 
-At Ryu Clinic in Coquitlam and Vancouver, treatment for tingling hands and arms includes assessment of your posture, work setup, and movement patterns to identify and address contributing factors.
+At Ryu Clinic in Coquitlam, treatment for tingling hands and arms includes assessment of your posture, work setup, and movement patterns to identify and address contributing factors.
 
 ## Self-care strategies
 

@@ -5,8 +5,8 @@ title: "Runners and Hikers: Sports Acupuncture for Endurance Athletes"
 nav_title: "Sports – Runners & Hikers"
 short_description: "For runners and hikers dealing with overuse injuries."
 permalink: /guides/runners-hikers-sports-acupuncture/
-meta_title: "Runners & Hikers Acupuncture | Coquitlam & Vancouver | Ryu Clinic"
-meta_description: "Learn how acupuncture helps runners and hikers prevent and recover from injuries in Coquitlam & Vancouver."
+meta_title: "Runners & Hikers Acupuncture | Coquitlam | Ryu Clinic"
+meta_description: "Learn how acupuncture helps runners and hikers prevent and recover from injuries in Coquitlam."
 order: 42
 korean_summary_intro: "러너와 하이커를 위한 스포츠 침 치료 가이드입니다."
 korean_summary_body: >
@@ -14,7 +14,7 @@ korean_summary_body: >
   <p>훈련을 완전히 중단하지 않고 치료받으며 점진적으로 복귀하는 전략을 제시합니다.</p>
 ---
 
-Running and hiking are incredibly rewarding activities, but they also put repetitive stress on your joints, muscles, and connective tissues. Over time, this can lead to overuse injuries that sideline you from the trails and roads you love. Acupuncture offers runners and hikers in Coquitlam and Vancouver a way to recover faster, reduce injury risk, and keep doing what they love.
+Running and hiking are incredibly rewarding activities, but they also put repetitive stress on your joints, muscles, and connective tissues. Over time, this can lead to overuse injuries that sideline you from the trails and roads you love. Acupuncture offers runners and hikers in Coquitlam a way to recover faster, reduce injury risk, and keep doing what they love.
 
 ## Common running and hiking injuries
 
@@ -44,7 +44,7 @@ Running and hiking are incredibly rewarding activities, but they also put repeti
 
 **Performance support**: Many runners use acupuncture during heavy training blocks to support recovery between hard efforts.
 
-At Ryu Clinic in Coquitlam and Vancouver, treatment for runners and hikers is designed around your training schedule. If you have a race coming up, the focus is on getting you to the start line healthy. If you're in the off-season, treatment addresses underlying imbalances to prepare you for the next training cycle.
+At Ryu Clinic in Coquitlam, treatment for runners and hikers is designed around your training schedule. If you have a race coming up, the focus is on getting you to the start line healthy. If you're in the off-season, treatment addresses underlying imbalances to prepare you for the next training cycle.
 
 ## Training modifications during treatment
 

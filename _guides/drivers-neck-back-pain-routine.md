@@ -5,15 +5,15 @@ title: "Drivers: Neck and Back Pain Routine with Acupuncture"
 nav_title: "Office – Drivers Pain Routine"
 short_description: "For professional drivers and commuters with neck and back pain."
 permalink: /guides/drivers-neck-back-pain-routine/
-meta_title: "Drivers Neck & Back Pain | Coquitlam & Vancouver Acupuncture"
-meta_description: "Learn how acupuncture helps professional drivers and long commuters manage neck and back pain in Coquitlam & Vancouver."
+meta_title: "Drivers Neck & Back Pain | Coquitlam Acupuncture"
+meta_description: "Learn how acupuncture helps professional drivers and long commuters manage neck and back pain in Coquitlam."
 order: 33
 korean_summary_intro: "장시간 운전하는 분들의 목·허리 통증을 다루는 가이드입니다."
 korean_summary_body: >
   <p>직업 운전자나 긴 출퇴근 시간을 가진 분들의 통증 패턴과, 침 치료·간단한 차 안 스트레칭·자세 조정을 병행하는 방법을 제시합니다.</p>
 ---
 
-If you drive for a living or have a long commute in the Greater Vancouver area, you know how sitting in traffic can take a toll on your neck and back. The combination of prolonged sitting, vibration, poor posture, and stress creates a perfect storm for chronic pain. Acupuncture can help drivers in Coquitlam and Vancouver manage pain and stay comfortable behind the wheel.
+If you drive for a living or have a long commute in the Greater Vancouver area, you know how sitting in traffic can take a toll on your neck and back. The combination of prolonged sitting, vibration, poor posture, and stress creates a perfect storm for chronic pain. Acupuncture can help drivers in Coquitlam manage pain and stay comfortable behind the wheel.
 
 ## Why driving causes pain
 
@@ -51,7 +51,7 @@ If you drive for a living or have a long commute in the Greater Vancouver area, 
 
 **Better sleep**: Many drivers notice improved sleep quality, which supports overall recovery.
 
-At Ryu Clinic in Coquitlam and Vancouver, treatment for drivers often includes:
+At Ryu Clinic in Coquitlam, treatment for drivers often includes:
 - Releasing tension in the neck, shoulders, and lower back
 - Addressing hip and glute tightness
 - Calming the nervous system to reduce stress-related tension

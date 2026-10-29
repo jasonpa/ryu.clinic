@@ -5,8 +5,8 @@ title: "Women's Health: PMS, Sleep and Fatigue Patterns"
 nav_title: "Symptoms – Women's Health"
 short_description: "For women dealing with menstrual pain, sleep issues and fatigue."
 permalink: /guides/womens-health-pms-sleep-fatigue/
-meta_title: "Women's Health & Acupuncture | Coquitlam & Vancouver | Ryu Clinic"
-meta_description: "Explore how acupuncture in Coquitlam & Vancouver can support menstrual pain, sleep and fatigue in a safe, supportive setting."
+meta_title: "Women's Health & Acupuncture | Coquitlam | Ryu Clinic"
+meta_description: "Explore how acupuncture in Coquitlam can support menstrual pain, sleep and fatigue in a safe, supportive setting."
 order: 52
 korean_summary_intro: "생리통·PMS·피로·수면 문제가 함께 오는 여성 건강 패턴 가이드입니다."
 korean_summary_body: >
@@ -16,7 +16,7 @@ korean_summary_body: >
   <p>Ryu Clinic은 프라이버시와 편안함을 중시하며, 한국어로도 상담이 가능해 민감한 증상이나 고민을 부담 없이 나눌 수 있는 환경을 제공합니다.</p>
 ---
 
-If you've been told that painful periods, mood swings, exhaustion, and sleepless nights are just "part of being a woman," you're not alone—but you also don't have to accept it as normal. Many women in Coquitlam and Vancouver are finding that acupuncture and Traditional Chinese Medicine offer a different approach, one that addresses the root patterns behind menstrual pain, PMS, fatigue, and sleep issues rather than just masking symptoms.
+If you've been told that painful periods, mood swings, exhaustion, and sleepless nights are just "part of being a woman," you're not alone—but you also don't have to accept it as normal. Many women in Coquitlam are finding that acupuncture and Traditional Chinese Medicine offer a different approach, one that addresses the root patterns behind menstrual pain, PMS, fatigue, and sleep issues rather than just masking symptoms.
 
 ## Common cycle-related symptoms
 
@@ -50,7 +50,7 @@ Acupuncture can help regulate your menstrual cycle, reduce pain, improve sleep, 
 
 **Energy and mood support**: By addressing the underlying imbalances that contribute to fatigue and mood swings, acupuncture helps restore a sense of vitality and emotional stability. You may notice that you feel more resilient, less irritable, and better able to handle the demands of your day.
 
-At Ryu Clinic in Coquitlam and Vancouver, treatment plans for women's health are personalized based on your specific symptoms, cycle patterns, and overall health. If you're dealing with severe cramps, the focus might be on pain relief and muscle relaxation. If irregular cycles or PMS are your main concerns, treatment will aim to regulate your hormones and support your liver and spleen systems in TCM terms.
+At Ryu Clinic in Coquitlam, treatment plans for women's health are personalized based on your specific symptoms, cycle patterns, and overall health. If you're dealing with severe cramps, the focus might be on pain relief and muscle relaxation. If irregular cycles or PMS are your main concerns, treatment will aim to regulate your hormones and support your liver and spleen systems in TCM terms.
 
 ## Creating a safe and comfortable space
 
@@ -83,6 +83,6 @@ One of the strengths of acupuncture for women's health is that treatment can be 
 
 This cyclical approach recognizes that your body's needs change throughout the month, and it allows treatment to work with your natural rhythms rather than against them.
 
-If you're ready to explore a different approach to menstrual pain, PMS, sleep, and fatigue, Ryu Clinic in Coquitlam and Vancouver is here to support you. You can book online through JaneApp or call the clinic to discuss your concerns and find a time that works for you. Your first visit will include a thorough conversation about your health history and symptoms, followed by a personalized treatment plan designed to help you feel more balanced, comfortable, and in control of your health.
+If you're ready to explore a different approach to menstrual pain, PMS, sleep, and fatigue, Ryu Clinic in Coquitlam is here to support you. You can book online through JaneApp or call the clinic to discuss your concerns and find a time that works for you. Your first visit will include a thorough conversation about your health history and symptoms, followed by a personalized treatment plan designed to help you feel more balanced, comfortable, and in control of your health.
 
 ---

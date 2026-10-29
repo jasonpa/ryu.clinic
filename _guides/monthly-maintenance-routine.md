@@ -5,8 +5,8 @@ title: "Monthly Maintenance Acupuncture: Staying Ahead of Pain"
 nav_title: "Benefits – Monthly Maintenance"
 short_description: "Using acupuncture for ongoing maintenance and prevention."
 permalink: /guides/monthly-maintenance-routine/
-meta_title: "Monthly Maintenance Acupuncture | Coquitlam & Vancouver"
-meta_description: "Learn how regular maintenance acupuncture prevents pain and supports long-term health in Coquitlam & Vancouver."
+meta_title: "Monthly Maintenance Acupuncture | Coquitlam"
+meta_description: "Learn how regular maintenance acupuncture prevents pain and supports long-term health in Coquitlam."
 order: 22
 korean_summary_intro: "정기적인 유지 관리 침 치료의 이점을 설명하는 가이드입니다."
 korean_summary_body: >
@@ -58,7 +58,7 @@ Most people first try acupuncture when they're in pain or dealing with a specifi
 
 **Track your usage**: Keep a record of how many sessions you've used and how much coverage remains.
 
-At Ryu Clinic in Coquitlam and Vancouver, many patients transition from intensive treatment to monthly maintenance once their initial problem has resolved. This approach helps them stay healthy, active, and pain-free long-term.
+At Ryu Clinic in Coquitlam, many patients transition from intensive treatment to monthly maintenance once their initial problem has resolved. This approach helps them stay healthy, active, and pain-free long-term.
 
 You can book online through JaneApp or call to set up a maintenance schedule that works for your health goals and insurance coverage.
 

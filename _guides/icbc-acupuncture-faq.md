@@ -5,8 +5,8 @@ title: "ICBC Acupuncture FAQ: Common Questions About Coverage and Treatment"
 nav_title: "ICBC – FAQ"
 short_description: "Frequently asked questions about ICBC acupuncture coverage and treatment."
 permalink: /guides/icbc-acupuncture-faq/
-meta_title: "ICBC Acupuncture FAQ | Coquitlam & Vancouver | Ryu Clinic"
-meta_description: "Get answers to common questions about ICBC acupuncture coverage, treatment frequency, and what to expect in Coquitlam & Vancouver."
+meta_title: "ICBC Acupuncture FAQ | Coquitlam | Ryu Clinic"
+meta_description: "Get answers to common questions about ICBC acupuncture coverage, treatment frequency, and what to expect in Coquitlam."
 order: 16
 korean_summary_intro: "ICBC 침 치료에 대해 자주 묻는 질문들을 정리한 가이드입니다."
 korean_summary_body: >
@@ -14,7 +14,7 @@ korean_summary_body: >
   <p>의사 소견서가 필요한지, 치료 기간은 얼마나 되는지, 보험 한도를 초과하면 어떻게 되는지 등 구체적인 상황별 안내를 포함합니다.</p>
 ---
 
-If you've been in a car accident and are considering acupuncture as part of your ICBC recovery, you probably have questions about coverage, what to expect, and how the process works. This FAQ addresses the most common questions we hear from ICBC patients in Coquitlam and Vancouver.
+If you've been in a car accident and are considering acupuncture as part of your ICBC recovery, you probably have questions about coverage, what to expect, and how the process works. This FAQ addresses the most common questions we hear from ICBC patients in Coquitlam.
 
 ## Coverage and billing
 
@@ -67,6 +67,6 @@ A: Yes, most people can drive immediately after acupuncture. Some people feel re
 **Q: What if I have more questions?**  
 A: Call Ryu Clinic or book a consultation. The team is happy to answer questions and help you understand how acupuncture fits into your ICBC recovery plan.
 
-You can book online through JaneApp for the Coquitlam or Vancouver location, or call to speak with someone directly.
+You can book online through JaneApp for our Coquitlam clinic, or call to speak with someone directly.
 
 ---

@@ -5,8 +5,8 @@ title: "Life After ICBC Coverage: Transitioning to Maintenance Care"
 nav_title: "ICBC – Life After Coverage"
 short_description: "What to do when your ICBC coverage ends but you still need support."
 permalink: /guides/life-after-icbc-coverage/
-meta_title: "After ICBC Coverage Ends | Coquitlam & Vancouver Acupuncture"
-meta_description: "Learn how to continue acupuncture care after ICBC coverage ends using extended health benefits in Coquitlam & Vancouver."
+meta_title: "After ICBC Coverage Ends | Coquitlam Acupuncture"
+meta_description: "Learn how to continue acupuncture care after ICBC coverage ends using extended health benefits in Coquitlam."
 order: 17
 korean_summary_intro: "ICBC 보험이 끝난 후에도 치료를 계속하는 방법을 설명하는 가이드입니다."
 korean_summary_body: >
@@ -57,7 +57,7 @@ Your ICBC coverage for acupuncture typically lasts for a set period after your c
 
 **Peace of mind**: Knowing you have ongoing support reduces anxiety about pain returning.
 
-At Ryu Clinic in Coquitlam and Vancouver, many former ICBC patients transition to maintenance care using their extended health benefits or private pay. The clinic can help you create a sustainable plan that fits your budget and health needs.
+At Ryu Clinic in Coquitlam, many former ICBC patients transition to maintenance care using their extended health benefits or private pay. The clinic can help you create a sustainable plan that fits your budget and health needs.
 
 You can book online through JaneApp or call to discuss your options for continuing care after ICBC coverage ends.
 

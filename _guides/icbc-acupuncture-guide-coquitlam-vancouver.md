@@ -1,12 +1,12 @@
 ---
 last_modified_at: 2026-07-29
 date: 2025-12-01
-title: "ICBC Car Accident Acupuncture Guide in Coquitlam & Vancouver"
+title: "ICBC Car Accident Acupuncture Guide in Coquitlam"
 nav_title: "ICBC - Acupuncture Guide"
 short_description: "Start here if you were recently in a car accident and have an ICBC claim."
 permalink: /guides/icbc-acupuncture-guide-coquitlam-vancouver/
-meta_title: "ICBC Car Accident Acupuncture Guide | Coquitlam & Vancouver ICBC Acupuncture | Ryu Clinic"
-meta_description: "Learn how to start acupuncture after an ICBC car accident in Coquitlam & Vancouver, including coverage, what to expect, and how Ryu Clinic supports your recovery."
+meta_title: "ICBC Car Accident Acupuncture Guide | Coquitlam ICBC Acupuncture | Ryu Clinic"
+meta_description: "Learn how to start acupuncture after an ICBC car accident in Coquitlam, including coverage, what to expect, and how Ryu Clinic supports your recovery."
 order: 10
 korean_summary_intro: "ICBC 교통사고 후 침 치료를 어떻게 시작할지 궁금할 때 가장 먼저 읽으면 좋은 가이드입니다."
 korean_summary_body: >
@@ -20,11 +20,11 @@ korean_summary_body: >
   <li>치료는 처음에는 통증과 수면, 긴장 완화에 집중하고, 몸이 조금 안정되면 움직임과 기능 회복, 그 다음에는 재발을 줄이고 예전처럼 일상·운동·취미로 돌아가는 것을 목표로 단계적으로 설계됩니다.</li>
   <li>ICBC 클레임 번호와 사고 날짜, 복용 중인 약, 이미 받고 계신 다른 치료 정보를 가져오시면, 청구와 치료 계획을 훨씬 수월하게 정리해 드릴 수 있습니다.</li>
   <li>Coquitlam 지점에서 온라인(JaneApp)과 전화 예약이 가능하고, ryu.clinic Contact 페이지에서 주소와 교통·주차 안내를 미리 확인하실 수 있어 첫 방문도 어렵지 않습니다.</li>
-  <li>“지금 내 상태가 정상인지, 어디까지 회복할 수 있을지”가 막막하게 느껴지실 때, 이 가이드가 Coquitlam &amp; Vancouver 지역에서 어떤 순서로 도움을 받으면 좋을지 방향을 잡는 데 작은 이정표가 되면 좋겠습니다.</li>
+  <li>“지금 내 상태가 정상인지, 어디까지 회복할 수 있을지”가 막막하게 느껴지실 때, 이 가이드가 Coquitlam 지역에서 어떤 순서로 도움을 받으면 좋을지 방향을 잡는 데 작은 이정표가 되면 좋겠습니다.</li>
   </ul>
 ---
 
-After a car accident, it is completely normal to feel overwhelmed by symptoms, paperwork and worry about the future. This guide walks you through what to expect from ICBC‑related acupuncture care in Coquitlam & Vancouver with Ryu Clinic, so you can take the next step with clarity and confidence. For our full range of Coquitlam services and to book, see [Acupuncture in Coquitlam](/coquitlam-acupuncture/).
+After a car accident, it is completely normal to feel overwhelmed by symptoms, paperwork and worry about the future. This guide walks you through what to expect from ICBC‑related acupuncture care in Coquitlam with Ryu Clinic, so you can take the next step with clarity and confidence. For our full range of Coquitlam services and to book, see [Acupuncture in Coquitlam](/coquitlam-acupuncture/).
 
 ## After a car accident: what you may feel
 
@@ -42,13 +42,13 @@ Sleep is often affected too. You may find it harder to fall asleep, wake during 
 
 The first weeks after a car accident are when your body is trying to decide whether this injury will heal and calm down, or settle into a long‑term pattern. If muscles stay in protective guarding, joints remain stiff and your sleep continues to be disrupted, your nervous system can start to treat this new level of pain as the “new normal.” An early assessment helps interrupt that process before it becomes entrenched.
 
-During a proper evaluation, the clinician looks at which structures seem involved: muscles and fascia, joints, ligaments and, in some cases, nerve irritation. The goal is to understand not only where you hurt, but how you move, how you sleep and what your day actually looks like. Catching problems early often means you need fewer total visits, recover faster and get back to your usual activities in Coquitlam & Vancouver with more confidence.
+During a proper evaluation, the clinician looks at which structures seem involved: muscles and fascia, joints, ligaments and, in some cases, nerve irritation. The goal is to understand not only where you hurt, but how you move, how you sleep and what your day actually looks like. Catching problems early often means you need fewer total visits, recover faster and get back to your usual activities in Coquitlam with more confidence.
 
 ### When to seek urgent medical care first
 
 There are also times when acupuncture should not be your first stop. Red‑flag symptoms such as a sudden severe headache, vision changes, confusion, chest pain, shortness of breath, loss of consciousness or weakness need urgent medical attention. New loss of bladder or bowel control or numbness in the groin area can signal a serious neurological issue and also require immediate emergency care.
 
-If you are not sure whether your situation is urgent, it is always better to err on the side of caution and see a doctor or visit an emergency department first. After serious conditions are ruled out and any acute medical issues are stabilised, acupuncture at Ryu Clinic can become part of your ongoing ICBC recovery plan in Coquitlam & Vancouver.
+If you are not sure whether your situation is urgent, it is always better to err on the side of caution and see a doctor or visit an emergency department first. After serious conditions are ruled out and any acute medical issues are stabilised, acupuncture at Ryu Clinic can become part of your ongoing ICBC recovery plan in Coquitlam.
 
 ## How Ryu Clinic supports ICBC patients
 

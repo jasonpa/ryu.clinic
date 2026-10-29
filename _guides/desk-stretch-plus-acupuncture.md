@@ -5,8 +5,8 @@ title: "Desk Stretches Plus Acupuncture: A Complete Approach"
 nav_title: "Office – Desk Stretches"
 short_description: "Combining simple desk stretches with acupuncture for office workers."
 permalink: /guides/desk-stretch-plus-acupuncture/
-meta_title: "Desk Stretches & Acupuncture | Coquitlam & Vancouver"
-meta_description: "Learn how to combine desk stretches with acupuncture for better office pain relief in Coquitlam & Vancouver."
+meta_title: "Desk Stretches & Acupuncture | Coquitlam"
+meta_description: "Learn how to combine desk stretches with acupuncture for better office pain relief in Coquitlam."
 order: 31
 korean_summary_intro: "책상 스트레칭과 침 치료를 병행하는 방법을 설명하는 가이드입니다."
 korean_summary_body: >
@@ -61,7 +61,7 @@ Step one foot back, gently push hips forward. Hold 20-30 seconds each side.
 
 **Stress management**: Deep breathing, mindfulness, or short walks help prevent tension.
 
-At Ryu Clinic in Coquitlam and Vancouver, your practitioner can demonstrate stretches specific to your pain patterns and show you how to integrate them into your workday.
+At Ryu Clinic in Coquitlam, your practitioner can demonstrate stretches specific to your pain patterns and show you how to integrate them into your workday.
 
 You can book online through JaneApp or call to create a comprehensive plan that combines acupuncture with self-care strategies for lasting relief.
 

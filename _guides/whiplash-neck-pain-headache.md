@@ -5,17 +5,17 @@ title: "Whiplash, Neck Pain and Headaches After a Car Accident"
 nav_title: "ICBC – Whiplash & Neck Pain"
 short_description: "Understanding and treating whiplash-related neck pain and headaches."
 permalink: /guides/whiplash-neck-pain-headache/
-meta_title: "Whiplash & Neck Pain After Car Accident | ICBC | Coquitlam & Vancouver"
-meta_description: "Learn how acupuncture treats whiplash, neck pain and headaches after car accidents with ICBC coverage in Coquitlam & Vancouver."
+meta_title: "Whiplash & Neck Pain After Car Accident | ICBC | Coquitlam"
+meta_description: "Learn how acupuncture treats whiplash, neck pain and headaches after car accidents with ICBC coverage in Coquitlam."
 order: 12
 korean_summary_intro: "교통사고 후 편타성 손상(whiplash)으로 인한 목 통증과 두통을 다루는 가이드입니다."
 korean_summary_body: >
   <p>편타성 손상이 무엇인지, 왜 가벼운 사고에서도 생길 수 있는지, 그리고 목·어깨·두통이 어떻게 연결되어 있는지 설명합니다.</p>
   <p>침 치료가 급성기 염증 완화, 근육 긴장 해소, 신경 자극 감소에 어떻게 도움을 주는지, 그리고 물리치료·마사지와 병행하는 방법을 다룹니다.</p>
-  <p>ICBC 클레임으로 Coquitlam·Vancouver에서 치료받는 절차와, 회복 단계별 치료 목표를 한국어로 정리합니다.</p>
+  <p>ICBC 클레임으로 Coquitlam에서 치료받는 절차와, 회복 단계별 치료 목표를 한국어로 정리합니다.</p>
 ---
 
-Whiplash is one of the most common injuries after a car accident, and it can happen even in collisions that seem minor. The sudden back-and-forth motion of your head and neck during impact can strain muscles, ligaments, and nerves, leading to pain, stiffness, and headaches that can last for weeks or months if not properly treated. If you're dealing with neck pain and headaches after a car accident in Coquitlam or Vancouver, acupuncture can be an effective part of your ICBC recovery plan.
+Whiplash is one of the most common injuries after a car accident, and it can happen even in collisions that seem minor. The sudden back-and-forth motion of your head and neck during impact can strain muscles, ligaments, and nerves, leading to pain, stiffness, and headaches that can last for weeks or months if not properly treated. If you're dealing with neck pain and headaches after a car accident in Coquitlam, acupuncture can be an effective part of your ICBC recovery plan.
 
 ## What whiplash actually is
 
@@ -62,7 +62,7 @@ Acupuncture addresses whiplash injuries on multiple levels:
 
 **Improving sleep**: Pain and stress after an accident often disrupt sleep, which in turn slows healing. Many people notice improved sleep quality with acupuncture, which supports faster recovery.
 
-At Ryu Clinic in Coquitlam and Vancouver, whiplash treatment is tailored to the phase of your recovery. In the first few weeks, the focus is on reducing acute pain and inflammation. As you progress, treatment shifts to restoring full range of motion, releasing chronic muscle tension, and preventing long-term complications.
+At Ryu Clinic in Coquitlam, whiplash treatment is tailored to the phase of your recovery. In the first few weeks, the focus is on reducing acute pain and inflammation. As you progress, treatment shifts to restoring full range of motion, releasing chronic muscle tension, and preventing long-term complications.
 
 ## Combining acupuncture with other therapies
 
@@ -92,7 +92,7 @@ Everyone's recovery timeline is different, and factors like the severity of the 
 
 If you've been in a car accident and are experiencing neck pain or headaches, don't wait for symptoms to worsen. Early treatment gives you the best chance of a full recovery.
 
-To book at Ryu Clinic in Coquitlam or Vancouver:
+To book at Ryu Clinic in Coquitlam:
 - Have your ICBC claim number and accident date ready
 - Book online through JaneApp or call the clinic
 - Bring any medical records, imaging reports, or medication lists to your first visit
