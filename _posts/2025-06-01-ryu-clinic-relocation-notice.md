@@ -32,7 +32,7 @@ Jiman Ryu and Oliviah Kim have maintained a strong professional relationship ove
 #### Jiman Ryu: 
   - [Momentum Therapeutics](https://momentumtherapeutics.ca)
   - Address: 3056 Glen Dr unit # 500, Coquitlam, BC
-  - Phone: 604-475-5328
+  - Phone: 604-469-2000
   - ![Parking](/assets/images/momentum-parking.jpg)
 
 #### Oliviah Kim: 
