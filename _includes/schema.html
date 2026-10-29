@@ -3,7 +3,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "MedicalOrganization",
+      "@type": "MedicalClinic",
       "@id": "{{ site.url }}/#clinic",
       "name": "Ryu Clinic",
       "url": "{{ site.url }}",
@@ -31,6 +31,12 @@
         }
       ],
       "priceRange": "$$",
+      "availableLanguage": ["English", "Korean"],
+      "paymentAccepted": "Visa, Mastercard, Debit, Cash, Cheque, ICBC direct billing",
+      "availableService": {
+        "@type": "MedicalTherapy",
+        "name": "Acupuncture"
+      },
       "areaServed": [
         {
             "@type": "City",
@@ -49,7 +55,8 @@
         "@type": "ContactPoint",
         "telephone": "+1-604-469-2000",
         "contactType": "customer service",
-        "email": "info@ryu.clinic"
+        "email": "info@ryu.clinic",
+        "availableLanguage": ["English", "Korean"]
       },
       "medicalSpecialty": [
         "Acupuncture",
@@ -59,8 +66,9 @@
     },
     {
       "@type": "Person",
-      "@id": "{{ site.url }}/#dr-ryu",
-      "name": "Dr. Jiman Ryu",
+      "@id": "{{ site.url }}/#jiman-ryu",
+      "name": "Jiman Ryu",
+      "knowsLanguage": ["English", "Korean"],
       "jobTitle": ["Registered Acupuncturist", "Software Engineer"],
       "worksFor": {
         "@id": "{{ site.url }}/#clinic"
@@ -76,7 +84,7 @@
         "operatingSystem": "Web",
         "url": "{{ site.url }}/lab",
         "author": {
-            "@id": "{{ site.url }}/#dr-ryu"
+            "@id": "{{ site.url }}/#jiman-ryu"
         }
     }
   ]
