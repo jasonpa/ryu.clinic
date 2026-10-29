@@ -98,6 +98,8 @@ To book at Ryu Clinic in Coquitlam:
 - Bring any medical records, imaging reports, or medication lists to your first visit
 - Let the clinic know if you're also seeing other providers (physio, chiro, massage) so care can be coordinated
 
+Have an ICBC claim? See [ICBC acupuncture in Coquitlam](/icbc-acupuncture-coquitlam/).
+
 ICBC typically covers acupuncture as part of your accident claim, and you usually don't need a separate doctor's referral to start treatment. The clinic will handle billing arrangements and provide you with receipts and treatment summaries as needed for your claim.
 
 Your first visit will include a thorough assessment of your neck, shoulders, and upper back, along with a conversation about the accident, your symptoms, and your recovery goals. From there, you'll receive a personalized treatment plan designed to reduce pain, restore movement, and help you get back to driving, working, and living without constant neck pain and headaches.

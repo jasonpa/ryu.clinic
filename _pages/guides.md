@@ -28,6 +28,19 @@ permalink: /guides/
         <h2 class="section-title" style="font-size:22px;">{{ cat_title }}</h2>
       </div>
       <div class="content-grid">
+        {% if cat_title == "ICBC & Car Accident Recovery" %}
+        <a href="/icbc-acupuncture-coquitlam/" class="content-card">
+          <div class="content-card-body">
+            <div style="display:flex;gap:12px;align-items:flex-start;margin-bottom:8px;">
+              <div style="width:32px;height:32px;background:var(--brand-tint);border-radius:4px;display:flex;align-items:center;justify-content:center;color:var(--brand);font-size:13px;flex-shrink:0;">
+                <i class="fas fa-book-medical"></i>
+              </div>
+              <h3 class="content-card-title">ICBC Acupuncture: Start Here</h3>
+            </div>
+            <p class="content-card-cta">Read <i class="fas fa-arrow-right" style="font-size:10px;margin-left:4px;"></i></p>
+          </div>
+        </a>
+        {% endif %}
         {% for guide in category_guides %}
         <a href="{{ guide.url }}" class="content-card">
           <div class="content-card-body">

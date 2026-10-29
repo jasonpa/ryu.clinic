@@ -94,4 +94,6 @@ Early treatment—ideally within the first few weeks after the accident—gives 
 
 You can book online through JaneApp for our Coquitlam clinic, or call the clinic to discuss your situation before scheduling. The goal is simple: catch delayed pain early, treat it effectively, and help you recover fully so you can move forward with confidence.
 
+Have an ICBC claim? See [ICBC acupuncture in Coquitlam](/icbc-acupuncture-coquitlam/).
+
 ---

@@ -68,4 +68,6 @@ Most people see significant improvement within 6-8 weeks with consistent treatme
 
 You can book online through JaneApp or call Ryu Clinic to discuss your lower back pain and create a personalized recovery plan.
 
+Have an ICBC claim? See [ICBC acupuncture in Coquitlam](/icbc-acupuncture-coquitlam/).
+
 ---

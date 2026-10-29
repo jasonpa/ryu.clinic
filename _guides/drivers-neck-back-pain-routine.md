@@ -77,4 +77,6 @@ At Ryu Clinic in Coquitlam, treatment for drivers often includes:
 
 You can book online through JaneApp or call Ryu Clinic to create a pain management routine that keeps you comfortable on the road.
 
+Have an ICBC claim? See [ICBC acupuncture in Coquitlam](/icbc-acupuncture-coquitlam/).
+
 ---
