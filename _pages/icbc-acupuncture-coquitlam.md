@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ICBC Acupuncture in Coquitlam | 12 Covered Visits, No Referral"
+title: "ICBC Acupuncture in Coquitlam – 12 Covered Visits, No Referral"
 description: "Crash in the last 12 weeks? ICBC pre-approves 12 acupuncture visits, no referral needed. Bring your claim number and PHN. $0 out of pocket at Ryu Clinic, Coquitlam."
 permalink: /icbc-acupuncture-coquitlam/
 last_modified_at: 2026-10-28
