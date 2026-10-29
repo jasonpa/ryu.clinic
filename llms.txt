@@ -1,6 +1,6 @@
 # Ryu Clinic
 
-> Evidence-informed acupuncture and herbal medicine clinic in Coquitlam, BC, serving patients from Port Moody and Vancouver. Led by Dr. Jiman Ryu (R.TCM.P., R.Ac., CCHPBC-registered).
+> Evidence-informed acupuncture and herbal medicine clinic in Coquitlam, BC, serving patients from Port Moody and Vancouver. Led by Jiman Ryu (R.TCM.P., R.Ac., CCHPBC-registered).
 
 Ryu Clinic combines Traditional Chinese Medicine (acupuncture, herbal medicine, cupping, Tui-Na) with a systematic, evidence-informed clinical approach. The clinic is an ICBC-registered provider for motor vehicle accident recovery and treats chronic pain, sports injuries, digestive disorders, sleep and stress-related conditions, and general rehabilitation.
 
@@ -22,7 +22,7 @@ Ryu Clinic combines Traditional Chinese Medicine (acupuncture, herbal medicine, 
 
 ## Key Pages
 
-- About the clinic and Dr. Jiman Ryu: https://ryu.clinic/about/
+- About the clinic and Jiman Ryu: https://ryu.clinic/about/
 - Services overview: https://ryu.clinic/services/
 - Service hours & fees: https://ryu.clinic/about/service-hours-fees/
 - FAQ: https://ryu.clinic/about/faq/

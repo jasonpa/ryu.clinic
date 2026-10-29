@@ -9,7 +9,7 @@ permalink: /booking/
   <header class="subpage-hero">
     <p class="subpage-eyebrow">Scheduling</p>
     <h1>Book Your Appointment</h1>
-    <p class="subpage-lede">Acupuncture and herbal medicine with Dr. Jiman Ryu at our Coquitlam clinic.</p>
+    <p class="subpage-lede">Acupuncture and herbal medicine with Jiman Ryu, R.Ac, R.TCM.P, at our Coquitlam clinic.</p>
   </header>
 
   <div class="contact-grid" style="margin-bottom:48px;">
