@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
 <head>
     <meta charset="utf-8">
@@ -7,6 +7,11 @@
 
     <link rel="stylesheet" href="/assets/css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    {% if page.lang_alt %}
+    <link rel="alternate" hreflang="{{ page.lang }}" href="{{ site.url }}{{ page.url }}">
+    <link rel="alternate" hreflang="{% if page.lang == 'ko' %}en{% else %}ko{% endif %}" href="{{ site.url }}{{ page.lang_alt }}">
+    {% endif %}
 
     {% if site.google_analytics %}
     <!-- Global site tag (gtag.js) - Google Analytics -->

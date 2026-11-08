@@ -1,0 +1,15 @@
+- name: "침구"
+  description: "경락 이론에 기반한 전통 치료로 통증 완화, 스트레스 감소, 전신 균형을 돕습니다."
+  icon: "fas fa-bullseye"
+
+- name: "한약 처방"
+  description: "질병의 내부 원인을 다스리고 면역력을 높이는 맞춤 한약 처방."
+  icon: "fas fa-leaf"
+
+- name: "부항 치료"
+  description: "근막 감압을 통해 혈액 순환을 개선하고 근육 긴장을 완화합니다."
+  icon: "fas fa-circle"
+
+- name: "추나 / 마사지"
+  description: "체형을 교정하고 연조직을 편안하게 하는 치료용 마사지 기법."
+  icon: "fas fa-hand-holding-heart"
