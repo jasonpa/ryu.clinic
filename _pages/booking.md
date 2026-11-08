@@ -2,6 +2,8 @@
 layout: default
 title: Book Appointment
 permalink: /booking/
+lang: en
+lang_alt: /ko/booking/
 ---
 
 <div class="page">

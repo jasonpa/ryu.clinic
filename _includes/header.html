@@ -1,18 +1,24 @@
+{% assign is_ko = false %}
+{% if page.lang == 'ko' %}{% assign is_ko = true %}{% endif %}
+
 <nav class="site-nav">
     <a href="/" class="nav-logo">
         Ryu Clinic
-        <span class="nav-sub">Where Precision Meets Tradition</span>
+        <span class="nav-sub">{% if is_ko %}정교함과 전통의 만남{% else %}Where Precision Meets Tradition{% endif %}</span>
     </a>
 
     <ul class="nav-links">
-        <li><a href="/about/">About</a></li>
-        <li><a href="/services/">Services</a></li>
-        <li><a href="/guides/">Guides</a></li>
-        <li><a href="/blog/">Blog</a></li>
-        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/about/">{% if is_ko %}소개{% else %}About{% endif %}</a></li>
+        <li><a href="{% if is_ko %}/ko/services/{% else %}/services/{% endif %}">{% if is_ko %}진료 안내{% else %}Services{% endif %}</a></li>
+        <li><a href="/guides/">{% if is_ko %}가이드{% else %}Guides{% endif %}</a></li>
+        <li><a href="/blog/">{% if is_ko %}블로그{% else %}Blog{% endif %}</a></li>
+        <li><a href="/contact/">{% if is_ko %}문의{% else %}Contact{% endif %}</a></li>
+        {% if page.lang_alt %}
+        <li><a href="{{ page.lang_alt }}">{% if is_ko %}EN{% else %}KO{% endif %}</a></li>
+        {% endif %}
     </ul>
 
-    <a href="/booking/" class="nav-cta desktop">Book Online</a>
+    <a href="{% if is_ko %}/ko/booking/{% else %}/booking/{% endif %}" class="nav-cta desktop">{% if is_ko %}온라인 예약{% else %}Book Online{% endif %}</a>
 
     <button id="mobile-menu-btn" class="nav-mobile-btn" aria-label="Toggle menu" aria-expanded="false">
         <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
@@ -23,11 +29,14 @@
     </button>
 
     <div id="mobile-menu" class="nav-mobile-menu" role="menu">
-        <a href="/about/">About</a>
-        <a href="/services/">Services</a>
-        <a href="/guides/">Guides</a>
-        <a href="/blog/">Blog</a>
-        <a href="/contact/">Contact</a>
-        <a href="/booking/" class="nav-cta">Book Online</a>
+        <a href="/about/">{% if is_ko %}소개{% else %}About{% endif %}</a>
+        <a href="{% if is_ko %}/ko/services/{% else %}/services/{% endif %}">{% if is_ko %}진료 안내{% else %}Services{% endif %}</a>
+        <a href="/guides/">{% if is_ko %}가이드{% else %}Guides{% endif %}</a>
+        <a href="/blog/">{% if is_ko %}블로그{% else %}Blog{% endif %}</a>
+        <a href="/contact/">{% if is_ko %}문의{% else %}Contact{% endif %}</a>
+        {% if page.lang_alt %}
+        <a href="{{ page.lang_alt }}">{% if is_ko %}English{% else %}한국어{% endif %}</a>
+        {% endif %}
+        <a href="{% if is_ko %}/ko/booking/{% else %}/booking/{% endif %}" class="nav-cta">{% if is_ko %}온라인 예약{% else %}Book Online{% endif %}</a>
     </div>
 </nav>

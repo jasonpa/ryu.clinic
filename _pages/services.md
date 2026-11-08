@@ -2,6 +2,8 @@
 layout: default
 title: Clinical Services
 permalink: /services/
+lang: en
+lang_alt: /ko/services/
 ---
 
 <div class="page">
