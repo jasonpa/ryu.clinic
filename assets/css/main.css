@@ -20,7 +20,7 @@
   --line:        #d8d5c8;
 
   --serif:     Charter, Georgia, Palatino, "Times New Roman", serif;
-  --latin-ui:  system-ui, -apple-system, "Segoe UI", sans-serif;
+  --latin-ui:  "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
   --shot-bg:   #141318;
 }
 
