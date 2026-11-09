@@ -7,11 +7,11 @@ sidebar:
 
 ## Service Hours
 
-| Day                                    | Time             |
-|----------------------------------------|------------------|
-| Tuesday, Thursday and Saturday         | 10:00am ~ 6:00pm |
-| Wednesday and Friday                   | Closed           |
-| Sunday, Monday & Holiday               | Closed           |
+| Day | Time |
+|-----|------|
+{% for h in site.data.hours.open %}| {{ h.day }} | {{ h.display }} |
+{% endfor %}{% for row in site.data.hours.closed_rows %}| {{ row.days }} | {{ row.time }} |
+{% endfor %}
 
 If you are not available to come during the regular hours, please contact us. With 24 hours’ notice, we can arrange the time during the off-hours.
 

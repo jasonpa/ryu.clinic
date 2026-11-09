@@ -188,7 +188,7 @@ sitemap:
       Not sure if you qualify? <a href="/contact/">Email</a> or <a href="https://wa.me/+16044692000">WhatsApp</a> us your crash date.
     </p>
     <p style="font-family:var(--serif);font-size:15px;color:var(--stone);">
-      Unit #500 – 3056 Glen Dr, Coquitlam (inside Momentum Therapeutics, across from Coquitlam Centre) · Tue–Sat 10–6 · Phone 604-469-2000
+      Unit #500 – 3056 Glen Dr, Coquitlam (inside Momentum Therapeutics, across from Coquitlam Centre) · {% include hours-phrase.html format="compact" %} · Phone 604-469-2000
     </p>
     <p style="font-family:var(--serif);font-size:15px;color:var(--stone);">
       Patients also come from Port Moody, Burnaby and Vancouver.

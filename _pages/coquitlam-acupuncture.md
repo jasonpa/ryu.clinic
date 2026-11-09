@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Acupuncture Coquitlam: $140, 60-Min First Visit"
-description: "First visit in Coquitlam is 60 minutes and $140. No referral. Direct billing to most insurers. Open Tuesday, Thursday and Saturday. Book or call 604-469-2000."
+description: "First visit in Coquitlam is 60 minutes and $140. No referral. Direct billing to most insurers. Tue 10am–6pm, Thu 11am–7pm, Sat 10am–5pm. Call 604-469-2000."
 permalink: /coquitlam-acupuncture/
 last_modified_at: 2026-11-09
 ---
@@ -16,7 +16,7 @@ last_modified_at: 2026-11-09
   <div class="icbc-banner">
     <div>
       <h3>First visit: about 60 minutes, $140. No referral. Direct billing to most insurers.</h3>
-      <p>Open Tuesday, Thursday and Saturday. Parking: nearby Glen Park or street parking nearby.</p>
+      <p>Open {% include hours-phrase.html format="list" %}. Parking: nearby Glen Park or street parking nearby.</p>
     </div>
     <div class="cta-row">
       <a href="https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139" class="btn-primary" target="_blank" rel="noopener">Book a 60-min first visit ($140)</a>
@@ -51,7 +51,7 @@ last_modified_at: 2026-11-09
       <h2 class="section-title">Hours, location and parking</h2>
     </div>
     <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
-      We are open Tuesday, Thursday and Saturday, 10:00am to 6:00pm, and closed Sunday, Monday, Wednesday, Friday and holidays. If you need a time outside regular hours, contact us at least 24 hours ahead.
+      We are open {% include hours-phrase.html format="list" %}. {% include hours-phrase.html format="closed" %} If you need a time outside regular hours, contact us at least 24 hours ahead.
     </p>
     <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
       Ryu Clinic practises inside Momentum Therapeutics at Unit #500 – 3056 Glen Dr, Coquitlam, BC V3B 0V1, across from Coquitlam Centre and near Lafarge Lake-Douglas SkyTrain Station. For parking, we recommend nearby Glen Park or street parking nearby.
@@ -119,7 +119,7 @@ last_modified_at: 2026-11-09
       </div>
       <div class="faq-pair">
         <dt>What are your hours?</dt>
-        <dd>Tuesday, Thursday and Saturday, 10:00am to 6:00pm. Closed Sunday, Monday, Wednesday, Friday and holidays. If you need a time outside regular hours, contact us at least 24 hours ahead.</dd>
+        <dd>{% include hours-phrase.html format="list" %}. {% include hours-phrase.html format="closed" %} If you need a time outside regular hours, contact us at least 24 hours ahead.</dd>
       </div>
       <div class="faq-pair">
         <dt>What should I expect during my first acupuncture visit?</dt>
@@ -174,7 +174,7 @@ last_modified_at: 2026-11-09
       "name": "What are your hours?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tuesday, Thursday and Saturday, 10:00am to 6:00pm. Closed Sunday, Monday, Wednesday, Friday and holidays. If you need a time outside regular hours, contact us at least 24 hours ahead."
+        "text": "{% include hours-phrase.html format='list' %}. {% include hours-phrase.html format='closed' %} If you need a time outside regular hours, contact us at least 24 hours ahead."
       }
     },
     {
