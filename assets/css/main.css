@@ -693,7 +693,12 @@ section { margin-bottom: 80px; }
   .site-nav { padding: 0 24px; }
   .site-nav .nav-sub { display: none; }
   .nav-links { display: none; }
-  .nav-cta.desktop { display: none; }
+  .nav-cta.desktop {
+    display: inline-flex;
+    margin-left: auto;
+    padding: 8px 14px;
+    font-size: 12px;
+  }
   .nav-mobile-btn { display: flex; }
 
   .hero { margin-bottom: 56px; padding-bottom: 32px; }
@@ -729,6 +734,15 @@ section { margin-bottom: 80px; }
   .hero .tagline { font-size: 16px; }
   .hero-cta { flex-wrap: wrap; gap: 12px; }
   .btn-primary, .btn-ghost { min-width: 0; flex: 1; padding: 13px 16px; }
+  .cta-row .btn-primary,
+  .cta-row .btn-ghost,
+  .icbc-banner .btn-primary,
+  .icbc-banner .btn-ghost,
+  .booking-cta .btn-primary,
+  .booking-cta .btn-ghost {
+    flex: none;
+    width: 100%;
+  }
   .reviews-grid { grid-template-columns: 1fr; }
   .footer-locations { flex-direction: column; gap: 20px; }
 }
@@ -1097,6 +1111,76 @@ section { margin-bottom: 80px; }
   .services-grid { grid-template-columns: 1fr; }
   .contact-grid { grid-template-columns: 1fr; gap: 20px; }
   .icbc-banner { flex-direction: column; align-items: flex-start; }
+}
+
+
+/* Compact the subpage hero when a decision box follows it */
+.subpage-hero:has(+ .icbc-banner) {
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+  border-bottom: none;
+}
+
+/* Shared CTA row used in decision boxes and the booking block */
+.cta-row {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  align-items: center;
+}
+
+/* Navy booking CTA — replaces the previous purple gradient include */
+.booking-cta {
+  background: var(--ivory);
+  border: 1px solid var(--border-soft);
+  border-radius: 6px;
+  padding: 40px 36px;
+  text-align: center;
+  margin: 40px 0 0;
+}
+.booking-cta h2 {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.25;
+  color: var(--near-black);
+  margin: 0 0 10px;
+}
+.booking-cta p {
+  font-family: var(--serif);
+  font-size: 16px;
+  color: var(--dark-warm);
+  margin: 0;
+}
+.booking-cta .cta-row {
+  justify-content: center;
+  margin: 24px 0 16px;
+}
+.booking-cta .booking-cta-meta {
+  font-size: 15px;
+  color: var(--stone);
+  margin: 0;
+}
+
+@media (max-width: 880px) {
+  .icbc-banner { align-items: stretch; }
+  .cta-row,
+  .icbc-banner > div:last-child {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+  }
+  .cta-row .btn-primary,
+  .cta-row .btn-ghost,
+  .icbc-banner .btn-primary,
+  .icbc-banner .btn-ghost {
+    width: 100%;
+    min-width: 0;
+    flex: none;
+  }
+  .booking-cta { padding: 32px 24px; }
+  .booking-cta h2 { font-size: 24px; }
 }
 
 /* ========== Reduced motion ========== */

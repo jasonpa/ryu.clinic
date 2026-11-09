@@ -1,110 +1,142 @@
 ---
 layout: default
-title: Acupuncture Coquitlam
-description: "Evidence-informed acupuncture and Traditional Chinese Medicine in Coquitlam for ICBC recovery, chronic pain and sports injuries, with Jiman Ryu, R.Ac, R.TCM.P. Book online today."
+title: "Acupuncture Coquitlam: $140, 60-Min First Visit"
+description: "First visit in Coquitlam is 60 minutes and $140. No referral. Direct billing to most insurers. Open Tuesday, Thursday and Saturday. Book or call 604-469-2000."
 permalink: /coquitlam-acupuncture/
+last_modified_at: 2026-11-09
 ---
 
 <div class="page">
 
   <header class="subpage-hero">
     <p class="subpage-eyebrow">Coquitlam</p>
-    <h1>Acupuncture &amp; Traditional Chinese Medicine in Coquitlam</h1>
-    <p class="subpage-lede">Personalized, evidence-informed care for pain relief, ICBC rehabilitation, and functional recovery.</p>
-    <div style="margin-top:20px;">
-      <a href="https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139" class="btn-primary">Book an Appointment</a>
-    </div>
+    <h1>Acupuncture in Coquitlam</h1>
   </header>
+
+  <div class="icbc-banner">
+    <div>
+      <h3>First visit: about 60 minutes, $140. No referral. Direct billing to most insurers.</h3>
+      <p>Open Tuesday, Thursday and Saturday. Parking: nearby Glen Park or street parking nearby.</p>
+    </div>
+    <div class="cta-row">
+      <a href="https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139" class="btn-primary" target="_blank" rel="noopener">Book a 60-min first visit ($140)</a>
+      <a href="tel:604-469-2000" class="btn-ghost">Call 604-469-2000</a>
+      <a href="https://wa.me/+16044692000" class="btn-ghost">WhatsApp 604-469-2000</a>
+    </div>
+  </div>
+  <p style="font-family:var(--serif);font-size:15px;color:var(--stone);margin-top:16px;">
+    You'll book on Momentum Therapeutics' booking page. Ryu Clinic practises inside Momentum.
+  </p>
+  <p style="font-family:var(--serif);font-size:15px;color:var(--stone);margin-bottom:56px;">
+    Korean-speaking care available (<span lang="ko">한국어 진료 가능</span>) · Follow-up 45 minutes, $120 · Inside Momentum Therapeutics, Unit #500 – 3056 Glen Dr
+  </p>
 
   <section style="margin-bottom:56px;">
     <div class="section-head">
-      <p class="section-num">Location</p>
-      <h2 class="section-title">Experienced care in the heart of Coquitlam.</h2>
+      <p class="section-num">First visit</p>
+      <h2 class="section-title">What to expect at your first visit</h2>
     </div>
     <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
-      Conveniently located within Momentum Therapeutics (Unit #500 – 3056 Glen Dr, Coquitlam, BC V3B 0V1),
-      <strong>Ryu Clinic</strong> provides targeted acupuncture treatments designed to address the root causes
-      of musculoskeletal pain, sports injuries, and stress-related conditions. Led by Jiman Ryu, a licensed
-      Traditional Chinese Medicine Practitioner (R.TCM.P) and Acupuncturist (R.Ac), the clinic combines classical
-      TCM principles with modern orthopedic assessments.
+      Your first visit takes about 60 minutes. It includes a health history, a physical and orthopedic assessment, and tongue and pulse evaluation. Treatment happens the same day, and we talk through a plan for your next visit. Follow-up visits are about 45 minutes.
+    </p>
+    <h3 style="font-family:var(--serif);font-weight:500;font-size:20px;color:var(--near-black);margin:28px 0 12px;">What to wear and bring</h3>
+    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);margin:0;">
+      Wear comfortable clothes that can be rolled up at the arms and legs. If you plan to use extended health insurance, bring your insurance information, a list of any medications you take, and any related imaging you already have.
     </p>
   </section>
 
   <section style="margin-bottom:56px;">
     <div class="section-head">
-      <p class="section-num">Focus Areas</p>
-      <h2 class="section-title">Treatment areas.</h2>
+      <p class="section-num">Visit details</p>
+      <h2 class="section-title">Hours, location and parking</h2>
     </div>
-    <ol class="features">
-      <li>
-        <p class="name">ICBC Active Rehabilitation &amp; Motor Vehicle Accident Recovery</p>
-        <p class="what">Direct billing available for ICBC claims. We help drivers and passengers recover from whiplash, neck stiffness, lower back strain, and post-accident anxiety.</p>
-      </li>
-      <li>
-        <p class="name">Musculoskeletal Pain &amp; Orthopedic Rehabilitation</p>
-        <p class="what">Management for chronic neck, shoulder (rotator cuff, frozen shoulder), and back pain, sciatica, and running or sports-related overuse conditions through targeted electro-acupuncture, cupping, and motor point therapy.</p>
-      </li>
-      <li>
-        <p class="name">Internal Health &amp; Stress Regulation</p>
-        <p class="what">Treatment protocols addressing insomnia, chronic fatigue, digestive discomfort, and stress regulation using classical herbal medicine consultations and meridian therapy.</p>
-      </li>
-    </ol>
+    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
+      We are open Tuesday, Thursday and Saturday, 10:00am to 6:00pm, and closed Sunday, Monday, Wednesday, Friday and holidays. If you need a time outside regular hours, contact us at least 24 hours ahead.
+    </p>
+    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
+      Ryu Clinic practises inside Momentum Therapeutics at Unit #500 – 3056 Glen Dr, Coquitlam, BC V3B 0V1, across from Coquitlam Centre and near Lafarge Lake-Douglas SkyTrain Station. For parking, we recommend nearby Glen Park or street parking nearby.
+    </p>
+    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);margin:0;">
+      Patients also come from Port Moody, Port Coquitlam, Burnaby and Vancouver. We have one clinic, in Coquitlam.
+    </p>
+  </section>
+
+  <section style="margin-bottom:56px;">
+    <div class="section-head">
+      <p class="section-num">Fees</p>
+      <h2 class="section-title">Fees and direct billing</h2>
+    </div>
+    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
+      The first visit is $140 (about 60 minutes) and follow-up visits are $120 (about 45 minutes). We offer direct billing to most major private extended healthcare providers. Contact us to confirm your plan, or see our <a href="/about/insurance-coverage/">insurance coverage</a> and <a href="/about/service-hours-fees/">service hours and fees</a> pages. Please give at least 24 hours' notice to reschedule.
+    </p>
+    <h3 style="font-family:var(--serif);font-weight:500;font-size:20px;color:var(--near-black);margin:28px 0 12px;">Here after a car accident?</h3>
+    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);margin:0;">
+      If you have an ICBC claim, you may have 12 pre-approved acupuncture visits within 12 weeks of your crash, with no referral. We bill ICBC directly, and there is no extra fee for ICBC patients at Ryu Clinic. See <a href="/icbc-acupuncture-coquitlam/">ICBC acupuncture in Coquitlam</a>.
+    </p>
+  </section>
+
+  <section style="margin-bottom:56px;">
+    <div class="section-head">
+      <p class="section-num">Who it's for</p>
+      <h2 class="section-title">Who this first visit is for</h2>
+    </div>
+    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);margin:0;">
+      This first visit is for adults who are new to acupuncture, or new to this clinic. People often come to talk about pain, sleep, digestion, stress, or menstrual concerns.
+    </p>
   </section>
 
   <section style="margin-bottom:56px;">
     <div class="section-head">
       <p class="section-num">Practitioner</p>
-      <h2 class="section-title">Meet Jiman Ryu, R.Ac, R.TCM.P.</h2>
+      <h2 class="section-title">Jiman Ryu, R.Ac, R.TCM.P.</h2>
     </div>
     <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
-      Jiman brings a thorough, patient-centered approach to every session. Every treatment begins with a detailed
-      physical assessment and functional evaluation to build a measurable, step-by-step recovery plan tailored
-      to your lifestyle. Read more <a href="/about/">about Jiman Ryu</a>.
+      Jiman Ryu, R.Ac, R.TCM.P., practises at Ryu Clinic inside Momentum Therapeutics in Coquitlam. Read more <a href="/about/">about Jiman Ryu</a>.
     </p>
-    <p class="korean-text" style="font-family:var(--serif);font-size:15px;color:var(--stone);margin-top:16px;">
-      코퀴틀람 Glen Dr(Momentum Therapeutics 내)에서 진료하는 류한의원(Ryu Clinic)입니다.
-      ICBC 교통사고 치료(Direct Billing), 만성 통증 클리닉 및 맞춤 한방 치료를 제공합니다.
+    <p class="korean-text" lang="ko" style="font-family:var(--serif);font-size:15px;color:var(--stone);margin:16px 0 0;">
+      코퀴틀람 Momentum Therapeutics 안에서 진료하는 류한의원입니다. 초진은 약 60분, 비용은 $140이며 한국어 진료가 가능합니다. ICBC 교통사고 치료는 <a href="/icbc-acupuncture-coquitlam/">전용 페이지</a>를 참고해 주세요.
     </p>
   </section>
 
-  <section style="margin-bottom:56px;">
+  <section id="faq" style="border-top:1px solid var(--border-soft);padding-top:40px;margin-bottom:56px;">
     <div class="section-head">
-      <p class="section-num">Billing</p>
-      <h2 class="section-title">Direct billing &amp; transparent scheduling.</h2>
+      <p class="section-num">FAQ</p>
+      <h2 class="section-title">Questions before your first visit</h2>
     </div>
-    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
-      We offer direct billing to ICBC and most major private extended healthcare providers, so you have one less
-      thing to worry about. See our <a href="/about/insurance-coverage/">insurance coverage page</a> for details.
-    </p>
+
+    <dl class="faq">
+      <div class="faq-pair">
+        <dt>How much does acupuncture cost at Ryu Clinic in Coquitlam?</dt>
+        <dd>The first visit is $140 and takes about 60 minutes. Follow-up visits are $120 and take about 45 minutes. We direct bill most extended health plans, so you may only pay the balance. ICBC patients are billed differently — see the <a href="/icbc-acupuncture-coquitlam/">ICBC acupuncture page</a>.</dd>
+      </div>
+      <div class="faq-pair">
+        <dt>Do I need a referral for acupuncture?</dt>
+        <dd>No. You can book a first visit without a referral.</dd>
+      </div>
+      <div class="faq-pair">
+        <dt>Where is Ryu Clinic, and is there parking?</dt>
+        <dd>Ryu Clinic is inside Momentum Therapeutics at Unit #500, 3056 Glen Drive, Coquitlam, BC V3B 0V1, across from Coquitlam Centre and near Lafarge Lake-Douglas SkyTrain Station. We recommend nearby Glen Park or street parking nearby.</dd>
+      </div>
+      <div class="faq-pair">
+        <dt>What are your hours?</dt>
+        <dd>Tuesday, Thursday and Saturday, 10:00am to 6:00pm. Closed Sunday, Monday, Wednesday, Friday and holidays. If you need a time outside regular hours, contact us at least 24 hours ahead.</dd>
+      </div>
+      <div class="faq-pair">
+        <dt>What should I expect during my first acupuncture visit?</dt>
+        <dd>Your first visit includes a health history, a physical and orthopedic assessment, tongue and pulse evaluation, and treatment the same day. It takes about 60 minutes. Wear comfortable clothes that can be rolled up at the arms and legs.</dd>
+      </div>
+      <div class="faq-pair">
+        <dt>Do you offer Korean-language care?</dt>
+        <dd>Yes. Korean-language care is available (한국어 진료 가능). Call or WhatsApp 604-469-2000 if you would like to book in Korean.</dd>
+      </div>
+      <div class="faq-pair">
+        <dt>Do you offer ICBC acupuncture after a car accident?</dt>
+        <dd>Yes. If you have an ICBC claim, you may have 12 pre-approved visits within 12 weeks of your crash, with no referral. We bill ICBC directly, with no extra fee at Ryu Clinic. Details and booking: <a href="/icbc-acupuncture-coquitlam/">ICBC acupuncture in Coquitlam</a>.</dd>
+      </div>
+    </dl>
   </section>
 
   {% include booking.html %}
-
-  <section style="border-top:1px solid var(--border-soft);padding-top:40px;">
-    <div class="section-head">
-      <p class="section-num">FAQ</p>
-      <h2 class="section-title">Questions before your first visit.</h2>
-    </div>
-
-    <div class="features" style="margin-top:24px;">
-      <div style="margin-bottom:24px;">
-        <p class="name" style="font-weight:600;">Where is Ryu Clinic located in Coquitlam?</p>
-        <p class="what">Ryu Clinic operates inside Momentum Therapeutics at Unit #500, 3056 Glen Drive, Coquitlam, BC V3B 0V1, just minutes from Coquitlam Centre and Lafarge Lake-Douglas SkyTrain Station. Free on-site parking is available.</p>
-      </div>
-      <div style="margin-bottom:24px;">
-        <p class="name" style="font-weight:600;">Is acupuncture covered under ICBC after a car accident?</p>
-        <p class="what">If you have an active ICBC claim, you may be eligible for pre-approved acupuncture treatment. We handle direct billing with ICBC so you can focus on your recovery. See our <a href="/icbc-acupuncture-coquitlam/">ICBC acupuncture page</a> for details on getting started.</p>
-      </div>
-      <div style="margin-bottom:24px;">
-        <p class="name" style="font-weight:600;">Do you offer direct billing for extended health insurance?</p>
-        <p class="what">Yes, we provide direct billing for most major Canadian extended health insurers through our JaneApp billing portal. Contact us to confirm your specific plan.</p>
-      </div>
-      <div style="margin-bottom:24px;">
-        <p class="name" style="font-weight:600;">What should I expect during my initial acupuncture visit?</p>
-        <p class="what">Your first appointment includes a comprehensive health history intake, physical and orthopedic assessment, tongue and pulse evaluation, followed by a personalized acupuncture treatment. Please wear comfortable, loose-fitting clothing.</p>
-      </div>
-    </div>
-  </section>
 
 </div>
 
@@ -115,34 +147,58 @@ permalink: /coquitlam-acupuncture/
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Where is Ryu Clinic located in Coquitlam?",
+      "name": "How much does acupuncture cost at Ryu Clinic in Coquitlam?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ryu Clinic operates inside Momentum Therapeutics at Unit #500, 3056 Glen Drive, Coquitlam, BC V3B 0V1, just minutes from Coquitlam Centre and Lafarge Lake-Douglas SkyTrain Station. Free on-site parking is available."
+        "text": "The first visit is $140 and takes about 60 minutes. Follow-up visits are $120 and take about 45 minutes. We direct bill most extended health plans, so you may only pay the balance. ICBC patients are billed differently — see the ICBC acupuncture page."
       }
     },
     {
       "@type": "Question",
-      "name": "Is acupuncture covered under ICBC after a car accident?",
+      "name": "Do I need a referral for acupuncture?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If you have an active ICBC claim, you may be eligible for pre-approved acupuncture treatment. Ryu Clinic handles direct billing with ICBC so you can focus on your recovery."
+        "text": "No. You can book a first visit without a referral."
       }
     },
     {
       "@type": "Question",
-      "name": "Do you offer direct billing for extended health insurance?",
+      "name": "Where is Ryu Clinic, and is there parking?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Ryu Clinic provides direct billing for most major Canadian extended health insurers through its JaneApp billing portal. Contact the clinic to confirm your specific plan."
+        "text": "Ryu Clinic is inside Momentum Therapeutics at Unit #500, 3056 Glen Drive, Coquitlam, BC V3B 0V1, across from Coquitlam Centre and near Lafarge Lake-Douglas SkyTrain Station. We recommend nearby Glen Park or street parking nearby."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I expect during my initial acupuncture visit?",
+      "name": "What are your hours?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Your first appointment includes a comprehensive health history intake, physical and orthopedic assessment, tongue and pulse evaluation, followed by a personalized acupuncture treatment. Please wear comfortable, loose-fitting clothing."
+        "text": "Tuesday, Thursday and Saturday, 10:00am to 6:00pm. Closed Sunday, Monday, Wednesday, Friday and holidays. If you need a time outside regular hours, contact us at least 24 hours ahead."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I expect during my first acupuncture visit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your first visit includes a health history, a physical and orthopedic assessment, tongue and pulse evaluation, and treatment the same day. It takes about 60 minutes. Wear comfortable clothes that can be rolled up at the arms and legs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer Korean-language care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Korean-language care is available (한국어 진료 가능). Call or WhatsApp 604-469-2000 if you would like to book in Korean."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer ICBC acupuncture after a car accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If you have an ICBC claim, you may have 12 pre-approved visits within 12 weeks of your crash, with no referral. We bill ICBC directly, with no extra fee at Ryu Clinic. Details and booking: https://ryu.clinic/icbc-acupuncture-coquitlam/."
       }
     }
   ]
