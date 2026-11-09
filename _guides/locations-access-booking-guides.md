@@ -26,7 +26,7 @@ Ryu Clinic operates at Momentum Therapeutics in Coquitlam, serving patients from
 
 **Accessibility**: Ground-level access, wheelchair accessible.
 
-**Hours**: [Insert hours] including evening appointments
+**Hours**: {% include hours-phrase.html format="list" %}. {% include hours-phrase.html format="closed" %}
 
 ## How to book your first appointment
 

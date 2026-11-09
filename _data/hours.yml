@@ -1,0 +1,36 @@
+# Clinic opening hours. Edit this file to update hours across the site
+# (hours page, JSON-LD, booking block, Coquitlam and ICBC pages, llms.txt).
+# Thursday evening hours are a trial and may change.
+#
+# The front-matter description in _pages/coquitlam-acupuncture.md also
+# mentions hours and cannot read this file (Jekyll YAML is not Liquid).
+# Update that description if the days or times change.
+
+open:
+  - day: Tuesday
+    short: Tue
+    opens: "10:00"
+    closes: "18:00"
+    display: "10:00am–6:00pm"
+    display_short: "10am–6pm"
+  - day: Thursday
+    short: Thu
+    opens: "11:00"
+    closes: "19:00"
+    display: "11:00am–7:00pm"
+    display_short: "11am–7pm"
+  - day: Saturday
+    short: Sat
+    opens: "10:00"
+    closes: "17:00"
+    display: "10:00am–5:00pm"
+    display_short: "10am–5pm"
+
+closed_rows:
+  - days: "Wednesday and Friday"
+    time: Closed
+  - days: "Sunday, Monday & Holiday"
+    time: Closed
+
+closed_phrase: "Closed Sunday, Monday, Wednesday, Friday and holidays."
+closed_parenthetical: "closed Sunday, Monday, Wednesday, Friday, and holidays"

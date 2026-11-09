@@ -1,0 +1,27 @@
+{%- assign format = include.format | default: "list" -%}
+{%- if format == "list" -%}
+  {%- for h in site.data.hours.open -%}
+    {{- h.day }} {{ h.display -}}
+    {%- unless forloop.last %}, {% endunless -%}
+  {%- endfor -%}
+{%- elsif format == "compact" -%}
+  {%- for h in site.data.hours.open -%}
+    {{- h.short }} {{ h.display_short -}}
+    {%- unless forloop.last %}, {% endunless -%}
+  {%- endfor -%}
+{%- elsif format == "days" -%}
+  {%- assign names = site.data.hours.open | map: "day" -%}
+  {%- for name in names -%}
+    {%- if forloop.first -%}
+      {{- name -}}
+    {%- elsif forloop.last -%}
+      {{- " and " | append: name -}}
+    {%- else -%}
+      {{- ", " | append: name -}}
+    {%- endif -%}
+  {%- endfor -%}
+{%- elsif format == "closed" -%}
+  {{- site.data.hours.closed_phrase -}}
+{%- elsif format == "closed_parenthetical" -%}
+  {{- site.data.hours.closed_parenthetical -}}
+{%- endif -%}

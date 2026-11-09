@@ -1,3 +1,8 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+---
 # Ryu Clinic
 
 > Evidence-informed acupuncture and herbal medicine clinic in Coquitlam, BC, serving patients from Port Moody and Vancouver. Led by Jiman Ryu (R.TCM.P., R.Ac., CCHPBC-registered).
@@ -9,7 +14,7 @@ Ryu Clinic combines Traditional Chinese Medicine (acupuncture, herbal medicine, 
 - Address: Unit #500 – 3056 Glen Dr, Coquitlam, BC V3B 0V1, Canada
 - Phone: 604-469-2000
 - Email: info@ryu.clinic
-- Hours: Tuesday–Saturday, 10:00am–6:00pm (closed Sunday, Monday, and holidays)
+- Hours: {% include hours-phrase.html format="list" %} ({% include hours-phrase.html format="closed_parenthetical" %})
 - Booking: https://ryu.clinic/booking/
 
 ## Services
