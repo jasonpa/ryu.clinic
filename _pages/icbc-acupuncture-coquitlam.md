@@ -3,7 +3,7 @@ layout: default
 title: "ICBC Acupuncture in Coquitlam – 12 Covered Visits, No Referral"
 description: "Crash in the last 12 weeks? ICBC pre-approves 12 acupuncture visits, no referral needed. Bring your claim number and PHN. $0 out of pocket at Ryu Clinic, Coquitlam."
 permalink: /icbc-acupuncture-coquitlam/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-27
 sitemap:
   priority: 0.8
 ---
@@ -60,6 +60,10 @@ sitemap:
     <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
       Your first visit counts as one of the 12. No referral or ICBC approval needed. <a href="https://icbc.com/claims/injury/accessing-treatment-during-your-first-12-weeks-of-recovery" target="_blank" rel="noopener">ICBC's details</a>.
     </p>
+    <h3>Separate from physiotherapy and chiropractic</h3>
+    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
+      The 12 acupuncture visits are their own pool. They don't use up your 25 pre-approved physiotherapy visits or your 25 pre-approved chiropractic visits. You can combine acupuncture with physio or massage therapy at Momentum Therapeutics or at another clinic.
+    </p>
     <h3>What it costs you at Ryu Clinic</h3>
     <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
       $0. No user fee for ICBC patients. We bill ICBC directly.
@@ -70,6 +74,28 @@ sitemap:
     <h3>Already used some weeks?</h3>
     <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
       Your 12 weeks start on your crash date, not your first visit. Start six weeks after your crash and you have six weeks left, which makes fitting in 12 visits hard.
+    </p>
+  </section>
+
+  <section id="symptoms" style="margin-bottom:56px;">
+    <div class="section-head">
+      <p class="section-num">Symptoms</p>
+      <h2 class="section-title">Car accident treatment in Coquitlam: symptoms we see</h2>
+    </div>
+    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
+      Pain after a crash often shows up days or weeks later. These are common reasons people book acupuncture during ICBC recovery:
+    </p>
+    <ul>
+      <li><strong>Whiplash and neck stiffness:</strong> a tight, sore or restricted neck, often with pain across the shoulders.</li>
+      <li><strong>Neck and shoulder tension:</strong> muscle guarding that builds up after the impact.</li>
+      <li><strong>Lower back strain:</strong> aching or stiffness from the sudden jolt, especially when sitting or driving.</li>
+      <li><strong>Post-concussion headaches:</strong> headaches that follow a head knock or whiplash, once a doctor has assessed you.</li>
+      <li><strong>Dizziness:</strong> feeling unsteady or lightheaded. Tell your doctor first if it is new or getting worse.</li>
+      <li><strong>Sleep disruption:</strong> trouble falling asleep or staying asleep because of pain or discomfort.</li>
+      <li><strong>Nervous system stress:</strong> feeling wired, tense or on edge after the crash.</li>
+    </ul>
+    <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
+      Acupuncture is one part of recovery and works best alongside the care your doctor and other practitioners recommend. We assess your symptoms at the first visit and tailor treatment from there. Read more: <a href="/guides/whiplash-neck-pain-headache/">whiplash, neck pain and headaches</a>, <a href="/guides/lower-back-pain-car-accident/">lower back pain after a car accident</a>, and <a href="/guides/delayed-pain-after-car-accident/">delayed pain after a car accident</a>.
     </p>
   </section>
 
@@ -125,7 +151,7 @@ sitemap:
       <h2 class="section-title">Working with your physio, chiro or massage therapist</h2>
     </div>
     <p style="font-family:var(--serif);font-size:16px;color:var(--dark-warm);">
-      We work alongside Momentum Therapeutics' other practitioners. <a href="/guides/combining-therapies-icbc-recovery/">More on combining therapies</a>.
+      We work alongside Momentum Therapeutics' other practitioners. Your 12 acupuncture visits are a separate pool from your 25 physiotherapy and 25 chiropractic visits, so you can add acupuncture to physio, chiropractic or massage care without giving any of those up. <a href="/guides/combining-therapies-icbc-recovery/">More on combining therapies</a>.
     </p>
   </section>
 
@@ -170,6 +196,14 @@ sitemap:
       <div class="faq-pair">
         <dt>Can I switch to Ryu Clinic from another clinic during my ICBC claim?</dt>
         <dd>Yes. If you have pre-approved visits left and you're within 12 weeks of your crash date, we can see you. Bring your claim number and PHN. Past 12 weeks? Call us first.</dd>
+      </div>
+      <div class="faq-pair">
+        <dt>Can I combine acupuncture with physiotherapy or chiropractic under ICBC?</dt>
+        <dd>Yes. Under Enhanced Care, the 12 acupuncture visits are a separate pool from the 25 physiotherapy and 25 chiropractic visits. Using one doesn't reduce the others, so you can see a physio, chiropractor or massage therapist at Momentum Therapeutics or elsewhere alongside acupuncture.</dd>
+      </div>
+      <div class="faq-pair">
+        <dt>What car accident symptoms can acupuncture help with?</dt>
+        <dd>People commonly come in with whiplash, neck and shoulder stiffness, lower back strain, post-concussion headaches, dizziness, poor sleep and ongoing tension after a crash. Acupuncture is one part of recovery, and we assess your symptoms at the first visit. If a symptom is new, severe or getting worse, see a doctor first.</dd>
       </div>
     </dl>
   </section>
@@ -244,6 +278,22 @@ sitemap:
             "@type": "Answer",
             "text": "Yes. If you have pre-approved visits left and you're within 12 weeks of your crash date, we can see you. Bring your claim number and PHN. Past 12 weeks? Call us first."
           }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I combine acupuncture with physiotherapy or chiropractic under ICBC?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Under Enhanced Care, the 12 acupuncture visits are a separate pool from the 25 physiotherapy and 25 chiropractic visits. Using one doesn't reduce the others, so you can see a physio, chiropractor or massage therapist at Momentum Therapeutics or elsewhere alongside acupuncture."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What car accident symptoms can acupuncture help with?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "People commonly come in with whiplash, neck and shoulder stiffness, lower back strain, post-concussion headaches, dizziness, poor sleep and ongoing tension after a crash. Acupuncture is one part of recovery, and we assess your symptoms at the first visit. If a symptom is new, severe or getting worse, see a doctor first."
+          }
         }
       ]
     },
@@ -254,7 +304,7 @@ sitemap:
       "name": "ICBC Acupuncture in Coquitlam: 12 Covered Visits, No Referral, $0 at Our Clinic",
       "inLanguage": "en-CA",
       "about": { "@type": "Thing", "name": "ICBC acupuncture" },
-      "lastReviewed": "2026-10-28",
+      "lastReviewed": "2026-11-27",
       "reviewedBy": { "@id": "https://ryu.clinic/#jiman-ryu" },
       "publisher": { "@id": "https://ryu.clinic/#clinic" }
     }
