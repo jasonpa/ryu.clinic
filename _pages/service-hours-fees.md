@@ -41,7 +41,7 @@ If you are not available to come during the regular hours, please contact us. Wi
 | **Subsequent Visit 30**                    | 30m      | $85  +GST |
 -->
 
-### ICBC MVA(Motor Vihecle Accidient) Treatment ###
+### ICBC MVA (Motor Vehicle Accident) Treatment ###
 
 This treatment is specially designed for MVA(Motor Vehicle Accident) injuries covered by ICBC. The treatment fees that ICBC will cover for care and treatment after a crash. 
 

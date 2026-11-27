@@ -22,7 +22,7 @@ Ryu Clinic operates at Momentum Therapeutics in Coquitlam, serving patients from
 
 **Parking**: Ample free parking available on-site. Easy access from the parking lot to the clinic entrance.
 
-**Transit**: Served by several bus routes. [Insert specific transit information]
+**Transit**: The clinic is across from Coquitlam Centre and near Lafarge Lake–Douglas SkyTrain Station (Millennium Line).
 
 **Accessibility**: Ground-level access, wheelchair accessible.
 
@@ -30,7 +30,7 @@ Ryu Clinic operates at Momentum Therapeutics in Coquitlam, serving patients from
 
 ## How to book your first appointment
 
-**Online booking (recommended)**: Visit ryu.clinic and click "Book Online" or go directly to JaneApp. Choose an available time and provide basic information.
+**Online booking (recommended)**: Visit ryu.clinic and click "Book Online" or go directly to [our JaneApp booking page](https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139). Choose an available time and provide basic information.
 
 **Phone booking**: Call 604-469-2000 to speak with someone directly. This is helpful if you have questions about your specific situation, insurance, or ICBC claims.
 
@@ -71,7 +71,7 @@ Ryu Clinic operates at Momentum Therapeutics in Coquitlam, serving patients from
 **General inquiries**: info@ryu.clinic
 
 **Website**: ryu.clinic  
-**Online booking**: [Insert JaneApp link]
+**Online booking**: [Book on JaneApp](https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139)
 
 We're committed to making your first visit comfortable, informative, and the beginning of your journey toward better health. Book online today or call to get started.
 
